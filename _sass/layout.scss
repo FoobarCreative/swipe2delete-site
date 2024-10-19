@@ -11,8 +11,7 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top;
-	border-radius: 0px 0px 40px 40px;
-
+	//border-radius: 0px 0px 40px 40px;
 }
 
 .headerBackground {
@@ -530,6 +529,10 @@ nav > ul li a:active {
 	color: $feature-text-color;
 	margin-top: 8px;
 	line-height: 1.5;
+}
+
+.circularImage {
+	border-radius: 50%; /* Makes the image circular */
 }
 
 @media only screen and (max-width: 992px) {

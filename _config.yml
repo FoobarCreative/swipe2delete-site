@@ -1,97 +1,103 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Swipe2delete                              # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 6464102619                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_icon                                  : assets/appicon512.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Swipe2delete                               # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_subtitle                              : Clean up your camera roll
+app_price                                 : " "                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Swipe2delete makes cleaning up your camera roll simple and fun! Swipe right to keep, left to delete—organize your photos one month at a time or relive memories with the "On This Day" feature. No clutter, just your best moments.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
-facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+your_name                                 : Foobar Creative                                
+your_link                                 : https://foobarcreative.com                     
+your_city                                 : Adelaide, Australia                                
+email_address                             : support@swipe2delete.com
+facebook_username                         : swipe2delete                                          
+instagram_username                        : swipe2delete
+twitter_username                          : swipe2delete
+github_username                           : 
 youtube_username                          :
-mastodon_link                             : https://mastodon.social/@ebaehr
+mastodon_link                             : 
+tiktok_username                           : swipe2delete
+# TODO: TikTok
 
-
+# Font Awesome v5 Icons used: https://fontawesome.com/v5/search
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Swipe to Organize
+    description                           : Easily clean up your camera roll by swiping left to delete or right to keep. A simple and efficient way to declutter your photos.
+    fontawesome_icon_name                 : hand-pointer
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Monthly Cleanup
+    description                           : Tackle your photos one month at a time, keeping things organized and manageable. Your progress is saved with each batch.
+    fontawesome_icon_name                 : calendar-alt
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : On This Day Memories
+    description                           : Relive special moments with the “On This Day” feature, bringing back photos from past years to review and organize.
+    fontawesome_icon_name                 : history
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Undo Mistakes
+    description                           : Made a mistake? No worries! Tap to undo any action and bring back a photo you accidentally deleted.
+    fontawesome_icon_name                 : undo-alt
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Final Review
+    description                           : Before you’re done, get a final look at the photos you’re keeping and deleting, allowing for last-minute changes.
+    fontawesome_icon_name                 : eye
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : Progress Tracker
+    description                           : Keep track of your cleanup journey with a progress wheel, showing how much you’ve sorted through and what’s left.
+    fontawesome_icon_name                 : check-circle
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : #Smart App Banner
+    description                           : #Display a smart app banner on iOS devices.
+    fontawesome_icon_name                 : #arrow-alt-circle-down
+
+  - title                                 : #Social Links
+    description                           : #Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : #link
+
+  - title                                 : #FontAwesome Support
+    description                           : #Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : #info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
-
+# Style
+default_primary                           : "#883DD0"
+dark_primary                              : "#550a9d"
+accent                                    : "#feb937"
 
 # Theme Settings
-topbar_color                              : "#000000"
+topbar_color                              : "#C2185B"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_image                               : assets/luke-chesser-eICUFSeirc0-unsplash.jpg                    # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#000000"
+cover_overlay_transparency                : 0.2
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : coral                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : dark_primary #  "#1d63ea"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -100,13 +106,14 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#E91E63"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#666666"
+
 
 
 

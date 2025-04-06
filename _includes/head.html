@@ -14,6 +14,9 @@
 		<meta name="apple-itunes-app" content="app-id={{ site.ios_app_id }}">
 	{% endif %}
 
+	<meta property="og:image" content="{{ page.og_image | default: site.og_image }}">
+	<meta property="og:image:alt" content="{{ page.og_image_alt | default: 'Swipe2delete - Clean up your camera roll' }}">
+
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 	<link rel="stylesheet" href="{{ '/main.css' | relative_url }}">
 </head>

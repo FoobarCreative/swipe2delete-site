@@ -43,4 +43,4 @@ You have a right to access your personal information, subject to exceptions allo
 
 ### Contacting us
 
-_Foobar Creative_ welcomes your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy and would like further information, please [contact us via email](mailto:support@swipe2delete.app).
+_Foobar Creative_ welcomes your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy and would like further information, please [contact us via email](mailto:support@swipe2delete.com).

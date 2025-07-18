@@ -133,6 +133,10 @@ footer_text_color                         : "#666666"
 ### Jekyll Configuration. No need to touch this. ###
 ####################################################
 
+# Site URL for absolute URLs
+url: "https://swipe2delete.com"
+baseurl: ""
+
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :compressed # You might prefer to minify using :compressed

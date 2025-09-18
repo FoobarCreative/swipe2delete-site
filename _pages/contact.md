@@ -5,8 +5,14 @@ permalink: /contact
 comments: false
 ---
 
-<form action="https://formspree.io/f/xgveyawq" method="POST">    
-<p class="mb-4">Send us a message. We will reply as soon as possible!</p>
+# Contact Us
+We'd love to hear from you! 
+
+Whether you have questions, feedback, or need support, we're here to help. Fill out the form below and we'll respond promptly.
+
+<br>
+
+<form action="https://formspree.io/f/{{ site.formspree_form_id }}" method="POST">
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Name*" required>
@@ -17,5 +23,7 @@ comments: false
 </div>
 
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
-<input class="btn btn-dark" type="submit" value="Send">
+<input class="btn btn-dark" type="submit" value="Send Message">
 </form>
+
+<br>

@@ -21,12 +21,12 @@ app_description                           : |
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 og_image                                  : assets/s2d_ogimage.jpg                    # The default open graph image
 
-
 # Information About Yourself
 your_name                                 : Foobar Creative                                
 your_link                                 : https://foobarcreative.com                     
 your_city                                 : Adelaide, Australia                                
 email_address                             : support@swipe2delete.com
+formspree_form_id                         : xgveyawq                                 # Enter your Formspree form ID here
 facebook_username                         : swipe2delete                                          
 instagram_username                        : swipe2delete
 twitter_username                          : swipe2delete
@@ -99,7 +99,7 @@ device_color                              : coral                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : dark_primary #  "#1d63ea"
+link_color                                : "#550a9d" #  "#1d63ea"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"

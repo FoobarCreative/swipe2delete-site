@@ -148,8 +148,9 @@ sass:
 exclude:
   - LICENSE
   - README.md
+  - CNAME  
   - CLAUDE.md
-  - CNAME
+  - _pages/changelog.md
 
 include:
   - ".well-known"

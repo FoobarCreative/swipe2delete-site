@@ -148,6 +148,7 @@ sass:
 exclude:
   - LICENSE
   - README.md
+  - CLAUDE.md
   - CNAME
 
 include:

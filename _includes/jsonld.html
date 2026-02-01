@@ -1,0 +1,24 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "{{ site.app_name }}",
+  "description": "{{ site.app_description | strip_newlines | strip }}",
+  "image": "{{ site.app_icon | absolute_url }}",
+  "url": "{{ site.url }}",
+  "operatingSystem": "iOS",
+  "applicationCategory": "UtilitiesApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": 0,
+    "priceCurrency": "USD"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": {{ site.app_rating_value }},
+    "ratingCount": {{ site.app_rating_count }},
+    "bestRating": 5,
+    "worstRating": 1
+  }
+}
+</script>

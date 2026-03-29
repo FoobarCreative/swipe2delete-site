@@ -141,7 +141,7 @@ footer_text_color                         : "#666666"
 ####################################################
 
 # Site URL for absolute URLs
-url: "https://swipe2delete.com"
+url: "https://www.swipe2delete.com"
 baseurl: ""
 
 # Set the Sass partials directory, as we're using @imports

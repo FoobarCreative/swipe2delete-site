@@ -2,6 +2,8 @@
 layout: page
 title: Press Kit
 permalink: /press-kit
+redirect_from:
+  - /press-kit/
 comments: false
 include_in_header: false
 include_in_footer: true

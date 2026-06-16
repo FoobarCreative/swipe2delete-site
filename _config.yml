@@ -21,6 +21,7 @@ app_description                           : |
   Swipe2delete makes cleaning up your camera roll simple and fun! Swipe right to keep, left to delete—organize your photos one month at a time.
   No clutter, just your best moments.
 
+app_category                              : UtilitiesApplication                      # Schema.org applicationCategory for structured data (e.g. UtilitiesApplication, MultimediaApplication, DesignApplication, LifestyleApplication, BrowserApplication).
 # App Store Rating (for structured data / rich results)
 app_rating_value                          : 4.6
 app_rating_count                          : 52

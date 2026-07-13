@@ -4,9 +4,6 @@ short_title: "Empty Recently Deleted"
 description: "Deleted photos keep using storage for 30 days in the Recently Deleted album. Here's how to empty it and free up space on your iPhone immediately."
 settings_url: "photos-redirect://"
 cta_label: "Open Photos →"
-estimated_savings: "1-10GB"
-difficulty: "Easy"
-time_required: "1 minute"
 date: 2026-07-13
 last_updated: 2026-07-13
 item_id: "empty_recently_deleted"

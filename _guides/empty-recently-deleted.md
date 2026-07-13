@@ -27,22 +27,27 @@ When you delete photos on an iPhone — with Swipe2delete, or any other app, or 
 ### 1. Open the Photos app
 
 Tap the **Photos** icon on your home screen.
+
 ![Photos app on home screen](/assets/guides/empty-recently-deleted/photos.webp)
 
 ### 2. Scroll to Recently Deleted
 
 Scroll down to the **Utilities** section and tap **Recently Deleted**. (On older iOS versions it's under Albums.)
+
 ![Recently Deleted in Utilities](/assets/guides/empty-recently-deleted/recently-deleted.webp)
 
 ### 3. Empty the album
 
 Tap **Select** in the top right, then tap **Delete All** in the bottom left.
+
 ![Select in Recently Deleted](/assets/guides/empty-recently-deleted/select.webp)
+
 ![Delete All in Recently Deleted](/assets/guides/empty-recently-deleted/delete-all.webp)
 
 ### 4. Confirm
 
 Tap **Delete From All Devices** to permanently remove them.
+
 ![Confirm delete photos popup](/assets/guides/empty-recently-deleted/delete-from-all-devices.webp)
 
 ✅ **Done!** The storage is freed up immediately — on your iPhone, and in iCloud if you use iCloud Photos.

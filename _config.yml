@@ -1,5 +1,5 @@
 #page title
-page_title                                : Swipe2delete                              # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : "Swipe2delete — Swipe to Delete Photos & Clean Your Camera Roll"                              # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # Site URL (required for sitemap)
 url                                       : https://www.swipe2delete.com
@@ -8,23 +8,22 @@ url                                       : https://www.swipe2delete.com
 ios_app_id                                : 6464102619                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/us/app/id6464102619?ct=website&pt=1l3vspW               # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    : https://github.com/FoobarCreative/swipe2delete-site/releases/download/1.0/Swipe2delete-Press-Kit.zip
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon512.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Swipe2delete                               # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_subtitle                              : Clean up your camera roll
+app_subtitle                              : Swipe to delete photos & clean your camera roll
 app_price                                 : " "                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : |
-  Swipe2delete makes cleaning up your camera roll simple and fun! Swipe right to keep, left to delete—organize your photos one month at a time.
-  No clutter, just your best moments.
+  Swipe2delete is the fast, fun photo cleaner for iPhone. Swipe left to delete photos, swipe right to keep them — clean up your camera roll one month at a time and free up storage.
 
 app_category                              : UtilitiesApplication                      # Schema.org applicationCategory for structured data (e.g. UtilitiesApplication, MultimediaApplication, DesignApplication, LifestyleApplication, BrowserApplication).
 # App Store Rating (for structured data / rich results)
 app_rating_value                          : 4.6
-app_rating_count                          : 52
+app_rating_count                          : 64
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 og_image                                  : assets/s2d_ogimage.jpg                    # The default open graph image

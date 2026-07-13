@@ -26,7 +26,11 @@ Yes, twice over. Inside the app, tap undo to instantly bring back a photo you ju
 
 ### Does deleting photos free up storage on my iPhone?
 
-Yes. Photos and screenshots are usually one of the biggest things filling up an iPhone. After you clean a month, Swipe2delete shows exactly how much space you saved. For the space to be reclaimed immediately, also empty the Recently Deleted album in the Photos app — otherwise iOS frees it automatically after 30 days.
+Yes. Photos and screenshots are usually one of the biggest things filling up an iPhone. After you clean a month, Swipe2delete shows exactly how much space you saved. For the space to be reclaimed immediately, also [empty the Recently Deleted album](/guides/empty-recently-deleted){:target="_self"} in the Photos app — otherwise iOS frees it automatically after 30 days.
+
+### I deleted photos but there's still no free space — why?
+
+Your photos are deleted, but iOS is holding them for you. Whenever you delete photos on an iPhone — with Swipe2delete or any other app — they go to the **Recently Deleted** album in the Photos app, where they sit for up to 30 days as a safety net. The storage isn't freed until that album is emptied, either automatically after 30 days or manually right now. See our one-minute guide: [how to empty Recently Deleted and free up space immediately](/guides/empty-recently-deleted){:target="_self"}.
 
 ### Will photos be deleted from iCloud too?
 
@@ -85,6 +89,14 @@ Still have a question? [Get in touch](/contact){:target="_self"} — we're happy
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. After you clean a month, Swipe2delete shows exactly how much space you saved. For the space to be reclaimed immediately, also empty the Recently Deleted album in the Photos app — otherwise iOS frees it automatically after 30 days."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I deleted photos but there's still no free space — why?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Deleted photos go to the Recently Deleted album in the Photos app, where they sit for up to 30 days as a safety net — the storage isn't freed until that album is emptied. Empty it manually (Photos → Utilities → Recently Deleted → Select → Delete All) to reclaim the space immediately, or iOS frees it automatically after 30 days."
       }
     },
     {

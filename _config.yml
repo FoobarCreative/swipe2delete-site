@@ -8,7 +8,7 @@ url                                       : https://www.swipe2delete.com
 ios_app_id                                : 6464102619                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link                             : https://apps.apple.com/us/app/id6464102619?ct=website&pt=1l3vspW               # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/app/apple-store/id6464102619?pt=690249&ct=website&mt=8  # Campaign link from App Store Connect; ct is swapped per page section in templates.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    : https://github.com/FoobarCreative/swipe2delete-site/releases/download/1.0/Swipe2delete-Press-Kit.zip
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").

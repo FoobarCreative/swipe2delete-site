@@ -1,0 +1,66 @@
+title: Domande frequenti
+description: "Risposte alle domande più comuni su Swipe2delete: come funziona l'eliminazione delle foto con uno scorrimento, recuperare foto eliminate, liberare spazio su iPhone e iCloud, privacy e prezzi."
+outro: Hai un'altra domanda? [Scrivici](/contact){:target="_self"}, saremo felici di aiutarti.
+items:
+  - q: Come funziona Swipe2delete?
+    a: >-
+      Swipe2delete ti mostra il rullino una foto alla volta, un mese alla volta. Scorri a
+      sinistra per eliminare una foto e a destra per conservarla. Alla fine di una
+      sessione rivedi tutto ciò che hai contrassegnato per l'eliminazione prima che
+      qualcosa venga rimosso. Sistemare migliaia di foto diventa rapido e, onestamente,
+      persino divertente.
+  - q: Swipe2delete è gratuito?
+    a: >-
+      Swipe2delete si scarica e si prova gratis. Premium sblocca la pulizia illimitata, a
+      scelta con un abbonamento o con un unico acquisto a vita, così non sei mai obbligato
+      a un pagamento ricorrente per tenere in ordine il rullino.
+  - q: Posso recuperare le foto eliminate per sbaglio?
+    a: >-
+      Sì, in due modi. Nell'app, tocca annulla per riavere subito la foto che hai appena
+      scartato. E poiché Swipe2delete usa la libreria foto di Apple, tutto ciò che elimini
+      finisce nell'album **Eliminati di recente** dell'app Foto, dove resta fino a 30
+      giorni prima della rimozione definitiva. Apri Foto → Album → Eliminati di recente
+      per ripristinare le foto in qualsiasi momento entro quel periodo.
+  - q: Eliminare le foto libera spazio sul mio iPhone?
+    a: >-
+      Sì. Foto e screenshot sono di solito tra le cose che riempiono di più un iPhone.
+      Dopo aver ripulito un mese, Swipe2delete ti mostra esattamente quanto spazio hai
+      recuperato. Per riavere lo spazio subito, svuota anche l'album [Eliminati di
+      recente](/guides/empty-recently-deleted){:target="_self"} nell'app Foto. Altrimenti
+      iOS lo libera automaticamente dopo 30 giorni.
+  - q: Ho eliminato delle foto ma lo spazio libero non aumenta. Perché?
+    a: >-
+      Le tue foto sono eliminate, ma iOS le conserva ancora per te. Quando elimini foto su
+      iPhone, con Swipe2delete o con qualsiasi altra app, finiscono nell'album **Eliminati
+      di recente** dell'app Foto, dove restano fino a 30 giorni come rete di sicurezza. Lo
+      spazio si libera solo quando quell'album viene svuotato, automaticamente dopo 30
+      giorni oppure manualmente subito. Ecco la nostra guida da un minuto: [come svuotare
+      Eliminati di recente e liberare spazio
+      all'istante](/guides/empty-recently-deleted){:target="_self"}.
+  - q: Le foto vengono eliminate anche da iCloud?
+    a: >-
+      Se usi Foto di iCloud, la tua libreria resta sincronizzata, quindi una foto
+      eliminata con Swipe2delete viene rimossa anche da iCloud e dagli altri tuoi
+      dispositivi (dopo il periodo di Eliminati di recente). Ripulire il rullino libera
+      quindi anche spazio iCloud e può evitarti di pagare un piano più grande.
+  - q: Le mie foto restano private? Swipe2delete le carica da qualche parte?
+    a: >-
+      Le tue foto non lasciano mai il tuo dispositivo. Swipe2delete lavora direttamente
+      con la libreria foto del tuo iPhone. Nessun account e nessun caricamento delle tue
+      foto su alcun server. Per i dettagli, consulta la nostra [informativa sulla
+      privacy](/privacy-policy){:target="_self"}.
+  - q: Qual è il modo più veloce per ripulire un rullino enorme?
+    a: >-
+      Non provare a fare tutto in una volta. È così che le pulizie vengono abbandonate.
+      Swipe2delete divide la libreria in mesi, così puoi sistemarne uno ogni volta che hai
+      un minuto libero. I progressi vengono salvati mese per mese, una ruota di
+      avanzamento mostra a che punto sei e la funzione **Questo giorno** ripropone le foto
+      degli anni passati, così anche il disordine vecchio viene sistemato.
+  - q: Che differenza c'è rispetto a eliminare le foto nell'app Foto?
+    a: >-
+      L'app Foto ti costringe a selezionare ogni foto una per una, è facile toccare quella
+      sbagliata e non c'è una fase di revisione. Swipe2delete è fatto per un solo compito:
+      decidere in fretta se conservare o eliminare. Uno scorrimento per foto, un pulsante
+      annulla, una revisione finale prima di eliminare qualsiasi cosa e il monitoraggio
+      dei progressi per arrivare davvero in fondo. Con l'app sono già state eliminate
+      oltre 27 milioni di foto.

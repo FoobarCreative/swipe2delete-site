@@ -12,10 +12,16 @@
 	<link rel="canonical" href="{{ page.url | absolute_url }}">
 	{% if page.translated %}
 	<!-- Language alternates -->
-	<link rel="alternate" hreflang="x-default" href="{{ '/' | absolute_url }}">
-	<link rel="alternate" hreflang="en" href="{{ '/' | absolute_url }}">
+	{% assign i18n_suffix = page.url %}
+	{% if page.lang %}
+		{% assign i18n_prefix = '/' | append: page.lang %}
+		{% assign i18n_suffix = page.url | remove_first: i18n_prefix %}
+	{% endif %}
+	{% if i18n_suffix == '' %}{% assign i18n_suffix = '/' %}{% endif %}
+	<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ i18n_suffix }}">
+	<link rel="alternate" hreflang="en" href="{{ site.url }}{{ i18n_suffix }}">
 	{% for locale in site.data.i18n %}
-	<link rel="alternate" hreflang="{{ locale[1].hreflang | default: locale[0] }}" href="{{ site.url }}/{{ locale[0] }}/">
+	<link rel="alternate" hreflang="{{ locale[1].hreflang | default: locale[0] }}" href="{{ site.url }}/{{ locale[0] }}{{ i18n_suffix }}">
 	{% endfor %}
 	{% endif %}
 

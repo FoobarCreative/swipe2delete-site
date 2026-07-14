@@ -1,0 +1,62 @@
+title: Frequently Asked Questions
+description: "Answers to common questions about Swipe2delete: how swipe to delete photos works, recovering deleted photos, freeing up iPhone and iCloud storage, privacy, and pricing."
+outro: Still have a question? [Get in touch](/contact){:target="_self"} and we'll be happy to help.
+items:
+  - q: How does Swipe2delete work?
+    a: >-
+      Swipe2delete shows you your camera roll one photo at a time, one month at a time.
+      Swipe left to delete a photo, swipe right to keep it. When you finish a batch, you
+      get a final review of everything you marked for deletion before anything is removed.
+      It turns cleaning up thousands of photos into something quick and, honestly, kind of fun.
+  - q: Is Swipe2delete free?
+    a: >-
+      Swipe2delete is free to download and try. Premium unlocks unlimited cleaning, and you
+      can choose between a subscription or a single one-time lifetime purchase, so you're
+      never locked into a recurring payment to keep your camera roll clean.
+  - q: Can I recover photos I deleted by accident?
+    a: >-
+      Yes, twice over. Inside the app, tap undo to instantly bring back a photo you just
+      swiped away. And because Swipe2delete uses Apple's photo library, anything deleted
+      goes to the **Recently Deleted** album in the Photos app, where it stays for up to
+      30 days before being permanently removed. Open Photos → Albums → Recently Deleted
+      to restore photos anytime in that window.
+  - q: Does deleting photos free up storage on my iPhone?
+    a: >-
+      Yes. Photos and screenshots are usually one of the biggest things filling up an
+      iPhone. After you clean a month, Swipe2delete shows exactly how much space you saved.
+      For the space to be reclaimed immediately, also [empty the Recently Deleted
+      album](/guides/empty-recently-deleted){:target="_self"} in the Photos app. Otherwise
+      iOS frees it automatically after 30 days.
+  - q: I deleted photos but there's still no free space. Why?
+    a: >-
+      Your photos are deleted, but iOS is holding them for you. Whenever you delete photos
+      on an iPhone, with Swipe2delete or any other app, they go to the **Recently Deleted**
+      album in the Photos app, where they sit for up to 30 days as a safety net. The
+      storage isn't freed until that album is emptied, either automatically after 30 days
+      or manually right now. See our one-minute guide: [how to empty Recently Deleted and
+      free up space immediately](/guides/empty-recently-deleted){:target="_self"}.
+  - q: Will photos be deleted from iCloud too?
+    a: >-
+      If you use iCloud Photos, your library stays in sync, so a photo you delete with
+      Swipe2delete is removed from iCloud and your other devices as well (after the
+      Recently Deleted period). That means cleaning your camera roll also frees up iCloud
+      storage, which can save you from paying for a bigger iCloud plan.
+  - q: Are my photos private? Does Swipe2delete upload them anywhere?
+    a: >-
+      Your photos never leave your device. Swipe2delete works directly with the photo
+      library on your iPhone. There's no account, and no uploading your photos to anyone's
+      server. See our [privacy policy](/privacy-policy){:target="_self"} for the details.
+  - q: What's the fastest way to clean up a huge camera roll?
+    a: >-
+      Don't try to do it all at once. That's how cleanups get abandoned. Swipe2delete
+      breaks your library into months, so you can knock out one month whenever you have a
+      spare minute. Your progress is saved per month, a progress wheel shows how far
+      you've come, and the **On This Day** feature resurfaces photos from past years so
+      old clutter gets dealt with too.
+  - q: How is this different from deleting photos in the Photos app?
+    a: >-
+      The Photos app makes you tap select on each photo, and it's easy to fat-finger the
+      wrong one with no review step. Swipe2delete is built for exactly one job: deciding
+      keep-or-delete fast. One swipe per photo, an undo button, a final review before
+      anything is deleted, and progress tracking so you actually finish. People have
+      deleted over 27 million photos with it.

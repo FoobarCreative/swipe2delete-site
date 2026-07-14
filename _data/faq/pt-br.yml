@@ -1,0 +1,63 @@
+title: Perguntas frequentes
+description: "Respostas às perguntas mais comuns sobre o Swipe2delete: como funciona apagar fotos deslizando, recuperar fotos apagadas, liberar espaço no iPhone e no iCloud, privacidade e preços."
+outro: Ainda tem dúvidas? [Fale com a gente](/contact){:target="_self"} que teremos prazer em ajudar.
+items:
+  - q: Como o Swipe2delete funciona?
+    a: >-
+      O Swipe2delete mostra sua galeria uma foto de cada vez, um mês de cada vez. Deslize
+      para a esquerda para apagar uma foto e para a direita para mantê-la. Ao terminar uma
+      rodada, você faz uma revisão final de tudo o que marcou para apagar antes de
+      qualquer coisa ser removida. Organizar milhares de fotos fica rápido e, sinceramente,
+      até divertido.
+  - q: O Swipe2delete é gratuito?
+    a: >-
+      O Swipe2delete é gratuito para baixar e experimentar. O Premium libera a limpeza
+      ilimitada, e você escolhe entre uma assinatura ou uma compra vitalícia única, então
+      nunca fica preso a um pagamento recorrente para manter sua galeria em ordem.
+  - q: Posso recuperar fotos apagadas sem querer?
+    a: >-
+      Sim, em dobro. No app, toque em desfazer para trazer de volta na hora a foto que
+      você acabou de descartar. E como o Swipe2delete usa a fototeca da Apple, tudo o que
+      é apagado vai para o álbum **Apagados** do app Fotos, onde fica por até 30 dias
+      antes de ser removido em definitivo. Abra Fotos → Álbuns → Apagados para restaurar
+      fotos a qualquer momento nesse período.
+  - q: Apagar fotos libera espaço no meu iPhone?
+    a: >-
+      Sim. Fotos e capturas de tela costumam ser o que mais enche um iPhone. Depois de
+      limpar um mês, o Swipe2delete mostra exatamente quanto espaço você economizou. Para
+      recuperar o espaço imediatamente, esvazie também o álbum
+      [Apagados](/guides/empty-recently-deleted){:target="_self"} no app Fotos. Caso
+      contrário, o iOS libera o espaço automaticamente após 30 dias.
+  - q: Apaguei fotos mas continuo sem espaço livre. Por quê?
+    a: >-
+      Suas fotos foram apagadas, mas o iOS ainda as guarda para você. Quando você apaga
+      fotos no iPhone, com o Swipe2delete ou qualquer outro app, elas vão para o álbum
+      **Apagados** do app Fotos, onde ficam por até 30 dias como rede de segurança. O
+      espaço só é liberado quando esse álbum é esvaziado, automaticamente após 30 dias ou
+      manualmente agora mesmo. Veja nosso guia de um minuto: [como esvaziar o álbum
+      Apagados e liberar espaço na hora](/guides/empty-recently-deleted){:target="_self"}.
+  - q: As fotos também são apagadas do iCloud?
+    a: >-
+      Se você usa o Fotos do iCloud, sua fototeca fica sincronizada, então uma foto
+      apagada com o Swipe2delete também é removida do iCloud e dos seus outros aparelhos
+      (após o período do álbum Apagados). Ou seja, limpar a galeria também libera espaço
+      no iCloud, o que pode evitar que você pague por um plano maior.
+  - q: Minhas fotos são privadas? O Swipe2delete envia elas para algum lugar?
+    a: >-
+      Suas fotos nunca saem do seu aparelho. O Swipe2delete trabalha direto com a fototeca
+      do seu iPhone. Não há conta nem envio das suas fotos para servidor nenhum. Veja
+      nossa [política de privacidade](/privacy-policy){:target="_self"} para os detalhes.
+  - q: Qual é o jeito mais rápido de limpar uma galeria gigante?
+    a: >-
+      Não tente fazer tudo de uma vez. É assim que as limpezas são abandonadas. O
+      Swipe2delete divide sua fototeca em meses, então você resolve um mês sempre que
+      tiver um minutinho. Seu progresso é salvo por mês, uma roda de progresso mostra o
+      quanto você já avançou, e o recurso **Neste dia** resgata fotos de anos passados
+      para a bagunça antiga também ser resolvida.
+  - q: Qual a diferença de apagar fotos no app Fotos?
+    a: >-
+      O app Fotos obriga você a selecionar cada foto uma a uma, é fácil tocar na errada e
+      não existe etapa de revisão. O Swipe2delete foi feito para uma única tarefa: decidir
+      rápido entre manter ou apagar. Um deslize por foto, um botão de desfazer, uma
+      revisão final antes de apagar qualquer coisa e um acompanhamento de progresso para
+      você realmente terminar. Mais de 27 milhões de fotos já foram apagadas com ele.

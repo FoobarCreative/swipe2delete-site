@@ -1,0 +1,67 @@
+title: Häufig gestellte Fragen
+description: "Antworten auf häufige Fragen zu Swipe2delete: wie das Löschen von Fotos per Wisch funktioniert, gelöschte Fotos wiederherstellen, Speicherplatz auf iPhone und in iCloud freigeben, Datenschutz und Preise."
+outro: Noch eine Frage? [Schreib uns](/contact){:target="_self"}, wir helfen gerne weiter.
+items:
+  - q: Wie funktioniert Swipe2delete?
+    a: >-
+      Swipe2delete zeigt dir deine Kamerarolle Foto für Foto, Monat für Monat. Wische nach
+      links, um ein Foto zu löschen, und nach rechts, um es zu behalten. Am Ende eines
+      Durchgangs siehst du noch einmal alles, was du zum Löschen markiert hast, bevor
+      etwas entfernt wird. So wird das Aufräumen von tausenden Fotos schnell erledigt und
+      macht ehrlich gesagt sogar Spaß.
+  - q: Ist Swipe2delete kostenlos?
+    a: >-
+      Swipe2delete kannst du kostenlos laden und ausprobieren. Premium schaltet
+      unbegrenztes Aufräumen frei, wahlweise als Abo oder als einmaliger Lifetime-Kauf.
+      Du musst also kein Dauerabo abschließen, um deine Kamerarolle sauber zu halten.
+  - q: Kann ich versehentlich gelöschte Fotos wiederherstellen?
+    a: >-
+      Ja, sogar doppelt. In der App tippst du auf Rückgängig und holst ein gerade
+      weggewischtes Foto sofort zurück. Und weil Swipe2delete mit der Apple-Fotomediathek
+      arbeitet, landet alles Gelöschte im Album **Zuletzt gelöscht** der Fotos-App, wo es
+      bis zu 30 Tage bleibt, bevor es endgültig entfernt wird. Öffne Fotos → Alben →
+      Zuletzt gelöscht, um Fotos in diesem Zeitraum jederzeit wiederherzustellen.
+  - q: Schafft das Löschen von Fotos freien Speicherplatz auf meinem iPhone?
+    a: >-
+      Ja. Fotos und Screenshots gehören meist zu den größten Speicherfressern auf dem
+      iPhone. Nach jedem aufgeräumten Monat zeigt dir Swipe2delete genau, wie viel Platz
+      du gespart hast. Damit der Speicher sofort frei wird, leere zusätzlich das Album
+      [Zuletzt gelöscht](/guides/empty-recently-deleted){:target="_self"} in der
+      Fotos-App. Andernfalls gibt iOS den Platz automatisch nach 30 Tagen frei.
+  - q: Ich habe Fotos gelöscht, aber es gibt immer noch keinen freien Speicher. Warum?
+    a: >-
+      Deine Fotos sind gelöscht, aber iOS bewahrt sie noch für dich auf. Wenn du auf dem
+      iPhone Fotos löschst, ob mit Swipe2delete oder einer anderen App, wandern sie ins
+      Album **Zuletzt gelöscht** der Fotos-App und bleiben dort bis zu 30 Tage als
+      Sicherheitsnetz. Der Speicher wird erst frei, wenn dieses Album geleert wird,
+      entweder automatisch nach 30 Tagen oder sofort von Hand. Hier ist unsere
+      Ein-Minuten-Anleitung: [so leerst du "Zuletzt gelöscht" und schaffst sofort freien
+      Speicherplatz](/guides/empty-recently-deleted){:target="_self"}.
+  - q: Werden Fotos auch aus iCloud gelöscht?
+    a: >-
+      Wenn du iCloud-Fotos nutzt, bleibt deine Mediathek synchron. Ein mit Swipe2delete
+      gelöschtes Foto wird also auch aus iCloud und von deinen anderen Geräten entfernt
+      (nach Ablauf der "Zuletzt gelöscht"-Frist). Das Aufräumen der Kamerarolle schafft
+      damit auch freien iCloud-Speicher und kann dir ein größeres iCloud-Abo ersparen.
+  - q: Sind meine Fotos privat? Lädt Swipe2delete sie irgendwohin hoch?
+    a: >-
+      Deine Fotos verlassen dein Gerät nie. Swipe2delete arbeitet direkt mit der
+      Fotomediathek auf deinem iPhone. Es gibt kein Konto und kein Hochladen deiner Fotos
+      auf irgendeinen Server. Details findest du in unserer
+      [Datenschutzerklärung](/privacy-policy){:target="_self"}.
+  - q: Wie räume ich eine riesige Kamerarolle am schnellsten auf?
+    a: >-
+      Versuche nicht, alles auf einmal zu schaffen. Genau daran scheitern die meisten
+      Aufräumaktionen. Swipe2delete teilt deine Mediathek in Monate auf, sodass du
+      zwischendurch immer mal einen Monat erledigen kannst. Dein Fortschritt wird pro
+      Monat gespeichert, ein Fortschrittsrad zeigt dir, wie weit du bist, und die Funktion
+      **An diesem Tag** holt Fotos aus vergangenen Jahren hervor, damit auch alter Kram
+      drankommt.
+  - q: Was ist der Unterschied zum Löschen in der Fotos-App?
+    a: >-
+      In der Fotos-App musst du jedes Foto einzeln antippen, vertippst dich leicht und
+      hast keine abschließende Kontrolle. Swipe2delete ist für genau eine Aufgabe gebaut:
+      schnell entscheiden, behalten oder löschen. Ein Wisch pro Foto, ein
+      Rückgängig-Knopf, eine finale Überprüfung, bevor etwas gelöscht wird, und eine
+      Fortschrittsanzeige, damit du wirklich fertig wirst. Über 27 Millionen Fotos wurden
+      damit schon gelöscht.

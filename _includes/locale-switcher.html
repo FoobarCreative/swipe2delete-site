@@ -1,0 +1,14 @@
+{% if page.translated %}
+{% assign sw_suffix = page.url %}
+{% if page.lang %}
+	{% assign sw_prefix = '/' | append: page.lang %}
+	{% assign sw_suffix = page.url | remove_first: sw_prefix %}
+{% endif %}
+{% if sw_suffix == '' %}{% assign sw_suffix = '/' %}{% endif %}
+<div class="footerLocales">
+	<a href="{{ sw_suffix | relative_url }}" target="_self">English</a>
+	{% for locale in site.data.i18n %}
+	<a href="/{{ locale[0] }}{{ sw_suffix }}" target="_self">{{ locale[1].lang_name }}</a>
+	{% endfor %}
+</div>
+{% endif %}

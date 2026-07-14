@@ -1,0 +1,21 @@
+lang_name: Norsk bokmål
+hreflang: nb
+page_title: "Swipe2delete: sveip for å slette bilder og rydd opp i kamerarullen"
+app_subtitle: Sveip for å slette bilder og rydd opp i kamerarullen
+app_description: >-
+  Swipe2delete er den raske og morsomme fotoryddeappen for iPhone og iPad.
+  Sveip til venstre for å slette bilder, og sveip til høyre for å beholde dem.
+  Rydd opp i kamerarullen én måned om gangen, og frigjør lagringsplass.
+features:
+  - title: Sveip og rydd opp
+    description: Rydd enkelt opp i kamerarullen ved å sveipe til venstre for å slette eller til høyre for å beholde. En enkel og effektiv måte å rydde i bildene dine på.
+  - title: Månedlig opprydding
+    description: Ta bildene dine én måned om gangen, oversiktlig og overkommelig. Fremgangen din lagres etter hver runde.
+  - title: På denne dagen
+    description: Gjenopplev spesielle øyeblikk. Funksjonen "På denne dagen" henter frem bilder fra tidligere år, så du kan gå gjennom og rydde i dem.
+  - title: Angre feil
+    description: Sveipet du feil? Ingen fare! Trykk på angre, og få straks tilbake et bilde du slettet ved et uhell.
+  - title: Siste gjennomgang
+    description: Før du er ferdig, får du et siste blikk på bildene du beholder og sletter, så du kan ombestemme deg i siste liten.
+  - title: Fremdriftshjul
+    description: Hold oversikt over oppryddingen med fremdriftshjulet, som viser hvor mye du har gått gjennom og hva som gjenstår.

@@ -1,0 +1,66 @@
+title: Časté otázky
+description: "Odpovede na časté otázky o Swipe2delete: ako funguje mazanie fotiek potiahnutím prstom, obnovenie vymazaných fotiek, uvoľnenie úložiska na iPhone a v iCloude, súkromie a ceny."
+outro: Máte ďalšiu otázku? [Napíšte nám](/contact){:target="_self"}, radi pomôžeme.
+items:
+  - q: Ako Swipe2delete funguje?
+    a: >-
+      Swipe2delete vám ukazuje fotogalériu fotku po fotke, mesiac po mesiaci. Potiahnutím
+      doľava fotku vymažete, potiahnutím doprava ju ponecháte. Keď dokončíte dávku, čaká
+      vás záverečná kontrola všetkého, čo ste označili na vymazanie, skôr než sa čokoľvek
+      odstráni. Upratovanie tisícok fotiek je tak rýchlo hotové a úprimne povedané, je to
+      aj celkom zábava.
+  - q: Je Swipe2delete zadarmo?
+    a: >-
+      Swipe2delete si môžete zadarmo stiahnuť a vyskúšať. Premium odomkne neobmedzené
+      upratovanie a môžete si vybrať medzi predplatným a jednorazovým doživotným nákupom.
+      Nikdy sa teda nemusíte zaviazať k opakovaným platbám, aby ste mali vo fotogalérii
+      poriadok.
+  - q: Môžem obnoviť fotky vymazané omylom?
+    a: >-
+      Áno, dokonca dvojako. Priamo v aplikácii klepnite na späť a práve odswipovaná fotka
+      sa okamžite vráti. A keďže Swipe2delete pracuje s knižnicou fotiek od Apple, všetko
+      vymazané putuje do albumu **Nedávno vymazané** v aplikácii Fotky, kde zostáva až
+      30 dní, kým sa natrvalo odstráni. Otvorte Fotky → Albumy → Nedávno vymazané a fotky
+      môžete v tomto období kedykoľvek obnoviť.
+  - q: Uvoľní mazanie fotiek miesto na mojom iPhone?
+    a: >-
+      Áno. Fotky a snímky obrazovky zvyčajne patria k najväčším žrútom miesta na iPhone.
+      Po každom upratanom mesiaci vám Swipe2delete presne ukáže, koľko miesta ste
+      ušetrili. Aby sa miesto uvoľnilo okamžite, [vyprázdnite aj album Nedávno
+      vymazané](/guides/empty-recently-deleted){:target="_self"} v aplikácii Fotky. Inak
+      ho iOS uvoľní automaticky po 30 dňoch.
+  - q: Fotky sú vymazané, ale voľné miesto sa stále neobjavilo. Prečo?
+    a: >-
+      Vaše fotky sú vymazané, ale iOS ich pre vás ešte chvíľu uchováva. Kedykoľvek na
+      iPhone vymažete fotky, či už cez Swipe2delete alebo inú aplikáciu, presunú sa do
+      albumu **Nedávno vymazané** v aplikácii Fotky, kde ako poistka čakajú až 30 dní.
+      Miesto sa uvoľní až po vyprázdnení tohto albumu, buď automaticky po 30 dňoch, alebo
+      hneď ručne. Pozrite si náš minútový návod: [ako vyprázdniť Nedávno vymazané a
+      okamžite uvoľniť miesto](/guides/empty-recently-deleted){:target="_self"}.
+  - q: Vymažú sa fotky aj z iCloudu?
+    a: >-
+      Ak používate iCloud Fotky, vaša knižnica zostáva synchronizovaná. Fotka vymazaná cez
+      Swipe2delete teda zmizne aj z iCloudu a vašich ďalších zariadení (po uplynutí lehoty
+      v albume Nedávno vymazané). Upratovanie fotogalérie tak uvoľní aj úložisko v iCloude
+      a môže vás ušetriť platenia za väčší plán iCloudu.
+  - q: Sú moje fotky v súkromí? Nahráva ich Swipe2delete niekam?
+    a: >-
+      Vaše fotky nikdy neopustia vaše zariadenie. Swipe2delete pracuje priamo s knižnicou
+      fotiek vo vašom iPhone. Žiadny účet neexistuje a vaše fotky sa na nijaký server
+      nenahrávajú. Podrobnosti nájdete v našich [zásadách ochrany
+      súkromia](/privacy-policy){:target="_self"}.
+  - q: Ako najrýchlejšie upratať obrovskú fotogalériu?
+    a: >-
+      Nesnažte sa zvládnuť všetko naraz. Presne tak väčšina upratovaní stroskotá.
+      Swipe2delete rozdelí vašu knižnicu na mesiace, takže môžete jeden mesiac vybaviť,
+      kedykoľvek máte voľnú chvíľu. Postup sa ukladá pre každý mesiac zvlášť, koliesko
+      postupu ukazuje, ako ďaleko ste, a funkcia **V tento deň** pripomína fotky z
+      minulých rokov, takže dôjde aj na staré resty.
+  - q: Ako sa to líši od mazania fotiek v aplikácii Fotky?
+    a: >-
+      V aplikácii Fotky musíte každú fotku zvlášť označiť, ľahko klepnete na nesprávnu a
+      chýba záverečná kontrola. Swipe2delete je postavený presne na jednu úlohu, teda
+      rýchlo sa rozhodnúť, či fotku nechať, alebo vymazať. Jedno potiahnutie na fotku,
+      tlačidlo späť, záverečná kontrola pred vymazaním čohokoľvek a sledovanie postupu,
+      vďaka ktorému upratovanie naozaj dotiahnete do konca. Ľudia s ním vymazali už vyše
+      27 miliónov fotiek.

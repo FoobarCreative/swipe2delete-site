@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 {% assign t = site.data.i18n[page.lang] %}
-<html lang="{{ t.hreflang | default: 'en' }}">
+<html lang="{{ t.hreflang | default: 'en' }}"{% if t.rtl %} dir="rtl"{% endif %}>
 
 {% include head.html %}
 

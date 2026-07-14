@@ -1,0 +1,21 @@
+lang_name: Čeština
+hreflang: cs
+page_title: "Swipe2delete: mažte fotky přejetím prstem a ukliďte si fotogalerii"
+app_subtitle: Mažte fotky přejetím prstem a ukliďte si fotogalerii
+app_description: >-
+  Swipe2delete je rychlý a zábavný pomocník pro úklid fotek na iPhonu a iPadu.
+  Přejeďte doleva pro smazání fotky, doprava pro její ponechání.
+  Ukliďte si fotogalerii měsíc po měsíci a uvolněte úložiště.
+features:
+  - title: Přejeďte a ukliďte
+    description: Ukliďte si fotogalerii jednoduše. Přejetím doleva fotku smažete, přejetím doprava ji ponecháte. Jednoduchý a efektivní způsob, jak si udělat pořádek ve fotkách.
+  - title: Měsíční úklid
+    description: Procházejte fotky měsíc po měsíci, přehledně a zvládnutelně. Váš postup se po každé dávce uloží.
+  - title: Na tento den
+    description: Oživte si výjimečné okamžiky. Funkce "Na tento den" připomíná fotky z minulých let, abyste je mohli projít a uklidit.
+  - title: Vraťte chyby zpět
+    description: Přejeli jste špatně? Žádný problém! Klepněte na zpět a omylem smazaná fotka se okamžitě vrátí.
+  - title: Závěrečná kontrola
+    description: Než skončíte, uvidíte ještě jednou všechny fotky, které si necháváte i mažete, a můžete na poslední chvíli cokoli změnit.
+  - title: Sledování postupu
+    description: Mějte přehled o svém úklidu díky kolečku postupu. Ukazuje, kolik už máte za sebou a co ještě zbývá.

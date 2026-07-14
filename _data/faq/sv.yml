@@ -1,0 +1,64 @@
+title: Vanliga frågor
+description: "Svar på vanliga frågor om Swipe2delete: hur svep för att radera bilder fungerar, återställa raderade bilder, frigöra lagring på iPhone och i iCloud, integritet och priser."
+outro: Har du fler frågor? [Hör av dig](/contact){:target="_self"} så hjälper vi gärna till.
+items:
+  - q: Hur fungerar Swipe2delete?
+    a: >-
+      Swipe2delete visar din kamerarulle en bild i taget, en månad i taget. Svep vänster
+      för att radera en bild och höger för att behålla den. När du är klar med en omgång
+      får du en sista granskning av allt du markerat för radering innan något tas bort.
+      Att rensa tusentals bilder blir plötsligt snabbt gjort och, ärligt talat, riktigt
+      kul.
+  - q: Är Swipe2delete gratis?
+    a: >-
+      Swipe2delete är gratis att ladda ner och prova. Premium låser upp obegränsad
+      rensning, och du kan välja mellan en prenumeration eller ett engångsköp som gäller
+      livet ut. Du behöver alltså aldrig binda dig till en löpande betalning för att hålla
+      kamerarullen ren.
+  - q: Kan jag återställa bilder jag raderat av misstag?
+    a: >-
+      Ja, på två sätt till och med. I appen trycker du på ångra för att direkt få tillbaka
+      en bild du just svept bort. Och eftersom Swipe2delete använder Apples bildbibliotek
+      hamnar allt som raderas i albumet **Senast raderade** i appen Bilder, där det ligger
+      kvar i upp till 30 dagar innan det tas bort permanent. Öppna Bilder → Album → Senast
+      raderade för att återställa bilder när som helst under den perioden.
+  - q: Frigör raderade bilder lagringsutrymme på min iPhone?
+    a: >-
+      Ja. Bilder och skärmavbilder hör oftast till det som tar mest plats på en iPhone.
+      Efter varje rensad månad visar Swipe2delete exakt hur mycket utrymme du sparat. För
+      att utrymmet ska frigöras direkt bör du också [tömma albumet Senast
+      raderade](/guides/empty-recently-deleted){:target="_self"} i appen Bilder. Annars
+      frigör iOS det automatiskt efter 30 dagar.
+  - q: Jag har raderat bilder men har fortfarande inget ledigt utrymme. Varför?
+    a: >-
+      Dina bilder är raderade, men iOS sparar dem åt dig ett tag till. När du raderar
+      bilder på en iPhone, med Swipe2delete eller någon annan app, hamnar de i albumet
+      **Senast raderade** i appen Bilder, där de ligger kvar i upp till 30 dagar som
+      säkerhetsnät. Utrymmet frigörs först när albumet töms, antingen automatiskt efter
+      30 dagar eller manuellt direkt. Läs vår enminutersguide: [så tömmer du Senast
+      raderade och frigör utrymme direkt](/guides/empty-recently-deleted){:target="_self"}.
+  - q: Raderas bilderna även från iCloud?
+    a: >-
+      Om du använder iCloud-bilder hålls ditt bibliotek synkat, så en bild du raderar med
+      Swipe2delete försvinner även från iCloud och dina andra enheter (efter perioden i
+      Senast raderade). Att rensa kamerarullen frigör alltså även iCloud-lagring, vilket
+      kan bespara dig ett större iCloud-abonnemang.
+  - q: Är mina bilder privata? Laddar Swipe2delete upp dem någonstans?
+    a: >-
+      Dina bilder lämnar aldrig din enhet. Swipe2delete arbetar direkt med bildbiblioteket
+      på din iPhone. Det finns inget konto, och dina bilder laddas aldrig upp till någon
+      server. Se vår [integritetspolicy](/privacy-policy){:target="_self"} för detaljerna.
+  - q: Vad är det snabbaste sättet att rensa en enorm kamerarulle?
+    a: >-
+      Försök inte göra allt på en gång. Det är så rensningar rinner ut i sanden.
+      Swipe2delete delar upp ditt bibliotek i månader, så att du kan beta av en månad när
+      du har en stund över. Dina framsteg sparas per månad, ett framstegshjul visar hur
+      långt du kommit, och funktionen **På denna dag** lyfter fram bilder från tidigare år
+      så att även gammalt skräp tas om hand.
+  - q: Hur skiljer det sig från att radera bilder i appen Bilder?
+    a: >-
+      I appen Bilder måste du markera varje bild för sig, det är lätt att trycka fel och
+      det finns inget sista granskningssteg. Swipe2delete är byggd för exakt en sak, att
+      snabbt bestämma behåll eller radera. Ett svep per bild, en ångra-knapp, en sista
+      granskning innan något raderas och framstegsspårning så att du faktiskt blir klar.
+      Över 27 miljoner bilder har redan raderats med appen.

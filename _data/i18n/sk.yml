@@ -1,0 +1,21 @@
+lang_name: Slovenčina
+hreflang: sk
+page_title: "Swipe2delete: mažte fotky potiahnutím prstom a upracte si fotogalériu"
+app_subtitle: Vymažte fotky potiahnutím prstom a upracte si fotogalériu
+app_description: >-
+  Swipe2delete je rýchly a zábavný pomocník na upratovanie fotiek pre iPhone a iPad.
+  Potiahnite doľava na vymazanie fotky, doprava na jej ponechanie.
+  Upracte si fotogalériu mesiac po mesiaci a uvoľnite úložisko.
+features:
+  - title: Potiahnite a upracte
+    description: Upracte si fotogalériu jednoducho. Potiahnutím doľava fotku vymažete, potiahnutím doprava ju ponecháte. Jednoduchý a efektívny spôsob, ako si spraviť poriadok vo fotkách.
+  - title: Mesačné upratovanie
+    description: Prechádzajte fotky mesiac po mesiaci, prehľadne a zvládnuteľne. Váš postup sa po každej dávke uloží.
+  - title: V tento deň
+    description: Oživte si výnimočné okamihy. Funkcia "V tento deň" pripomína fotky z minulých rokov, aby ste si ich mohli prejsť a upratať.
+  - title: Vráťte chyby späť
+    description: Potiahli ste zle? Žiadny problém! Klepnite na späť a omylom vymazaná fotka sa okamžite vráti.
+  - title: Záverečná kontrola
+    description: Skôr než skončíte, uvidíte ešte raz všetky fotky, ktoré si nechávate aj mažete, a môžete na poslednú chvíľu čokoľvek zmeniť.
+  - title: Sledovanie postupu
+    description: Majte prehľad o svojom upratovaní vďaka koliesku postupu. Ukazuje, koľko už máte za sebou a čo ešte zostáva.

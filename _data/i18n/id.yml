@@ -1,0 +1,21 @@
+lang_name: Bahasa Indonesia
+hreflang: id
+page_title: "Swipe2delete: Geser untuk Menghapus Foto dan Merapikan Galeri"
+app_subtitle: Geser untuk menghapus foto dan merapikan galeri Anda
+app_description: >-
+  Swipe2delete adalah pembersih foto yang cepat dan menyenangkan untuk iPhone dan iPad.
+  Geser ke kiri untuk menghapus foto, geser ke kanan untuk menyimpannya.
+  Rapikan galeri foto Anda bulan demi bulan dan bebaskan ruang penyimpanan.
+features:
+  - title: Geser untuk Merapikan
+    description: Bersihkan galeri foto dengan mudah, geser ke kiri untuk menghapus atau ke kanan untuk menyimpan. Cara sederhana dan efisien untuk merapikan foto Anda.
+  - title: Pembersihan Bulanan
+    description: Selesaikan foto Anda satu bulan demi satu bulan, tetap teratur dan mudah dikelola. Progres Anda tersimpan di setiap sesi.
+  - title: Kenangan Pada Hari Ini
+    description: Hidupkan kembali momen istimewa dengan fitur "Pada Hari Ini" yang menghadirkan kembali foto dari tahun-tahun sebelumnya untuk ditinjau dan dirapikan.
+  - title: Urungkan Kesalahan
+    description: Salah geser? Tenang saja! Ketuk untuk mengurungkan tindakan apa pun dan kembalikan foto yang tidak sengaja terhapus.
+  - title: Tinjauan Akhir
+    description: Sebelum selesai, lihat sekali lagi foto yang akan disimpan dan dihapus, jadi Anda masih bisa berubah pikiran di saat terakhir.
+  - title: Pelacak Progres
+    description: Pantau perjalanan bersih-bersih Anda dengan roda progres yang menunjukkan seberapa banyak yang sudah dipilah dan apa yang tersisa.

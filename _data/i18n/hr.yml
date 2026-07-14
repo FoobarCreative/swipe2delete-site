@@ -1,0 +1,21 @@
+lang_name: Hrvatski
+hreflang: hr
+page_title: "Swipe2delete: Brišite fotografije povlačenjem i očistite galeriju"
+app_subtitle: Povucite za brisanje fotografija i očistite galeriju
+app_description: >-
+  Swipe2delete je brz i zabavan čistač fotografija za iPhone i iPad. Povucite
+  ulijevo za brisanje fotografija, udesno za zadržavanje. Očistite galeriju
+  mjesec po mjesec i oslobodite prostor.
+features:
+  - title: Povuci i organiziraj
+    description: Očistite galeriju jednostavno. Povucite ulijevo za brisanje ili udesno za zadržavanje. Jednostavan i učinkovit način da raščistite fotografije.
+  - title: Mjesečno čišćenje
+    description: Rješavajte fotografije mjesec po mjesec, uredno i bez preopterećenja. Napredak se sprema sa svakom rundom.
+  - title: Uspomene „Na ovaj dan”
+    description: Ponovno proživite posebne trenutke. Značajka „Na ovaj dan” vraća fotografije iz proteklih godina da ih pregledate i organizirate.
+  - title: Poništite pogreške
+    description: Pogriješili ste? Bez brige! Dodirnite poništi i odmah vratite slučajno izbrisanu fotografiju.
+  - title: Završna provjera
+    description: Prije kraja bacite posljednji pogled na fotografije koje zadržavate i brišete, uz mogućnost izmjena u zadnji tren.
+  - title: Praćenje napretka
+    description: Pratite čišćenje kotačem napretka koji pokazuje koliko ste prošli i što je preostalo.

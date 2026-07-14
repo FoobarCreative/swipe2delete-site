@@ -1,0 +1,69 @@
+title: Întrebări frecvente
+description: "Răspunsuri la întrebări frecvente despre Swipe2delete: cum funcționează ștergerea pozelor prin glisare, recuperarea pozelor șterse, eliberarea spațiului pe iPhone și în iCloud, confidențialitate și prețuri."
+outro: Mai ai o întrebare? [Scrie-ne](/contact){:target="_self"} și te ajutăm cu drag.
+items:
+  - q: Cum funcționează Swipe2delete?
+    a: >-
+      Swipe2delete îți arată galeria foto câte o poză pe rând, câte o lună pe rând.
+      Glisează la stânga pentru a șterge o poză, la dreapta pentru a o păstra. Când
+      termini o rundă, primești o verificare finală a tot ce ai marcat pentru
+      ștergere, înainte ca ceva să fie eliminat. Astfel, curățarea a mii de poze
+      devine rapidă și, sincer, chiar distractivă.
+  - q: Este Swipe2delete gratuit?
+    a: >-
+      Swipe2delete se descarcă și se încearcă gratuit. Premium deblochează curățare
+      nelimitată și poți alege între un abonament sau o achiziție unică pe viață, așa
+      că nu ești blocat într-o plată recurentă doar ca să îți păstrezi galeria
+      curată.
+  - q: Pot recupera pozele șterse din greșeală?
+    a: >-
+      Da, chiar în două feluri. În aplicație, atinge Anulează pentru a readuce
+      instant o poză pe care tocmai ai glisat-o. Iar pentru că Swipe2delete folosește
+      biblioteca foto Apple, tot ce ștergi ajunge în albumul **Șterse recent** din
+      aplicația Poze, unde rămâne până la 30 de zile înainte de a fi eliminat
+      definitiv. Deschide Poze → Albume → Șterse recent pentru a restaura poze
+      oricând în acest interval.
+  - q: Ștergerea pozelor eliberează spațiu pe iPhone?
+    a: >-
+      Da. Pozele și capturile de ecran sunt de obicei printre cele mai mari lucruri
+      care umplu un iPhone. După ce cureți o lună, Swipe2delete îți arată exact cât
+      spațiu ai economisit. Pentru ca spațiul să fie recuperat imediat, [golește și
+      albumul Șterse recent](/guides/empty-recently-deleted){:target="_self"} din
+      aplicația Poze. Altfel, iOS îl eliberează automat după 30 de zile.
+  - q: Am șters poze, dar tot nu am spațiu liber. De ce?
+    a: >-
+      Pozele tale sunt șterse, dar iOS le păstrează încă pentru tine. Ori de câte ori
+      ștergi poze pe un iPhone, cu Swipe2delete sau cu orice altă aplicație, ele
+      ajung în albumul **Șterse recent** din aplicația Poze, unde stau până la 30 de
+      zile ca plasă de siguranță. Spațiul nu se eliberează până când acest album nu
+      este golit: fie automat după 30 de zile, fie manual chiar acum. Vezi ghidul
+      nostru de un minut: [cum să golești Șterse recent și să eliberezi spațiu
+      imediat](/guides/empty-recently-deleted){:target="_self"}.
+  - q: Pozele vor fi șterse și din iCloud?
+    a: >-
+      Dacă folosești Poze iCloud, biblioteca ta rămâne sincronizată, așa că o poză
+      ștearsă cu Swipe2delete este eliminată și din iCloud, și de pe celelalte
+      dispozitive ale tale (după perioada Șterse recent). Asta înseamnă că, făcând
+      curat în galerie, eliberezi și spațiu în iCloud, ceea ce te poate scuti de
+      plata unui plan iCloud mai mare.
+  - q: Pozele mele sunt private? Le încarcă Swipe2delete undeva?
+    a: >-
+      Pozele tale nu părăsesc niciodată dispozitivul. Swipe2delete lucrează direct cu
+      biblioteca foto de pe iPhone-ul tău. Nu există cont și pozele tale nu se
+      încarcă pe niciun server. Vezi [politica noastră de
+      confidențialitate](/privacy-policy){:target="_self"} pentru detalii.
+  - q: Care este cel mai rapid mod de a curăța o galerie uriașă?
+    a: >-
+      Nu încerca să faci totul dintr-o dată. Așa se abandonează curățeniile.
+      Swipe2delete îți împarte biblioteca pe luni, ca să poți termina o lună ori de
+      câte ori ai un minut liber. Progresul se salvează pentru fiecare lună, o roată
+      de progres îți arată cât ai avansat, iar funcția **În această zi** readuce poze
+      din anii trecuți, ca să scapi și de dezordinea veche.
+  - q: Prin ce diferă de ștergerea pozelor din aplicația Poze?
+    a: >-
+      În aplicația Poze trebuie să atingi și să selectezi fiecare poză în parte, e
+      ușor să nimerești poza greșită și nu există o etapă de verificare finală.
+      Swipe2delete este construit pentru exact o singură treabă: să decizi rapid dacă
+      păstrezi sau ștergi. O glisare per poză, un buton de anulare, o verificare
+      finală înainte ca ceva să fie șters și urmărirea progresului, ca să termini cu
+      adevărat. Oamenii au șters peste 27 de milioane de poze cu el.

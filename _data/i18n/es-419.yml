@@ -1,0 +1,21 @@
+lang_name: Español (Latinoamérica)
+hreflang: es-419
+page_title: "Swipe2delete: desliza para borrar fotos y limpiar tu galería"
+app_subtitle: Desliza para borrar fotos y limpiar tu galería
+app_description: >-
+  Swipe2delete es el limpiador de fotos rápido y divertido para iPhone y iPad.
+  Desliza a la izquierda para borrar fotos y a la derecha para conservarlas.
+  Limpia tu galería mes a mes y libera espacio de almacenamiento.
+features:
+  - title: Desliza para organizar
+    description: Limpia tu galería fácilmente deslizando a la izquierda para borrar o a la derecha para conservar. Una forma simple y eficiente de ordenar tus fotos.
+  - title: Limpieza mensual
+    description: Revisa tus fotos mes a mes, de forma organizada y manejable. Tu progreso se guarda con cada tanda.
+  - title: Recuerdos de "En este día"
+    description: Revive momentos especiales. La función "En este día" recupera fotos de años pasados para revisarlas y organizarlas.
+  - title: Deshacer errores
+    description: ¿Te equivocaste? ¡No hay problema! Toca deshacer y recupera al instante una foto borrada por accidente.
+  - title: Revisión final
+    description: Antes de terminar, da un último vistazo a las fotos que conservas y borras, con margen para cambios de último momento.
+  - title: Seguimiento del progreso
+    description: Controla tu limpieza con la rueda de progreso, que muestra cuánto revisaste y cuánto te falta.

@@ -1,0 +1,70 @@
+title: Dažniausiai užduodami klausimai
+description: "Atsakymai į dažniausius klausimus apie Swipe2delete: kaip veikia nuotraukų trynimas braukiant, kaip atkurti ištrintas nuotraukas, kaip atlaisvinti vietos iPhone ir iCloud saugyklose, privatumas ir kainos."
+outro: Turite dar klausimų? [Parašykite mums](/contact){:target="_self"}, mielai padėsime.
+items:
+  - q: Kaip veikia Swipe2delete?
+    a: >-
+      Swipe2delete rodo jūsų galeriją po vieną nuotrauką, po vieną mėnesį. Braukite
+      kairėn, kad ištrintumėte nuotrauką, ir dešinėn, kad ją pasiliktumėte. Baigus
+      partiją, prieš ką nors pašalinant, gausite galutinę viso to, ką pažymėjote
+      trinti, peržiūrą. Taip tūkstančių nuotraukų tvarkymas tampa greitu ir, tiesą
+      sakant, net smagiu užsiėmimu.
+  - q: Ar Swipe2delete nemokama?
+    a: >-
+      Swipe2delete galima atsisiųsti ir išbandyti nemokamai. Premium atrakina
+      neribotą valymą, o rinktis galite tarp prenumeratos ir vienkartinio pirkimo
+      visam laikui, tad niekada nesate pririšti prie pasikartojančio mokėjimo, kad
+      galerija liktų švari.
+  - q: Ar galiu atkurti netyčia ištrintas nuotraukas?
+    a: >-
+      Taip, net dvigubai. Programoje palieskite atšaukimo mygtuką ir akimirksniu
+      susigrąžinkite ką tik nubrauktą nuotrauką. O kadangi Swipe2delete naudoja
+      Apple nuotraukų biblioteką, viskas, kas ištrinta, patenka į Photos programos
+      albumą **Neseniai ištrinta**, kur išlieka iki 30 dienų, kol pašalinama visam
+      laikui. Atverkite Photos → Albumai → Neseniai ištrinta ir per tą laikotarpį
+      bet kada atkurkite nuotraukas.
+  - q: Ar nuotraukų trynimas atlaisvina vietos mano iPhone?
+    a: >-
+      Taip. Nuotraukos ir ekrano kopijos paprastai užima daugiausiai vietos iPhone
+      saugykloje. Sutvarkius mėnesį, Swipe2delete tiksliai parodo, kiek vietos
+      sutaupėte. Kad vieta atsilaisvintų iš karto, taip pat [ištuštinkite albumą
+      Neseniai ištrinta](/guides/empty-recently-deleted){:target="_self"} Photos
+      programoje. Kitu atveju iOS ją atlaisvins automatiškai po 30 dienų.
+  - q: Ištryniau nuotraukas, bet laisvos vietos vis tiek nėra. Kodėl?
+    a: >-
+      Jūsų nuotraukos ištrintos, bet iOS jas vis dar saugo jums. Kai iPhone
+      ištrinate nuotraukas, ar per Swipe2delete, ar per bet kurią kitą programą,
+      jos patenka į Photos programos albumą **Neseniai ištrinta**, kur kaip
+      apsauga išlieka iki 30 dienų. Vieta atlaisvinama tik ištuštinus šį albumą:
+      automatiškai po 30 dienų arba rankiniu būdu iš karto. Štai mūsų vienos
+      minutės gidas: [kaip ištuštinti Neseniai ištrinta ir iš karto atlaisvinti
+      vietos](/guides/empty-recently-deleted){:target="_self"}.
+  - q: Ar nuotraukos bus ištrintos ir iš iCloud?
+    a: >-
+      Jei naudojate iCloud Photos, jūsų biblioteka lieka sinchronizuota, tad su
+      Swipe2delete ištrinta nuotrauka pašalinama ir iš iCloud bei kitų jūsų
+      įrenginių (pasibaigus Neseniai ištrinta laikotarpiui). Tai reiškia, kad
+      galerijos tvarkymas atlaisvina vietos ir iCloud saugykloje, o tai gali padėti
+      išvengti mokėjimo už didesnį iCloud planą.
+  - q: Ar mano nuotraukos privačios? Ar Swipe2delete jas kur nors įkelia?
+    a: >-
+      Jūsų nuotraukos niekada nepalieka jūsų įrenginio. Swipe2delete dirba
+      tiesiogiai su jūsų iPhone nuotraukų biblioteka. Nėra jokios paskyros ir jokio
+      jūsų nuotraukų įkėlimo į kieno nors serverį. Daugiau informacijos rasite mūsų
+      [privatumo politikoje](/privacy-policy){:target="_self"}.
+  - q: Koks greičiausias būdas susitvarkyti milžinišką galeriją?
+    a: >-
+      Nebandykite visko padaryti iš karto. Būtent taip tvarkymasis ir numetamas.
+      Swipe2delete padalija jūsų biblioteką į mėnesius, tad vieną mėnesį galite
+      sutvarkyti vos atsiradus laisvai minutei. Pažanga išsaugoma kiekvienam
+      mėnesiui, pažangos ratas rodo, kiek jau nuveikėte, o funkcija **Šiandienos
+      data** iškelia praėjusių metų nuotraukas, kad ir sena netvarka būtų
+      sutvarkyta.
+  - q: Kuo tai skiriasi nuo nuotraukų trynimo Photos programoje?
+    a: >-
+      Photos programoje kiekvieną nuotrauką reikia pažymėti atskirai, lengva
+      paliesti ne tą ir nėra peržiūros žingsnio. Swipe2delete sukurta lygiai vienam
+      darbui: greitai nuspręsti, palikti ar ištrinti. Vienas brūkštelėjimas
+      nuotraukai, atšaukimo mygtukas, galutinė peržiūra prieš ką nors ištrinant ir
+      pažangos sekimas, kad tikrai užbaigtumėte. Žmonės su ja jau ištrynė daugiau
+      nei 27 milijonus nuotraukų.

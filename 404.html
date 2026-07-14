@@ -1,0 +1,34 @@
+---
+permalink: /404.html
+sitemap: false
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="robots" content="noindex">
+	<title>Page not found · {{ site.app_name }}</title>
+	<link rel="icon" type="image/png" href="{{ site.app_icon | relative_url }}">
+	<script>
+	// Unknown paths that look like "/<bogus-segment>/rest" (e.g. a mistyped
+	// locale like /pt-br2/faq) fall back to "/rest"; single-segment misses go home.
+	(function () {
+		var parts = location.pathname.split('/').filter(Boolean);
+		if (parts.length > 1) {
+			location.replace('/' + parts.slice(1).join('/'));
+		} else {
+			location.replace('/');
+		}
+	})();
+	</script>
+	<style>
+		body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; text-align: center; padding: 80px 20px; color: #333; }
+		a { color: {{ site.link_color }}; }
+	</style>
+</head>
+<body>
+	<h1>Page not found</h1>
+	<p><a href="/">Go to the {{ site.app_name }} homepage</a></p>
+</body>
+</html>

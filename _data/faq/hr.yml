@@ -1,0 +1,67 @@
+title: Često postavljana pitanja
+description: "Odgovori na česta pitanja o aplikaciji Swipe2delete: kako radi brisanje fotografija povlačenjem, vraćanje izbrisanih fotografija, oslobađanje prostora na iPhoneu i u iCloudu, privatnost i cijene."
+outro: Imate još pitanja? [Javite nam se](/contact){:target="_self"} i rado ćemo pomoći.
+items:
+  - q: Kako radi Swipe2delete?
+    a: >-
+      Swipe2delete prikazuje vašu galeriju fotografiju po fotografiju, mjesec po
+      mjesec. Povucite ulijevo za brisanje fotografije, udesno za zadržavanje. Kad
+      završite rundu, dobivate završnu provjeru svega što ste označili za brisanje,
+      prije nego što se išta ukloni. Tako čišćenje tisuća fotografija postaje brzo i,
+      iskreno, prilično zabavno.
+  - q: Je li Swipe2delete besplatan?
+    a: >-
+      Swipe2delete se besplatno preuzima i isprobava. Premium otključava neograničeno
+      čišćenje, a možete birati između pretplate ili jednokratne doživotne kupnje, pa
+      niste vezani za ponavljajuće plaćanje da biste galeriju držali čistom.
+  - q: Mogu li vratiti fotografije koje sam slučajno izbrisao?
+    a: >-
+      Da, i to na dva načina. U aplikaciji dodirnite poništi i odmah vratite
+      fotografiju koju ste upravo povukli. A budući da Swipe2delete koristi Appleovu
+      foto medijateku, sve izbrisano odlazi u album **Nedavno izbrisano** u
+      aplikaciji Fotografije, gdje ostaje do 30 dana prije trajnog uklanjanja.
+      Otvorite Fotografije → Albumi → Nedavno izbrisano i vratite fotografije bilo
+      kada unutar tog razdoblja.
+  - q: Oslobađa li brisanje fotografija prostor na mom iPhoneu?
+    a: >-
+      Da. Fotografije i snimke zaslona obično su među najvećim stvarima koje pune
+      iPhone. Nakon što očistite jedan mjesec, Swipe2delete pokazuje točno koliko ste
+      prostora uštedjeli. Da bi se prostor odmah oslobodio, [ispraznite i album
+      Nedavno izbrisano](/guides/empty-recently-deleted){:target="_self"} u
+      aplikaciji Fotografije. Inače ga iOS automatski oslobađa nakon 30 dana.
+  - q: Izbrisao sam fotografije, ali još uvijek nema slobodnog prostora. Zašto?
+    a: >-
+      Vaše su fotografije izbrisane, ali ih iOS još čuva za vas. Kad god izbrišete
+      fotografije na iPhoneu, sa Swipe2delete ili bilo kojom drugom aplikacijom, one
+      odlaze u album **Nedavno izbrisano** u aplikaciji Fotografije, gdje kao
+      sigurnosna mreža ostaju do 30 dana. Prostor se ne oslobađa dok se taj album ne
+      isprazni: automatski nakon 30 dana ili ručno odmah. Pogledajte naš vodič od
+      jedne minute: [kako isprazniti Nedavno izbrisano i odmah osloboditi
+      prostor](/guides/empty-recently-deleted){:target="_self"}.
+  - q: Hoće li fotografije biti izbrisane i iz iClouda?
+    a: >-
+      Ako koristite iCloud fotografije, vaša medijateka ostaje sinkronizirana, pa se
+      fotografija izbrisana sa Swipe2delete uklanja i iz iClouda i s vaših drugih
+      uređaja (nakon razdoblja Nedavno izbrisano). To znači da čišćenje galerije
+      oslobađa i iCloud prostor, što vas može poštedjeti plaćanja većeg iCloud plana.
+  - q: Jesu li moje fotografije privatne? Prenosi li ih Swipe2delete negdje?
+    a: >-
+      Vaše fotografije nikada ne napuštaju uređaj. Swipe2delete radi izravno s foto
+      medijatekom na vašem iPhoneu. Nema računa i vaše se fotografije ne prenose ni
+      na čiji poslužitelj. Pogledajte našu [politiku
+      privatnosti](/privacy-policy){:target="_self"} za detalje.
+  - q: Koji je najbrži način za čišćenje ogromne galerije?
+    a: >-
+      Ne pokušavajte sve odjednom. Tako se čišćenja i napuštaju. Swipe2delete dijeli
+      vašu medijateku na mjesece, pa možete riješiti jedan mjesec kad god imate
+      slobodnu minutu. Napredak se sprema za svaki mjesec, kotač napretka pokazuje
+      koliko ste odmakli, a značajka **Na ovaj dan** vraća fotografije iz proteklih
+      godina da se i stari nered napokon riješi.
+  - q: Po čemu se to razlikuje od brisanja fotografija u aplikaciji Fotografije?
+    a: >-
+      U aplikaciji Fotografije morate dodirnuti i odabrati svaku fotografiju posebno,
+      lako je promašiti pogrešnu i nema koraka završne provjere. Swipe2delete je
+      napravljen za točno jedan posao: brzo odlučiti zadržati ili izbrisati. Jedno
+      povlačenje po fotografiji, gumb za poništavanje, završna provjera prije nego
+      što se išta izbriše i praćenje napretka da stvarno završite. Ljudi su njime
+      izbrisali više od 27 milijuna fotografija.

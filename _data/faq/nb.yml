@@ -1,0 +1,65 @@
+title: Ofte stilte spørsmål
+description: "Svar på vanlige spørsmål om Swipe2delete: hvordan sveip for å slette bilder fungerer, gjenoppretting av slettede bilder, frigjøring av lagringsplass på iPhone og i iCloud, personvern og priser."
+outro: Har du fortsatt et spørsmål? [Ta kontakt](/contact){:target="_self"}, så hjelper vi deg gjerne.
+items:
+  - q: Hvordan fungerer Swipe2delete?
+    a: >-
+      Swipe2delete viser deg kamerarullen ett bilde om gangen, én måned om gangen. Sveip
+      til venstre for å slette et bilde, og sveip til høyre for å beholde det. Når du er
+      ferdig med en runde, får du en siste gjennomgang av alt du har merket for sletting,
+      før noe fjernes. Det gjør opprydding i tusenvis av bilder raskt unnagjort og, ærlig
+      talt, ganske gøy.
+  - q: Er Swipe2delete gratis?
+    a: >-
+      Swipe2delete er gratis å laste ned og prøve. Premium låser opp ubegrenset
+      opprydding, og du kan velge mellom et abonnement eller et engangskjøp som varer
+      livet ut. Du trenger altså aldri binde deg til en løpende betaling for å holde
+      kamerarullen ren.
+  - q: Kan jeg gjenopprette bilder jeg slettet ved et uhell?
+    a: >-
+      Ja, til og med på to måter. I appen trykker du på angre for å hente tilbake et bilde
+      du nettopp sveipet bort. Og fordi Swipe2delete bruker Apples bildebibliotek, havner
+      alt du sletter i albumet **Nylig slettet** i Bilder-appen, der det blir liggende i
+      opptil 30 dager før det fjernes permanent. Åpne Bilder → Album → Nylig slettet for å
+      gjenopprette bilder når som helst i den perioden.
+  - q: Frigjør sletting av bilder lagringsplass på iPhonen min?
+    a: >-
+      Ja. Bilder og skjermbilder er som regel noe av det som tar mest plass på en iPhone.
+      Etter hver måned du rydder, viser Swipe2delete nøyaktig hvor mye plass du har spart.
+      For at plassen skal frigjøres med en gang, bør du også [tømme albumet Nylig
+      slettet](/guides/empty-recently-deleted){:target="_self"} i Bilder-appen. Ellers
+      frigjør iOS den automatisk etter 30 dager.
+  - q: Jeg har slettet bilder, men det er fortsatt ikke ledig plass. Hvorfor?
+    a: >-
+      Bildene dine er slettet, men iOS tar vare på dem for deg en stund til. Når du
+      sletter bilder på en iPhone, med Swipe2delete eller en annen app, havner de i
+      albumet **Nylig slettet** i Bilder-appen, der de ligger i opptil 30 dager som
+      sikkerhetsnett. Plassen frigjøres først når albumet tømmes, enten automatisk etter
+      30 dager eller manuelt med en gang. Se vår ettminuttsguide: [slik tømmer du Nylig
+      slettet og frigjør plass umiddelbart](/guides/empty-recently-deleted){:target="_self"}.
+  - q: Blir bilder også slettet fra iCloud?
+    a: >-
+      Hvis du bruker iCloud-bilder, holdes biblioteket ditt synkronisert, så et bilde du
+      sletter med Swipe2delete, fjernes også fra iCloud og de andre enhetene dine (etter
+      perioden i Nylig slettet). Å rydde i kamerarullen frigjør dermed også
+      iCloud-lagring, noe som kan spare deg for et større iCloud-abonnement.
+  - q: Er bildene mine private? Laster Swipe2delete dem opp noe sted?
+    a: >-
+      Bildene dine forlater aldri enheten din. Swipe2delete jobber direkte med
+      bildebiblioteket på iPhonen din. Det finnes ingen konto, og bildene dine lastes
+      aldri opp til noen server. Se [personvernerklæringen
+      vår](/privacy-policy){:target="_self"} for detaljene.
+  - q: Hva er den raskeste måten å rydde opp i en enorm kamerarull på?
+    a: >-
+      Ikke prøv å ta alt på én gang. Det er slik oppryddinger blir lagt på hylla.
+      Swipe2delete deler biblioteket ditt opp i måneder, så du kan ta unna en måned når du
+      har et ledig øyeblikk. Fremgangen din lagres per måned, et fremdriftshjul viser hvor
+      langt du har kommet, og funksjonen **På denne dagen** henter frem bilder fra
+      tidligere år, så gammelt rot også blir tatt hånd om.
+  - q: Hvordan skiller dette seg fra å slette bilder i Bilder-appen?
+    a: >-
+      I Bilder-appen må du markere hvert enkelt bilde, det er lett å trykke feil, og det
+      finnes ingen siste gjennomgang. Swipe2delete er laget for nøyaktig én jobb, nemlig å
+      raskt bestemme behold eller slett. Ett sveip per bilde, en angreknapp, en siste
+      gjennomgang før noe slettes, og fremdriftssporing så du faktisk blir ferdig. Over
+      27 millioner bilder er allerede slettet med appen.

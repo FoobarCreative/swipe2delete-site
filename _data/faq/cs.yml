@@ -1,0 +1,63 @@
+title: Časté dotazy
+description: "Odpovědi na časté dotazy ke Swipe2delete: jak funguje mazání fotek přejetím prstem, obnovení smazaných fotek, uvolnění úložiště na iPhonu a v iCloudu, soukromí a ceny."
+outro: Máte další otázku? [Napište nám](/contact){:target="_self"}, rádi pomůžeme.
+items:
+  - q: Jak Swipe2delete funguje?
+    a: >-
+      Swipe2delete vám ukazuje fotogalerii fotku po fotce, měsíc po měsíci. Přejetím
+      doleva fotku smažete, přejetím doprava ji ponecháte. Když dokončíte dávku, čeká vás
+      závěrečná kontrola všeho, co jste označili ke smazání, než se cokoli odstraní.
+      Úklid tisíců fotek je tak rychle hotový a upřímně řečeno je to i docela zábava.
+  - q: Je Swipe2delete zdarma?
+    a: >-
+      Swipe2delete si můžete zdarma stáhnout a vyzkoušet. Premium odemkne neomezený úklid
+      a můžete si vybrat mezi předplatným a jednorázovým doživotním nákupem. Nikdy se tedy
+      nemusíte upsat k opakovaným platbám, abyste měli ve fotogalerii pořádek.
+  - q: Můžu obnovit fotky smazané omylem?
+    a: >-
+      Ano, dokonce dvojím způsobem. Přímo v aplikaci klepněte na zpět a právě odswipovaná
+      fotka se okamžitě vrátí. A protože Swipe2delete pracuje s knihovnou fotek od Applu,
+      vše smazané putuje do alba **Nedávno smazané** v aplikaci Fotky, kde zůstává až
+      30 dní, než se trvale odstraní. Otevřete Fotky → Alba → Nedávno smazané a fotky
+      můžete v tomto období kdykoli obnovit.
+  - q: Uvolní mazání fotek místo na mém iPhonu?
+    a: >-
+      Ano. Fotky a snímky obrazovky obvykle patří k největším žroutům místa na iPhonu. Po
+      každém uklizeném měsíci vám Swipe2delete přesně ukáže, kolik místa jste ušetřili.
+      Aby se místo uvolnilo okamžitě, [vysypte také album Nedávno
+      smazané](/guides/empty-recently-deleted){:target="_self"} v aplikaci Fotky. Jinak ho
+      iOS uvolní automaticky po 30 dnech.
+  - q: Fotky jsou smazané, ale volné místo se pořád neobjevilo. Proč?
+    a: >-
+      Vaše fotky jsou smazané, ale iOS je pro vás ještě chvíli uchovává. Kdykoli na iPhonu
+      smažete fotky, ať už přes Swipe2delete nebo jinou aplikaci, přesunou se do alba
+      **Nedávno smazané** v aplikaci Fotky, kde jako pojistka čekají až 30 dní. Místo se
+      uvolní teprve po vysypání tohoto alba, buď automaticky po 30 dnech, nebo hned ručně.
+      Podívejte se na náš minutový návod: [jak vysypat Nedávno smazané a okamžitě uvolnit
+      místo](/guides/empty-recently-deleted){:target="_self"}.
+  - q: Smažou se fotky i z iCloudu?
+    a: >-
+      Pokud používáte Fotky na iCloudu, vaše knihovna zůstává synchronizovaná. Fotka
+      smazaná přes Swipe2delete tedy zmizí i z iCloudu a vašich dalších zařízení (po
+      uplynutí lhůty v albu Nedávno smazané). Úklid fotogalerie tak uvolní i úložiště na
+      iCloudu a může vás ušetřit placení většího tarifu iCloudu.
+  - q: Jsou moje fotky v soukromí? Nahrává je Swipe2delete někam?
+    a: >-
+      Vaše fotky nikdy neopustí vaše zařízení. Swipe2delete pracuje přímo s knihovnou
+      fotek ve vašem iPhonu. Žádný účet neexistuje a vaše fotky se na žádný server
+      nenahrávají. Podrobnosti najdete v našich [zásadách ochrany
+      soukromí](/privacy-policy){:target="_self"}.
+  - q: Jak nejrychleji uklidit obrovskou fotogalerii?
+    a: >-
+      Nesnažte se zvládnout všechno najednou. Přesně tak většina úklidů skončí.
+      Swipe2delete rozdělí vaši knihovnu na měsíce, takže můžete jeden měsíc odbavit,
+      kdykoli máte volnou chvilku. Postup se ukládá pro každý měsíc zvlášť, kolečko
+      postupu ukazuje, jak daleko jste, a funkce **Na tento den** připomíná fotky z
+      minulých let, takže dojde i na staré resty.
+  - q: Jak se to liší od mazání fotek v aplikaci Fotky?
+    a: >-
+      V aplikaci Fotky musíte každou fotku zvlášť označit, snadno klepnete na špatnou a
+      chybí závěrečná kontrola. Swipe2delete je postavený přesně pro jeden úkol, totiž
+      rychle rozhodnout, jestli fotku nechat, nebo smazat. Jedno přejetí na fotku,
+      tlačítko zpět, závěrečná kontrola před smazáním čehokoli a sledování postupu, díky
+      kterému úklid opravdu dotáhnete. Lidé s ním smazali už přes 27 milionů fotek.

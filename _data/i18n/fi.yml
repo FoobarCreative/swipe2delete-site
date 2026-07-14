@@ -1,0 +1,21 @@
+lang_name: Suomi
+hreflang: fi
+page_title: "Swipe2delete: poista kuvia pyyhkäisemällä ja siivoa kamerarullasi"
+app_subtitle: Poista kuvia pyyhkäisemällä ja siivoa kamerarullasi
+app_description: >-
+  Swipe2delete on nopea ja hauska kuvien siivoussovellus iPhonelle ja iPadille.
+  Pyyhkäise vasemmalle poistaaksesi kuvan ja oikealle säilyttääksesi sen.
+  Siivoa kamerarullasi kuukausi kerrallaan ja vapauta tallennustilaa.
+features:
+  - title: Pyyhkäise ja siivoa
+    description: Siivoa kamerarullasi helposti. Pyyhkäise vasemmalle poistaaksesi tai oikealle säilyttääksesi. Yksinkertainen ja tehokas tapa karsia kuviasi.
+  - title: Kuukausittainen siivous
+    description: Käy kuvasi läpi kuukausi kerrallaan, selkeästi ja hallittavasti. Edistymisesi tallentuu joka kierroksella.
+  - title: Tänä päivänä
+    description: Koe erityiset hetket uudelleen. Tänä päivänä -toiminto nostaa esiin kuvia menneiltä vuosilta, jotta voit käydä ne läpi ja siivota ne.
+  - title: Kumoa virheet
+    description: Pyyhkäisitkö väärin? Ei hätää! Napauta kumoa, ja vahingossa poistettu kuva palaa heti takaisin.
+  - title: Lopputarkistus
+    description: Ennen kuin olet valmis, näet vielä kerran kaikki säilytettävät ja poistettavat kuvat ja voit tehdä muutoksia viime hetkellä.
+  - title: Edistymisen seuranta
+    description: Pysy kärryillä siivouksesta edistymisympyrän avulla. Se näyttää, kuinka paljon olet jo käynyt läpi ja mitä on jäljellä.

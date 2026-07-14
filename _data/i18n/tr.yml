@@ -1,0 +1,21 @@
+lang_name: Türkçe
+hreflang: tr
+page_title: "Swipe2delete: Kaydırarak Fotoğraf Silin ve Galerinizi Temizleyin"
+app_subtitle: Kaydırarak fotoğraf silin ve galerinizi temizleyin
+app_description: >-
+  Swipe2delete, iPhone ve iPad için hızlı ve eğlenceli fotoğraf temizleyicisidir.
+  Silmek için sola, saklamak için sağa kaydırın. Galerinizi ay ay temizleyin ve
+  depolama alanı açın.
+features:
+  - title: Kaydır ve Düzenle
+    description: Galerinizi temizlemek çok kolay. Silmek için sola, saklamak için sağa kaydırın. Fotoğraflarınızı sadeleştirmenin basit ve etkili yolu.
+  - title: Aylık Temizlik
+    description: Fotoğraflarınızı ay ay ele alın, her şey düzenli ve yönetilebilir kalsın. İlerlemeniz her turda kaydedilir.
+  - title: Bu Gün Anıları
+    description: Özel anları yeniden yaşayın. "Bu Gün" özelliği geçmiş yıllardan fotoğrafları geri getirir, böylece gözden geçirip düzenleyebilirsiniz.
+  - title: Hataları Geri Alın
+    description: Yanlış mı kaydırdınız? Sorun değil! Geri al düğmesine dokunun ve yanlışlıkla sildiğiniz fotoğrafı anında geri getirin.
+  - title: Son Kontrol
+    description: Bitirmeden önce sakladığınız ve sildiğiniz fotoğraflara son bir kez bakın, son dakika değişiklikleri yapın.
+  - title: İlerleme Takibi
+    description: Temizlik yolculuğunuzu ilerleme çarkıyla takip edin. Ne kadarını tamamladığınızı ve ne kaldığını gösterir.

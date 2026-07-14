@@ -1,0 +1,69 @@
+title: Gyakran ismételt kérdések
+description: "Válaszok a Swipe2delete-tel kapcsolatos gyakori kérdésekre: hogyan működik a fotók törlése húzással, törölt fotók visszaállítása, iPhone és iCloud tárhely felszabadítása, adatvédelem és árak."
+outro: Maradt még kérdésed? [Írj nekünk](/contact){:target="_self"}, szívesen segítünk.
+items:
+  - q: Hogyan működik a Swipe2delete?
+    a: >-
+      A Swipe2delete a kameratekercsedet egyszerre egy fotónként, egy hónaponként
+      mutatja. Húzd balra a fotót a törléshez, jobbra a megtartáshoz. Amikor végzel
+      egy adaggal, még egyszer átnézheted mindazt, amit törlésre jelöltél, mielőtt
+      bármi is eltűnne. Így több ezer fotó rendbetétele gyors lesz, és őszintén
+      szólva egészen szórakoztató.
+  - q: Ingyenes a Swipe2delete?
+    a: >-
+      A Swipe2delete ingyenesen letölthető és kipróbálható. A Premium korlátlan
+      takarítást nyit meg, és választhatsz előfizetés vagy egyszeri, örök életre
+      szóló vásárlás között. Így nem ragadsz bele ismétlődő fizetésbe csak azért,
+      hogy tisztán tartsd a kameratekercsed.
+  - q: Visszaállíthatom a véletlenül törölt fotókat?
+    a: >-
+      Igen, ráadásul kétféleképpen. Az appon belül koppints a visszavonásra, és
+      azonnal visszakapod az imént elhúzott fotót. És mivel a Swipe2delete az Apple
+      fotókönyvtárát használja, minden törölt elem a Fotók app **Nemrég törölt**
+      albumába kerül, ahol legfeljebb 30 napig marad, mielőtt véglegesen törlődne.
+      Nyisd meg a Fotók → Albumok → Nemrég törölt útvonalat, és ezen az időszakon
+      belül bármikor visszaállíthatod a fotókat.
+  - q: Felszabadít tárhelyet a fotók törlése az iPhone-omon?
+    a: >-
+      Igen. Általában a fotók és a képernyőképek foglalják el a legtöbb helyet egy
+      iPhone-on. Miután kitakarítottál egy hónapot, a Swipe2delete pontosan
+      megmutatja, mennyi helyet spóroltál. Ahhoz, hogy a hely azonnal felszabaduljon,
+      [ürítsd ki a Nemrég törölt
+      albumot](/guides/empty-recently-deleted){:target="_self"} is a Fotók appban.
+      Különben az iOS 30 nap után automatikusan felszabadítja.
+  - q: Töröltem fotókat, de még mindig nincs szabad hely. Miért?
+    a: >-
+      A fotóid törölve vannak, de az iOS még őrzi őket neked. Amikor iPhone-on
+      fotókat törölsz, akár a Swipe2delete-tel, akár bármely más appal, azok a Fotók
+      app **Nemrég törölt** albumába kerülnek, ahol biztonsági hálóként legfeljebb 30
+      napig maradnak. A tárhely addig nem szabadul fel, amíg ez az album ki nem ürül:
+      vagy automatikusan 30 nap után, vagy kézzel akár azonnal. Itt az egyperces
+      útmutatónk: [így ürítsd ki a Nemrég törölt albumot és szabadíts fel helyet
+      azonnal](/guides/empty-recently-deleted){:target="_self"}.
+  - q: Az iCloudból is törlődnek a fotók?
+    a: >-
+      Ha iCloud-fotókat használsz, a könyvtárad szinkronban marad, így a
+      Swipe2delete-tel törölt fotó az iCloudból és a többi eszközödről is eltűnik (a
+      Nemrég törölt időszak lejárta után). Vagyis a kameratekercs takarítása
+      iCloud-tárhelyet is felszabadít, ami megkímélhet egy nagyobb iCloud-csomag
+      megvásárlásától.
+  - q: Privátak a fotóim? Feltölti őket valahová a Swipe2delete?
+    a: >-
+      A fotóid soha nem hagyják el a készüléked. A Swipe2delete közvetlenül az
+      iPhone-odon lévő fotókönyvtárral dolgozik. Nincs fiók, és a fotóid senki
+      szerverére nem kerülnek feltöltésre. A részleteket megtalálod az [adatvédelmi
+      irányelveinkben](/privacy-policy){:target="_self"}.
+  - q: Mi a leggyorsabb módja egy hatalmas kameratekercs kitakarításának?
+    a: >-
+      Ne próbáld meg egyszerre az egészet. Így szoktak félbemaradni a takarítások. A
+      Swipe2delete hónapokra bontja a könyvtárad, így bármikor letudhatsz egy
+      hónapot, amikor van egy szabad perced. A haladásod havonta mentődik, egy
+      haladási kerék mutatja, mennyit tettél már meg, az **Ezen a napon** funkció
+      pedig előhozza a korábbi évek fotóit, hogy a régi kacatok is sorra kerüljenek.
+  - q: Miben más ez, mint a fotók törlése a Fotók appban?
+    a: >-
+      A Fotók appban minden fotót egyenként kell kijelölnöd, könnyű mellényúlni, és
+      nincs végső átnézés. A Swipe2delete pontosan egy feladatra készült: gyorsan
+      eldönteni, hogy marad vagy megy. Egy húzás fotónként, egy visszavonás gomb, egy
+      végső átnézés a törlés előtt, és haladáskövetés, hogy tényleg a végére érj. Az
+      emberek már több mint 27 millió fotót töröltek vele.

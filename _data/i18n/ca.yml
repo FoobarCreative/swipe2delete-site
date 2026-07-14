@@ -1,0 +1,21 @@
+lang_name: Català
+hreflang: ca
+page_title: "Swipe2delete: llisca per esborrar fotos i netejar el teu carret"
+app_subtitle: Llisca per esborrar fotos i netejar el teu carret
+app_description: >-
+  Swipe2delete és el netejador de fotos ràpid i divertit per a iPhone i iPad.
+  Llisca cap a l'esquerra per esborrar fotos i cap a la dreta per conservar-les.
+  Neteja el teu carret mes a mes i allibera espai d'emmagatzematge.
+features:
+  - title: Llisca per organitzar
+    description: Neteja el teu carret fàcilment lliscant cap a l'esquerra per esborrar o cap a la dreta per conservar. Una manera senzilla i eficient d'endreçar les teves fotos.
+  - title: Neteja mensual
+    description: Repassa les teves fotos mes a mes, de manera organitzada i assumible. El teu progrés es guarda amb cada tanda.
+  - title: Records de "En aquest dia"
+    description: Reviu moments especials. La funció "En aquest dia" recupera fotos d'anys passats perquè les repassis i les organitzis.
+  - title: Desfés les errades
+    description: T'has equivocat? Cap problema! Toca desfer i recupera a l'instant una foto esborrada per accident.
+  - title: Revisió final
+    description: Abans d'acabar, fes una última ullada a les fotos que conserves i esborres, amb marge per a canvis d'última hora.
+  - title: Seguiment del progrés
+    description: Controla la teva neteja amb la roda de progrés, que mostra quant has repassat i quant et queda.

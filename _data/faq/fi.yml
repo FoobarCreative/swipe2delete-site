@@ -1,0 +1,65 @@
+title: Usein kysytyt kysymykset
+description: "Vastauksia yleisiin kysymyksiin Swipe2deletestä: miten kuvien poistaminen pyyhkäisemällä toimii, poistettujen kuvien palauttaminen, tallennustilan vapauttaminen iPhonella ja iCloudissa, yksityisyys ja hinnat."
+outro: Jäikö jokin askarruttamaan? [Ota yhteyttä](/contact){:target="_self"}, autamme mielellämme.
+items:
+  - q: Miten Swipe2delete toimii?
+    a: >-
+      Swipe2delete näyttää kamerarullasi kuva kerrallaan, kuukausi kerrallaan. Pyyhkäise
+      vasemmalle poistaaksesi kuvan ja oikealle säilyttääksesi sen. Kun kierros on valmis,
+      näet vielä lopputarkistuksen kaikesta poistettavaksi merkitsemästäsi, ennen kuin
+      mitään poistetaan. Tuhansien kuvien siivoamisesta tulee nopeaa ja, rehellisesti
+      sanottuna, aika hauskaa.
+  - q: Onko Swipe2delete ilmainen?
+    a: >-
+      Swipe2deleten voi ladata ja sitä voi kokeilla ilmaiseksi. Premium avaa rajattoman
+      siivoamisen, ja voit valita tilauksen tai kertaluonteisen lifetime-oston. Sinun ei
+      siis koskaan tarvitse sitoutua jatkuvaan maksuun pitääksesi kamerarullasi siistinä.
+  - q: Voinko palauttaa vahingossa poistamani kuvat?
+    a: >-
+      Kyllä, jopa kahdella tavalla. Sovelluksessa voit napauttaa kumoa ja palauttaa juuri
+      pois pyyhkäisemäsi kuvan heti. Ja koska Swipe2delete käyttää Applen kuvakirjastoa,
+      kaikki poistettu siirtyy Kuvat-sovelluksen albumiin **Äskettäin poistetut**, jossa
+      se säilyy jopa 30 päivää ennen lopullista poistamista. Avaa Kuvat → Albumit →
+      Äskettäin poistetut palauttaaksesi kuvia milloin tahansa tuona aikana.
+  - q: Vapauttaako kuvien poistaminen tallennustilaa iPhonellani?
+    a: >-
+      Kyllä. Kuvat ja kuvakaappaukset ovat yleensä suurimpia tilanviejiä iPhonella.
+      Jokaisen siivotun kuukauden jälkeen Swipe2delete näyttää tarkalleen, kuinka paljon
+      tilaa säästit. Jotta tila vapautuu heti, [tyhjennä myös Äskettäin poistetut
+      -albumi](/guides/empty-recently-deleted){:target="_self"} Kuvat-sovelluksessa.
+      Muuten iOS vapauttaa tilan automaattisesti 30 päivän kuluttua.
+  - q: Poistin kuvia, mutta vapaata tilaa ei vieläkään ole. Miksi?
+    a: >-
+      Kuvasi on poistettu, mutta iOS säilyttää niitä vielä varmuuden vuoksi. Kun poistat
+      kuvia iPhonella, olipa kyseessä Swipe2delete tai mikä tahansa muu sovellus, ne
+      siirtyvät Kuvat-sovelluksen albumiin **Äskettäin poistetut**, jossa ne odottavat
+      jopa 30 päivää turvaverkkona. Tila vapautuu vasta, kun albumi tyhjennetään, joko
+      automaattisesti 30 päivän jälkeen tai heti käsin. Katso minuutin ohjeemme: [näin
+      tyhjennät Äskettäin poistetut ja vapautat tilaa
+      heti](/guides/empty-recently-deleted){:target="_self"}.
+  - q: Poistuvatko kuvat myös iCloudista?
+    a: >-
+      Jos käytät iCloud-kuvia, kirjastosi pysyy synkronoituna, joten Swipe2deletellä
+      poistettu kuva poistuu myös iCloudista ja muilta laitteiltasi (Äskettäin poistetut
+      -jakson jälkeen). Kamerarullan siivoaminen vapauttaa siis myös iCloud-tilaa, mikä
+      voi säästää sinut isomman iCloud-tilauksen maksamiselta.
+  - q: Ovatko kuvani yksityisiä? Lähettääkö Swipe2delete niitä minnekään?
+    a: >-
+      Kuvasi eivät koskaan poistu laitteeltasi. Swipe2delete toimii suoraan iPhonesi
+      kuvakirjaston kanssa. Tiliä ei ole, eikä kuviasi lähetetä millekään palvelimelle.
+      Lue lisätiedot [tietosuojakäytännöstämme](/privacy-policy){:target="_self"}.
+  - q: Mikä on nopein tapa siivota valtava kamerarulla?
+    a: >-
+      Älä yritä tehdä kaikkea kerralla. Juuri siihen siivousprojektit kaatuvat.
+      Swipe2delete jakaa kirjastosi kuukausiin, joten voit hoitaa yhden kuukauden aina,
+      kun sinulla on hetki aikaa. Edistymisesi tallentuu kuukausittain, edistymisympyrä
+      näyttää, kuinka pitkällä olet, ja **Tänä päivänä** -toiminto nostaa esiin kuvia
+      menneiltä vuosilta, jotta vanhatkin rönsyt tulevat hoidetuiksi.
+  - q: Miten tämä eroaa kuvien poistamisesta Kuvat-sovelluksessa?
+    a: >-
+      Kuvat-sovelluksessa jokainen kuva pitää valita erikseen, väärää kuvaa on helppo
+      napauttaa eikä lopputarkistusta ole. Swipe2delete on rakennettu täsmälleen yhtä
+      tehtävää varten, eli päättämään nopeasti, säilytetäänkö vai poistetaanko. Yksi
+      pyyhkäisy kuvaa kohden, kumoa-painike, lopputarkistus ennen poistamista ja
+      edistymisen seuranta, jotta homma tulee oikeasti valmiiksi. Sovelluksella on
+      poistettu jo yli 27 miljoonaa kuvaa.

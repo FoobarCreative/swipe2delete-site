@@ -1,0 +1,70 @@
+title: Sıkça Sorulan Sorular
+description: "Swipe2delete hakkında sık sorulan soruların yanıtları: kaydırarak fotoğraf silme nasıl çalışır, silinen fotoğrafları geri getirme, iPhone ve iCloud depolama alanı açma, gizlilik ve fiyatlandırma."
+outro: Hala bir sorunuz mu var? [Bize yazın](/contact){:target="_self"}, yardımcı olmaktan memnuniyet duyarız.
+items:
+  - q: Swipe2delete nasıl çalışır?
+    a: >-
+      Swipe2delete, galerinizi her seferinde bir fotoğraf ve bir ay olacak şekilde
+      gösterir. Silmek için sola, saklamak için sağa kaydırın. Bir turu
+      bitirdiğinizde, herhangi bir şey silinmeden önce silinmek üzere işaretlediğiniz
+      her şeyi son kez gözden geçirirsiniz. Binlerce fotoğrafı temizlemek böylece
+      hızlı ve açıkçası oldukça eğlenceli bir işe dönüşür.
+  - q: Swipe2delete ücretsiz mi?
+    a: >-
+      Swipe2delete'i ücretsiz indirip deneyebilirsiniz. Premium sınırsız temizlik
+      açar ve abonelik ile tek seferlik ömür boyu satın alma arasında seçim
+      yapabilirsiniz. Yani galerinizi temiz tutmak için sürekli bir ödemeye bağlı
+      kalmazsınız.
+  - q: Yanlışlıkla sildiğim fotoğrafları geri getirebilir miyim?
+    a: >-
+      Evet, hem de iki şekilde. Uygulama içinde geri al düğmesine dokunarak az önce
+      kaydırdığınız fotoğrafı anında geri getirin. Ayrıca Swipe2delete, Apple'ın
+      fotoğraf arşivini kullandığı için silinen her şey Fotoğraflar uygulamasındaki
+      **Son Silinenler** albümüne gider ve kalıcı olarak kaldırılmadan önce 30 güne
+      kadar orada kalır. Bu süre içinde fotoğrafları geri yüklemek için Fotoğraflar →
+      Albümler → Son Silinenler yolunu izleyin.
+  - q: Fotoğraf silmek iPhone'umda depolama alanı açar mı?
+    a: >-
+      Evet. Fotoğraflar ve ekran görüntüleri genellikle bir iPhone'u dolduran en
+      büyük şeylerden biridir. Bir ayı temizledikten sonra Swipe2delete tam olarak ne
+      kadar alan kazandığınızı gösterir. Alanın hemen geri kazanılması için ayrıca
+      Fotoğraflar uygulamasında [Son Silinenler albümünü
+      boşaltın](/guides/empty-recently-deleted){:target="_self"}. Aksi halde iOS bu
+      alanı 30 gün sonra otomatik olarak boşaltır.
+  - q: Fotoğrafları sildim ama hala boş alan yok. Neden?
+    a: >-
+      Fotoğraflarınız silindi ancak iOS onları sizin için saklıyor. iPhone'da ister
+      Swipe2delete ister başka bir uygulamayla fotoğraf sildiğinizde, fotoğraflar
+      Fotoğraflar uygulamasındaki **Son Silinenler** albümüne gider ve güvenlik ağı
+      olarak 30 güne kadar orada bekler. Depolama alanı, bu albüm boşaltılana kadar
+      serbest kalmaz: ya 30 gün sonra otomatik olarak ya da hemen şimdi elle. Bir
+      dakikalık rehberimize göz atın: [Son Silinenler nasıl boşaltılır ve alan hemen
+      nasıl açılır](/guides/empty-recently-deleted){:target="_self"}.
+  - q: Fotoğraflar iCloud'dan da silinir mi?
+    a: >-
+      iCloud Fotoğrafları kullanıyorsanız arşiviniz eşzamanlı kalır. Yani
+      Swipe2delete ile sildiğiniz bir fotoğraf, (Son Silinenler süresi dolduktan
+      sonra) iCloud'dan ve diğer cihazlarınızdan da kaldırılır. Bu da galerinizi
+      temizlemenin iCloud depolama alanı da açtığı ve sizi daha büyük bir iCloud
+      planına para ödemekten kurtarabileceği anlamına gelir.
+  - q: Fotoğraflarım gizli mi? Swipe2delete onları bir yere yüklüyor mu?
+    a: >-
+      Fotoğraflarınız cihazınızdan asla çıkmaz. Swipe2delete doğrudan iPhone'unuzdaki
+      fotoğraf arşiviyle çalışır. Hesap yoktur ve fotoğraflarınız hiçbir sunucuya
+      yüklenmez. Ayrıntılar için [gizlilik
+      politikamıza](/privacy-policy){:target="_self"} bakın.
+  - q: Devasa bir galeriyi temizlemenin en hızlı yolu nedir?
+    a: >-
+      Hepsini bir seferde yapmaya çalışmayın. Temizlikler böyle yarım kalır.
+      Swipe2delete arşivinizi aylara böler, böylece boş bir dakikanızda bir ayı
+      bitirebilirsiniz. İlerlemeniz ay bazında kaydedilir, bir ilerleme çarkı ne
+      kadar yol aldığınızı gösterir ve **Bu Gün** özelliği geçmiş yıllardan
+      fotoğrafları öne çıkararak eski karmaşanın da halledilmesini sağlar.
+  - q: Bunun Fotoğraflar uygulamasında fotoğraf silmekten farkı ne?
+    a: >-
+      Fotoğraflar uygulamasında her fotoğrafa tek tek dokunup seçmeniz gerekir,
+      yanlış olana dokunmak kolaydır ve gözden geçirme adımı yoktur. Swipe2delete tam
+      olarak tek bir iş için yapıldı: sakla ya da sil kararını hızla vermek. Fotoğraf
+      başına tek kaydırma, bir geri al düğmesi, herhangi bir şey silinmeden önce son
+      bir kontrol ve gerçekten bitirmeniz için ilerleme takibi. İnsanlar bu
+      uygulamayla 27 milyondan fazla fotoğraf sildi.

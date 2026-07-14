@@ -1,0 +1,71 @@
+title: Perguntas frequentes
+description: "Respostas às perguntas mais comuns sobre o Swipe2delete: como funciona apagar fotos ao deslizar, recuperar fotos apagadas, libertar espaço no iPhone e no iCloud, privacidade e preços."
+outro: Ainda tem alguma dúvida? [Fale connosco](/contact){:target="_self"} e teremos todo o gosto em ajudar.
+items:
+  - q: Como funciona o Swipe2delete?
+    a: >-
+      O Swipe2delete mostra a sua galeria uma foto de cada vez, um mês de cada vez.
+      Deslize para a esquerda para apagar uma foto e para a direita para a manter.
+      Ao terminar uma ronda, faz uma revisão final de tudo o que marcou para apagar
+      antes de algo ser removido. Organizar milhares de fotos torna-se rápido e,
+      sinceramente, até divertido.
+  - q: O Swipe2delete é gratuito?
+    a: >-
+      O Swipe2delete é gratuito para descarregar e experimentar. O Premium
+      desbloqueia a limpeza ilimitada, e pode escolher entre uma subscrição ou uma
+      compra vitalícia única, por isso nunca fica preso a um pagamento recorrente
+      para manter a galeria em ordem.
+  - q: Posso recuperar fotos apagadas sem querer?
+    a: >-
+      Sim, a dobrar. Na app, toque em anular para trazer de volta de imediato a
+      foto que acabou de descartar. E como o Swipe2delete usa a fototeca da Apple,
+      tudo o que é apagado vai para o álbum **Apagados recentemente** da app
+      Fotografias, onde fica até 30 dias antes de ser removido em definitivo. Abra
+      Fotografias → Álbuns → Apagados recentemente para restaurar fotos em qualquer
+      altura dentro desse período.
+  - q: Apagar fotos liberta espaço no meu iPhone?
+    a: >-
+      Sim. As fotos e as capturas de ecrã costumam ser das coisas que mais enchem
+      um iPhone. Depois de limpar um mês, o Swipe2delete mostra exatamente quanto
+      espaço poupou. Para recuperar o espaço de imediato, esvazie também o álbum
+      [Apagados recentemente](/guides/empty-recently-deleted){:target="_self"} na
+      app Fotografias. Caso contrário, o iOS liberta o espaço automaticamente ao
+      fim de 30 dias.
+  - q: Apaguei fotos mas continuo sem espaço livre. Porquê?
+    a: >-
+      As suas fotos foram apagadas, mas o iOS ainda as guarda para si. Quando apaga
+      fotos no iPhone, com o Swipe2delete ou qualquer outra app, elas vão para o
+      álbum **Apagados recentemente** da app Fotografias, onde ficam até 30 dias
+      como rede de segurança. O espaço só é libertado quando esse álbum é
+      esvaziado, automaticamente ao fim de 30 dias ou manualmente já. Veja o nosso
+      guia de um minuto: [como esvaziar o álbum Apagados recentemente e libertar
+      espaço de imediato](/guides/empty-recently-deleted){:target="_self"}.
+  - q: As fotos também são apagadas do iCloud?
+    a: >-
+      Se usa Fotografias em iCloud, a sua fototeca mantém-se sincronizada, por isso
+      uma foto apagada com o Swipe2delete também é removida do iCloud e dos seus
+      outros dispositivos (após o período de Apagados recentemente). Ou seja,
+      limpar a galeria também liberta espaço no iCloud, o que pode evitar que pague
+      por um plano maior.
+  - q: As minhas fotos são privadas? O Swipe2delete envia-as para algum lado?
+    a: >-
+      As suas fotos nunca saem do seu dispositivo. O Swipe2delete trabalha
+      diretamente com a fototeca do seu iPhone. Não há conta nem envio das suas
+      fotos para servidor nenhum. Consulte a nossa [política de
+      privacidade](/privacy-policy){:target="_self"} para mais detalhes.
+  - q: Qual é a forma mais rápida de limpar uma galeria enorme?
+    a: >-
+      Não tente fazer tudo de uma vez. É assim que as limpezas ficam a meio. O
+      Swipe2delete divide a sua fototeca em meses, por isso pode despachar um mês
+      sempre que tiver um minuto livre. O progresso fica guardado por mês, uma roda
+      de progresso mostra quanto já avançou, e a funcionalidade **Neste dia**
+      resgata fotos de anos passados para a desarrumação antiga também ficar
+      resolvida.
+  - q: Qual é a diferença em relação a apagar fotos na app Fotografias?
+    a: >-
+      A app Fotografias obriga a selecionar cada foto uma a uma, é fácil tocar na
+      errada e não há passo de revisão. O Swipe2delete foi feito para uma única
+      tarefa: decidir depressa entre manter ou apagar. Um deslize por foto, um
+      botão de anular, uma revisão final antes de algo ser apagado e um
+      acompanhamento do progresso para terminar mesmo. Já foram apagadas mais de 27
+      milhões de fotos com a app.

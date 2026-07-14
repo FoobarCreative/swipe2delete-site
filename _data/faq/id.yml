@@ -1,0 +1,31 @@
+title: Pertanyaan yang Sering Diajukan
+description: "Jawaban atas pertanyaan umum tentang Swipe2delete: cara kerja geser untuk menghapus foto, memulihkan foto yang terhapus, membebaskan ruang penyimpanan iPhone dan iCloud, privasi, dan harga."
+outro: Masih punya pertanyaan? [Hubungi kami](/contact){:target="_self"} dan kami dengan senang hati akan membantu.
+items:
+  - q: Bagaimana cara kerja Swipe2delete?
+    a: >-
+      Swipe2delete menampilkan galeri foto Anda satu foto demi satu foto, satu bulan demi satu bulan. Geser ke kiri untuk menghapus foto, geser ke kanan untuk menyimpannya. Setelah menyelesaikan satu sesi, Anda mendapat tinjauan akhir atas semua foto yang ditandai untuk dihapus sebelum apa pun benar-benar dihapus. Membersihkan ribuan foto jadi terasa cepat dan, jujur saja, cukup menyenangkan.
+  - q: Apakah Swipe2delete gratis?
+    a: >-
+      Swipe2delete gratis untuk diunduh dan dicoba. Premium membuka pembersihan tanpa batas, dan Anda bisa memilih antara langganan atau pembelian seumur hidup dengan sekali bayar, jadi Anda tidak pernah terikat pembayaran berulang hanya untuk menjaga galeri foto tetap rapi.
+  - q: Bisakah saya memulihkan foto yang tidak sengaja terhapus?
+    a: >-
+      Bisa, bahkan dengan dua lapis perlindungan. Di dalam aplikasi, ketuk urungkan untuk langsung mengembalikan foto yang baru saja Anda geser. Dan karena Swipe2delete menggunakan perpustakaan foto Apple, semua yang dihapus masuk ke album **Baru Dihapus** di aplikasi Foto, dan tersimpan di sana hingga 30 hari sebelum dihapus permanen. Buka Foto → Album → Baru Dihapus untuk memulihkan foto kapan saja dalam periode itu.
+  - q: Apakah menghapus foto membebaskan ruang penyimpanan di iPhone saya?
+    a: >-
+      Ya. Foto dan tangkapan layar biasanya termasuk yang paling banyak memenuhi iPhone. Setelah Anda membersihkan satu bulan, Swipe2delete menunjukkan dengan tepat berapa banyak ruang yang Anda hemat. Agar ruang langsung kembali, [kosongkan juga album Baru Dihapus](/guides/empty-recently-deleted){:target="_self"} di aplikasi Foto. Kalau tidak, iOS akan membebaskannya secara otomatis setelah 30 hari.
+  - q: Saya sudah menghapus foto tapi ruang kosong tidak bertambah. Kenapa?
+    a: >-
+      Foto Anda sudah terhapus, tapi iOS masih menyimpannya untuk Anda. Setiap kali Anda menghapus foto di iPhone, dengan Swipe2delete atau aplikasi lain mana pun, foto masuk ke album **Baru Dihapus** di aplikasi Foto dan berada di sana hingga 30 hari sebagai jaring pengaman. Ruang penyimpanan baru dibebaskan setelah album itu dikosongkan, entah otomatis setelah 30 hari atau manual sekarang juga. Lihat panduan satu menit kami: [cara mengosongkan Baru Dihapus dan membebaskan ruang seketika](/guides/empty-recently-deleted){:target="_self"}.
+  - q: Apakah foto juga akan terhapus dari iCloud?
+    a: >-
+      Jika Anda menggunakan Foto iCloud, perpustakaan Anda selalu tersinkron, jadi foto yang Anda hapus dengan Swipe2delete juga dihapus dari iCloud dan perangkat Anda yang lain (setelah periode Baru Dihapus berakhir). Artinya, merapikan galeri foto sekaligus membebaskan ruang iCloud, dan bisa menyelamatkan Anda dari membayar paket iCloud yang lebih besar.
+  - q: Apakah foto saya tetap privat? Apakah Swipe2delete mengunggahnya ke suatu tempat?
+    a: >-
+      Foto Anda tidak pernah meninggalkan perangkat. Swipe2delete bekerja langsung dengan perpustakaan foto di iPhone Anda. Tidak ada akun, dan foto Anda tidak pernah diunggah ke server siapa pun. Lihat [kebijakan privasi](/privacy-policy){:target="_self"} kami untuk detailnya.
+  - q: Apa cara tercepat membersihkan galeri foto yang sudah menumpuk?
+    a: >-
+      Jangan coba menyelesaikan semuanya sekaligus. Begitulah biasanya bersih-bersih berakhir terbengkalai. Swipe2delete membagi perpustakaan Anda per bulan, jadi Anda bisa menuntaskan satu bulan kapan pun ada waktu luang. Progres Anda tersimpan per bulan, roda progres menunjukkan sudah sejauh mana Anda melangkah, dan fitur **Pada Hari Ini** memunculkan kembali foto dari tahun-tahun lalu sehingga tumpukan lama pun ikut terurus.
+  - q: Apa bedanya dengan menghapus foto di aplikasi Foto?
+    a: >-
+      Aplikasi Foto mengharuskan Anda mengetuk dan memilih setiap foto, mudah salah pencet, dan tanpa langkah tinjauan. Swipe2delete dibuat untuk satu tugas saja: memutuskan simpan atau hapus dengan cepat. Satu gesekan per foto, tombol urungkan, tinjauan akhir sebelum apa pun dihapus, dan pelacak progres supaya Anda benar-benar menuntaskannya. Lebih dari 27 juta foto telah dihapus dengan aplikasi ini.

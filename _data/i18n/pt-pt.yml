@@ -1,0 +1,21 @@
+lang_name: Português (PT)
+hreflang: pt-PT
+page_title: "Swipe2delete: deslize para apagar fotos e limpar a sua galeria"
+app_subtitle: Deslize para apagar fotos e limpar a sua galeria
+app_description: >-
+  O Swipe2delete é o limpador de fotos rápido e divertido para iPhone e iPad.
+  Deslize para a esquerda para apagar fotos e para a direita para as manter.
+  Limpe a sua galeria mês a mês e liberte espaço de armazenamento.
+features:
+  - title: Deslize para organizar
+    description: Limpe a sua galeria facilmente ao deslizar para a esquerda para apagar ou para a direita para manter. Uma forma simples e eficiente de arrumar as suas fotos.
+  - title: Limpeza mensal
+    description: Trate das suas fotos um mês de cada vez, de forma organizada e sem stress. O seu progresso fica guardado a cada ronda.
+  - title: Memórias de "Neste dia"
+    description: Reviva momentos especiais. A funcionalidade "Neste dia" traz de volta fotos de anos passados para rever e organizar.
+  - title: Anular erros
+    description: Enganou-se? Não faz mal! Toque em anular e recupere de imediato uma foto apagada sem querer.
+  - title: Revisão final
+    description: Antes de terminar, veja uma última vez as fotos que vai manter e apagar, com margem para mudanças de última hora.
+  - title: Acompanhamento do progresso
+    description: Acompanhe a sua limpeza com a roda de progresso, que mostra quanto já reviu e o que ainda falta.

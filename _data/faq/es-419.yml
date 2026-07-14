@@ -1,0 +1,68 @@
+title: Preguntas frecuentes
+description: "Respuestas a las preguntas más comunes sobre Swipe2delete: cómo funciona borrar fotos deslizando, recuperar fotos borradas, liberar espacio en el iPhone y en iCloud, privacidad y precios."
+outro: ¿Tienes otra pregunta? [Escríbenos](/contact){:target="_self"} y con gusto te ayudamos.
+items:
+  - q: ¿Cómo funciona Swipe2delete?
+    a: >-
+      Swipe2delete te muestra tu galería foto por foto, mes por mes. Desliza a la
+      izquierda para borrar una foto y a la derecha para conservarla. Al terminar
+      una tanda, haces una revisión final de todo lo que marcaste para borrar antes
+      de que se elimine nada. Ordenar miles de fotos se vuelve rápido y, la verdad,
+      hasta divertido.
+  - q: ¿Swipe2delete es gratis?
+    a: >-
+      Swipe2delete se puede descargar y probar gratis. Premium desbloquea la
+      limpieza ilimitada, y puedes elegir entre una suscripción o una única compra
+      de por vida, así que nunca quedas atado a un pago recurrente para mantener tu
+      galería limpia.
+  - q: ¿Puedo recuperar fotos borradas por accidente?
+    a: >-
+      Sí, por partida doble. Dentro de la app, toca deshacer para recuperar al
+      instante la foto que acabas de descartar. Y como Swipe2delete usa la fototeca
+      de Apple, todo lo borrado va al álbum **Eliminados** de la app Fotos, donde
+      permanece hasta 30 días antes de eliminarse definitivamente. Abre Fotos →
+      Álbumes → Eliminados para restaurar fotos en cualquier momento dentro de ese
+      plazo.
+  - q: ¿Borrar fotos libera espacio en mi iPhone?
+    a: >-
+      Sí. Las fotos y capturas de pantalla suelen ser de lo que más llena un
+      iPhone. Después de limpiar un mes, Swipe2delete te muestra exactamente cuánto
+      espacio ahorraste. Para recuperar el espacio de inmediato, vacía también el
+      álbum [Eliminados](/guides/empty-recently-deleted){:target="_self"} en la app
+      Fotos. Si no, iOS lo libera automáticamente a los 30 días.
+  - q: Borré fotos pero sigo sin espacio libre. ¿Por qué?
+    a: >-
+      Tus fotos están borradas, pero iOS todavía las guarda por ti. Cuando borras
+      fotos en un iPhone, con Swipe2delete o con cualquier otra app, van al álbum
+      **Eliminados** de la app Fotos, donde permanecen hasta 30 días como red de
+      seguridad. El espacio no se libera hasta que ese álbum se vacía, ya sea
+      automáticamente a los 30 días o manualmente ahora mismo. Aquí tienes nuestra
+      guía de un minuto: [cómo vaciar Eliminados y liberar espacio al
+      instante](/guides/empty-recently-deleted){:target="_self"}.
+  - q: ¿Las fotos también se borran de iCloud?
+    a: >-
+      Si usas Fotos de iCloud, tu fototeca se mantiene sincronizada, así que una
+      foto que borras con Swipe2delete también se elimina de iCloud y de tus otros
+      dispositivos (tras el periodo de Eliminados). Limpiar tu galería también
+      libera espacio en iCloud, lo que puede ahorrarte pagar un plan más grande.
+  - q: ¿Mis fotos son privadas? ¿Swipe2delete las sube a algún lado?
+    a: >-
+      Tus fotos nunca salen de tu dispositivo. Swipe2delete trabaja directamente
+      con la fototeca de tu iPhone. No hay cuenta ni subida de tus fotos a ningún
+      servidor. Consulta nuestra [política de
+      privacidad](/privacy-policy){:target="_self"} para más detalles.
+  - q: ¿Cuál es la forma más rápida de limpiar una galería enorme?
+    a: >-
+      No intentes hacerlo todo de una vez. Así es como se abandonan las limpiezas.
+      Swipe2delete divide tu fototeca en meses, para que resuelvas un mes cuando
+      tengas un minuto libre. Tu progreso se guarda por mes, una rueda de progreso
+      muestra cuánto llevas, y la función **En este día** rescata fotos de años
+      pasados para que el desorden viejo también se resuelva.
+  - q: ¿En qué se diferencia de borrar fotos en la app Fotos?
+    a: >-
+      La app Fotos te obliga a seleccionar cada foto una por una, es fácil tocar la
+      equivocada y no hay paso de revisión. Swipe2delete está hecho para una sola
+      tarea: decidir rápido entre conservar o borrar. Un deslizamiento por foto, un
+      botón de deshacer, una revisión final antes de borrar nada y un seguimiento
+      del progreso para que de verdad termines. Ya se borraron más de 27 millones
+      de fotos con la app.

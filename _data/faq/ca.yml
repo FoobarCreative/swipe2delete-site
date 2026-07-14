@@ -1,0 +1,69 @@
+title: Preguntes freqüents
+description: "Respostes a les preguntes més habituals sobre Swipe2delete: com funciona esborrar fotos lliscant, recuperar fotos esborrades, alliberar espai a l'iPhone i a iCloud, privadesa i preus."
+outro: Tens cap altra pregunta? [Escriu-nos](/contact){:target="_self"} i t'ajudarem encantats.
+items:
+  - q: Com funciona Swipe2delete?
+    a: >-
+      Swipe2delete et mostra el carret foto a foto, mes a mes. Llisca cap a
+      l'esquerra per esborrar una foto i cap a la dreta per conservar-la. En acabar
+      una tanda, fas una revisió final de tot el que has marcat per esborrar abans
+      que s'elimini res. Endreçar milers de fotos es torna ràpid i, sincerament,
+      fins i tot divertit.
+  - q: Swipe2delete és gratuït?
+    a: >-
+      Swipe2delete es pot descarregar i provar gratis. Premium desbloqueja la
+      neteja il·limitada, i pots triar entre una subscripció o una única compra
+      vitalícia, així que mai no estàs lligat a un pagament recurrent per mantenir
+      el carret net.
+  - q: Puc recuperar fotos esborrades per accident?
+    a: >-
+      Sí, per partida doble. Dins de l'app, toca desfer per recuperar a l'instant
+      la foto que acabes de descartar. I com que Swipe2delete fa servir la fototeca
+      d'Apple, tot el que s'esborra va a l'àlbum **Eliminat recentment** de l'app
+      Fotos, on es queda fins a 30 dies abans d'eliminar-se definitivament. Obre
+      Fotos → Àlbums → Eliminat recentment per restaurar fotos en qualsevol moment
+      dins d'aquest termini.
+  - q: Esborrar fotos allibera espai al meu iPhone?
+    a: >-
+      Sí. Les fotos i les captures de pantalla solen ser del que més omple un
+      iPhone. Després de netejar un mes, Swipe2delete et mostra exactament quant
+      espai has estalviat. Perquè l'espai es recuperi de seguida, buida també
+      l'àlbum [Eliminat recentment](/guides/empty-recently-deleted){:target="_self"}
+      a l'app Fotos. Si no, iOS l'allibera automàticament al cap de 30 dies.
+  - q: He esborrat fotos però continuo sense espai lliure. Per què?
+    a: >-
+      Les teves fotos estan esborrades, però iOS encara les guarda per a tu. Quan
+      esborres fotos en un iPhone, amb Swipe2delete o amb qualsevol altra app, van
+      a l'àlbum **Eliminat recentment** de l'app Fotos, on es queden fins a 30 dies
+      com a xarxa de seguretat. L'espai no s'allibera fins que aquest àlbum es
+      buida, ja sigui automàticament al cap de 30 dies o manualment ara mateix.
+      Aquí tens la nostra guia d'un minut: [com buidar Eliminat recentment i
+      alliberar espai a l'instant](/guides/empty-recently-deleted){:target="_self"}.
+  - q: Les fotos també s'esborren d'iCloud?
+    a: >-
+      Si fas servir Fotos a l'iCloud, la teva fototeca es manté sincronitzada, així
+      que una foto que esborres amb Swipe2delete també s'elimina d'iCloud i dels
+      teus altres dispositius (després del període d'Eliminat recentment). Netejar
+      el carret també allibera espai a iCloud, cosa que et pot estalviar pagar un
+      pla més gran.
+  - q: Les meves fotos són privades? Swipe2delete les puja enlloc?
+    a: >-
+      Les teves fotos no surten mai del teu dispositiu. Swipe2delete treballa
+      directament amb la fototeca del teu iPhone. No hi ha cap compte ni cap pujada
+      de les teves fotos a cap servidor. Consulta la nostra [política de
+      privadesa](/privacy-policy){:target="_self"} per a més detalls.
+  - q: Quina és la manera més ràpida de netejar un carret enorme?
+    a: >-
+      No intentis fer-ho tot de cop. Així és com s'abandonen les neteges.
+      Swipe2delete divideix la teva fototeca en mesos, perquè despatxis un mes quan
+      tinguis un minut lliure. El teu progrés es guarda per mes, una roda de
+      progrés mostra quant portes fet, i la funció **En aquest dia** rescata fotos
+      d'anys passats perquè el desordre antic també caigui.
+  - q: En què es diferencia d'esborrar fotos a l'app Fotos?
+    a: >-
+      L'app Fotos t'obliga a seleccionar cada foto una a una, és fàcil tocar
+      l'equivocada i no hi ha pas de revisió. Swipe2delete està fet per a una sola
+      tasca: decidir ràpid entre conservar o esborrar. Un lliscament per foto, un
+      botó de desfer, una revisió final abans d'esborrar res i un seguiment del
+      progrés perquè de debò acabis. Ja s'han esborrat més de 27 milions de fotos
+      amb l'app.

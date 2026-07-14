@@ -1,0 +1,31 @@
+title: Câu hỏi thường gặp
+description: "Giải đáp những câu hỏi thường gặp về Swipe2delete: cách vuốt để xóa ảnh hoạt động, khôi phục ảnh đã xóa, giải phóng dung lượng iPhone và iCloud, quyền riêng tư và giá cả."
+outro: Vẫn còn thắc mắc? [Liên hệ với chúng tôi](/contact){:target="_self"}, chúng tôi luôn sẵn lòng hỗ trợ bạn.
+items:
+  - q: Swipe2delete hoạt động như thế nào?
+    a: >-
+      Swipe2delete hiển thị thư viện ảnh của bạn từng ảnh một, theo từng tháng. Vuốt sang trái để xóa ảnh, vuốt sang phải để giữ lại. Khi hoàn thành một đợt, bạn sẽ xem lại lần cuối toàn bộ ảnh đã đánh dấu xóa trước khi bất cứ thứ gì bị xóa thật. Việc dọn hàng nghìn bức ảnh bỗng trở nên nhanh gọn và thú vị đến bất ngờ.
+  - q: Swipe2delete có miễn phí không?
+    a: >-
+      Swipe2delete có thể tải về và dùng thử miễn phí. Premium mở khóa dọn dẹp không giới hạn, và bạn có thể chọn giữa gói đăng ký hoặc mua trọn đời chỉ thanh toán một lần, nên bạn không bao giờ bị ràng buộc vào khoản phí định kỳ chỉ để giữ thư viện ảnh gọn gàng.
+  - q: Tôi có thể khôi phục ảnh lỡ xóa nhầm không?
+    a: >-
+      Có, và còn được bảo vệ hai lớp. Trong ứng dụng, chạm hoàn tác để lấy lại ngay bức ảnh bạn vừa vuốt đi. Ngoài ra, vì Swipe2delete dùng thư viện ảnh của Apple, mọi ảnh đã xóa đều được chuyển vào album **Đã xóa gần đây** trong ứng dụng Ảnh và lưu tại đó tối đa 30 ngày trước khi bị xóa vĩnh viễn. Mở Ảnh → Album → Đã xóa gần đây để khôi phục ảnh bất cứ lúc nào trong khoảng thời gian đó.
+  - q: Xóa ảnh có giải phóng dung lượng trên iPhone không?
+    a: >-
+      Có. Ảnh và ảnh chụp màn hình thường là một trong những thứ chiếm nhiều dung lượng iPhone nhất. Sau khi dọn xong một tháng, Swipe2delete hiển thị chính xác bạn đã tiết kiệm được bao nhiêu dung lượng. Để lấy lại dung lượng ngay lập tức, hãy [dọn sạch album Đã xóa gần đây](/guides/empty-recently-deleted){:target="_self"} trong ứng dụng Ảnh. Nếu không, iOS sẽ tự động giải phóng sau 30 ngày.
+  - q: Tôi đã xóa ảnh nhưng dung lượng trống vẫn không tăng. Tại sao?
+    a: >-
+      Ảnh của bạn đã bị xóa, nhưng iOS vẫn đang giữ chúng lại cho bạn. Mỗi khi bạn xóa ảnh trên iPhone, dù bằng Swipe2delete hay bất kỳ ứng dụng nào khác, ảnh sẽ được chuyển vào album **Đã xóa gần đây** trong ứng dụng Ảnh và nằm ở đó tối đa 30 ngày như một lớp an toàn. Dung lượng chỉ được giải phóng khi album này được dọn sạch, hoặc tự động sau 30 ngày, hoặc thủ công ngay bây giờ. Xem hướng dẫn một phút của chúng tôi: [cách dọn sạch Đã xóa gần đây và giải phóng dung lượng ngay lập tức](/guides/empty-recently-deleted){:target="_self"}.
+  - q: Ảnh có bị xóa khỏi iCloud luôn không?
+    a: >-
+      Nếu bạn dùng Ảnh iCloud, thư viện của bạn luôn được đồng bộ, nên ảnh bạn xóa bằng Swipe2delete cũng sẽ bị xóa khỏi iCloud và các thiết bị khác của bạn (sau thời gian lưu trong Đã xóa gần đây). Nghĩa là việc dọn thư viện ảnh cũng đồng thời giải phóng dung lượng iCloud, có thể giúp bạn khỏi phải trả tiền cho gói iCloud lớn hơn.
+  - q: Ảnh của tôi có riêng tư không? Swipe2delete có tải ảnh lên đâu không?
+    a: >-
+      Ảnh của bạn không bao giờ rời khỏi thiết bị. Swipe2delete làm việc trực tiếp với thư viện ảnh trên iPhone của bạn. Không cần tài khoản, và ảnh của bạn không bao giờ được tải lên máy chủ của bất kỳ ai. Xem [chính sách quyền riêng tư](/privacy-policy){:target="_self"} của chúng tôi để biết chi tiết.
+  - q: Cách nhanh nhất để dọn một thư viện ảnh khổng lồ là gì?
+    a: >-
+      Đừng cố làm hết trong một lần. Đó chính là lý do khiến nhiều cuộc dọn dẹp bị bỏ dở. Swipe2delete chia thư viện của bạn theo từng tháng, nên cứ rảnh một phút là bạn có thể xử lý xong một tháng. Tiến độ được lưu theo từng tháng, vòng tròn tiến độ cho thấy bạn đã đi được bao xa, và tính năng **Ngày này năm xưa** đưa ảnh từ các năm trước quay lại để cả những bức ảnh cũ cũng được dọn dẹp.
+  - q: Ứng dụng này khác gì so với xóa ảnh trong ứng dụng Ảnh?
+    a: >-
+      Ứng dụng Ảnh bắt bạn chạm chọn từng ảnh một, rất dễ bấm nhầm mà lại không có bước xem lại. Swipe2delete được tạo ra chỉ để làm đúng một việc: quyết định giữ hay xóa thật nhanh. Mỗi ảnh một cú vuốt, có nút hoàn tác, có bước xem lại lần cuối trước khi xóa, và có theo dõi tiến độ để bạn thực sự hoàn thành. Người dùng đã xóa hơn 27 triệu bức ảnh với ứng dụng này.

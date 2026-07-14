@@ -1,0 +1,21 @@
+lang_name: 简体中文
+hreflang: zh-Hans
+page_title: "Swipe2delete: 滑动删除照片，轻松清理相册"
+app_subtitle: 滑动删除照片，清理你的相册
+app_description: >-
+  Swipe2delete是iPhone和iPad上快速又有趣的照片清理工具。
+  向左滑动删除照片，向右滑动保留。
+  按月整理相册，释放存储空间。
+features:
+  - title: 滑动整理
+    description: 向左滑动删除，向右滑动保留，轻松清理相册。简单高效，让照片井井有条。
+  - title: 按月清理
+    description: 一次只处理一个月的照片，轻松又有条理。每一批的进度都会自动保存。
+  - title: 那年今日
+    description: “那年今日”功能会带回往年同一天的照片，让你在重温美好瞬间的同时完成整理。
+  - title: 撤销误删
+    description: 滑错了？别担心！点一下撤销，就能立刻找回不小心删掉的照片。
+  - title: 最终确认
+    description: 完成前再看一眼要保留和要删除的照片，最后一刻也能随时更改。
+  - title: 进度追踪
+    description: 进度轮清晰展示你已经整理了多少、还剩多少，清理进程一目了然。

@@ -1,0 +1,64 @@
+title: Ofte stillede spørgsmål
+description: "Svar på almindelige spørgsmål om Swipe2delete: hvordan swipe for at slette fotos fungerer, gendannelse af slettede fotos, frigørelse af lagerplads på iPhone og i iCloud, privatliv og priser."
+outro: Har du stadig et spørgsmål? [Skriv til os](/contact){:target="_self"}, så hjælper vi gerne.
+items:
+  - q: Hvordan fungerer Swipe2delete?
+    a: >-
+      Swipe2delete viser din kamerarulle ét foto ad gangen, én måned ad gangen. Swipe til
+      venstre for at slette et foto, og swipe til højre for at beholde det. Når du er
+      færdig med en omgang, får du en sidste gennemgang af alt, du har markeret til
+      sletning, før noget fjernes. Det gør oprydning i tusindvis af fotos hurtig og,
+      ærligt talt, ret sjov.
+  - q: Er Swipe2delete gratis?
+    a: >-
+      Swipe2delete er gratis at hente og prøve. Premium låser op for ubegrænset oprydning,
+      og du kan vælge mellem et abonnement eller et engangskøb, der gælder for altid. Du
+      er altså aldrig bundet til en løbende betaling for at holde din kamerarulle ren.
+  - q: Kan jeg gendanne fotos, jeg har slettet ved en fejl?
+    a: >-
+      Ja, endda på to måder. Inde i appen kan du trykke på fortryd og straks få et foto
+      tilbage, du lige har swipet væk. Og fordi Swipe2delete bruger Apples fotobibliotek,
+      ryger alt, du sletter, i albummet **Slettet for nylig** i appen Fotos, hvor det
+      bliver liggende i op til 30 dage, før det fjernes permanent. Åbn Fotos → Album →
+      Slettet for nylig for at gendanne fotos når som helst i den periode.
+  - q: Frigør det lagerplads på min iPhone at slette fotos?
+    a: >-
+      Ja. Fotos og skærmbilleder er som regel noget af det, der fylder mest på en iPhone.
+      Når du har ryddet op i en måned, viser Swipe2delete præcis, hvor meget plads du har
+      sparet. Hvis pladsen skal frigøres med det samme, skal du også [tømme albummet
+      Slettet for nylig](/guides/empty-recently-deleted){:target="_self"} i appen Fotos.
+      Ellers frigør iOS den automatisk efter 30 dage.
+  - q: Jeg har slettet fotos, men der er stadig ingen ledig plads. Hvorfor?
+    a: >-
+      Dine fotos er slettet, men iOS gemmer dem for dig lidt endnu. Når du sletter fotos
+      på en iPhone, uanset om det er med Swipe2delete eller en anden app, ryger de i
+      albummet **Slettet for nylig** i appen Fotos, hvor de ligger i op til 30 dage som
+      sikkerhedsnet. Pladsen frigøres først, når albummet tømmes, enten automatisk efter
+      30 dage eller manuelt med det samme. Se vores etminutsguide: [sådan tømmer du
+      Slettet for nylig og frigør plads med det samme](/guides/empty-recently-deleted){:target="_self"}.
+  - q: Bliver fotos også slettet fra iCloud?
+    a: >-
+      Hvis du bruger iCloud-fotos, holdes dit bibliotek synkroniseret, så et foto, du
+      sletter med Swipe2delete, forsvinder også fra iCloud og dine andre enheder (efter
+      perioden i Slettet for nylig). Oprydning i kamerarullen frigør altså også
+      iCloud-plads og kan spare dig for et større iCloud-abonnement.
+  - q: Er mine fotos private? Uploader Swipe2delete dem nogen steder hen?
+    a: >-
+      Dine fotos forlader aldrig din enhed. Swipe2delete arbejder direkte med
+      fotobiblioteket på din iPhone. Der er ingen konto, og dine fotos uploades aldrig til
+      nogen server. Se vores [privatlivspolitik](/privacy-policy){:target="_self"} for
+      detaljerne.
+  - q: Hvad er den hurtigste måde at rydde op i en kæmpe kamerarulle på?
+    a: >-
+      Lad være med at prøve at tage det hele på én gang. Det er sådan, oprydninger går i
+      stå. Swipe2delete deler dit bibliotek op i måneder, så du kan klare en måned, når du
+      har et ledigt øjeblik. Din fremgang gemmes for hver måned, et fremgangshjul viser,
+      hvor langt du er nået, og funktionen **På denne dag** henter fotos frem fra
+      tidligere år, så gammelt rod også bliver taget hånd om.
+  - q: Hvordan adskiller det sig fra at slette fotos i appen Fotos?
+    a: >-
+      I appen Fotos skal du markere hvert enkelt foto, det er nemt at ramme det forkerte,
+      og der er ingen sidste gennemgang. Swipe2delete er bygget til præcis én opgave,
+      nemlig hurtigt at beslutte behold eller slet. Ét swipe pr. foto, en fortryd-knap, en
+      sidste gennemgang, før noget slettes, og fremgangssporing, så du rent faktisk bliver
+      færdig. Der er allerede slettet over 27 millioner fotos med appen.

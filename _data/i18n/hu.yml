@@ -1,0 +1,21 @@
+lang_name: Magyar
+hreflang: hu
+page_title: "Swipe2delete: Törölj fotókat egy húzással és tedd rendbe a kameratekercsed"
+app_subtitle: Húzd el a fotókat a törléshez és tedd rendbe a kameratekercsed
+app_description: >-
+  A Swipe2delete a gyors és szórakoztató fotótisztító iPhone-ra és iPadre. Húzd
+  balra a törléshez, jobbra a megtartáshoz. Tedd rendbe a kameratekercsed
+  hónapról hónapra, és szabadíts fel tárhelyet.
+features:
+  - title: Húzd és rendszerezz
+    description: Tedd rendbe a kameratekercsed egyszerűen. Húzd balra a törléshez vagy jobbra a megtartáshoz. Egyszerű és hatékony módja a fotóid kiselejtezésének.
+  - title: Havi nagytakarítás
+    description: Haladj a fotóiddal hónapról hónapra, rendezetten és átláthatóan. Az előrehaladásod minden adag után mentésre kerül.
+  - title: Ezen a napon emlékek
+    description: Éld újra a különleges pillanatokat. Az „Ezen a napon” funkció visszahozza a korábbi évek fotóit, hogy átnézhesd és rendszerezhesd őket.
+  - title: Hibák visszavonása
+    description: Elrontottad? Semmi gond! Koppints a visszavonásra, és azonnal visszakapod a véletlenül törölt fotót.
+  - title: Végső átnézés
+    description: Mielőtt végeznél, még egyszer átnézheted a megtartott és törölt fotókat, és az utolsó pillanatban is módosíthatsz.
+  - title: Haladáskövetés
+    description: Kövesd a takarítást a haladási kerékkel. Megmutatja, mennyit rendszereztél már és mennyi van hátra.

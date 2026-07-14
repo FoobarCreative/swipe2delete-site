@@ -386,7 +386,8 @@ nav > ul li a:active {
 	margin-top: 68px;
 }
 
-.heroShot img {
+.heroShot img,
+.heroShot video {
 	width: 380px;
 	height: auto;
 	align-self: start;
@@ -396,7 +397,8 @@ nav > ul li a:active {
 
 @media only screen and (max-width: 1070px) {
 
-	.heroShot img {
+	.heroShot img,
+	.heroShot video {
 		width: 340px;
 	}
 
@@ -409,7 +411,8 @@ nav > ul li a:active {
 		padding-bottom: 75px;
 	}
 
-	.heroShot img {
+	.heroShot img,
+	.heroShot video {
 		width: 270px;
 	}
 
@@ -449,6 +452,13 @@ nav > ul li a:active {
 
 	.gallery {
 		margin-top: 20px;
+	}
+
+	.galleryStrip {
+		margin-left: -15px;		// bleed the scroll strip to the viewport edges
+		margin-right: -15px;
+		padding-left: 15px;
+		padding-right: 15px;
 	}
 
 	.galleryStrip img {

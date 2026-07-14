@@ -9,7 +9,14 @@
                 <div class="container">
                     {% include header.html %}
                     <div class="heroShot">
+                        {% if site.hero_video %}
+                        <video autoplay muted loop playsinline width="600" height="1300" poster="{{ site.hero_video_poster | default: 'assets/screenshot/gallery-2.webp' | relative_url }}" aria-label="Demo of swiping to keep or delete photos in Swipe2delete">
+                            {% if site.hero_video_webm %}<source src="{{ site.hero_video_webm | relative_url }}" type="video/webm">{% endif %}
+                            <source src="{{ site.hero_video | relative_url }}" type="video/mp4">
+                        </video>
+                        {% else %}
                         <img src="{{ 'assets/screenshot/gallery-2.webp' | relative_url }}" width="600" height="1300" alt="Swipe right to keep a photo in Swipe2delete, the swipe to delete photo cleaner for iPhone">
+                        {% endif %}
                     </div>
                     <div class="appInfo">
                         <div class="appIconShadow">

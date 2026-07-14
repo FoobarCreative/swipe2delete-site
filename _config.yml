@@ -18,7 +18,7 @@ app_name                                  : Swipe2delete                        
 app_subtitle                              : Swipe to delete photos & clean your camera roll
 app_price                                 : " "                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : |
-  Swipe2delete is the fast, fun photo cleaner for iPhone. Swipe left to delete photos, swipe right to keep them. Clean up your camera roll one month at a time and free up storage.
+  Swipe2delete is the fast, fun photo cleaner for iPhone and iPad. Swipe left to delete photos, swipe right to keep them. Clean up your camera roll one month at a time and free up storage.
 
 app_category                              : UtilitiesApplication                      # Schema.org applicationCategory for structured data (e.g. UtilitiesApplication, MultimediaApplication, DesignApplication, LifestyleApplication, BrowserApplication).
 # App Store Rating (for structured data / rich results)
@@ -26,6 +26,11 @@ app_rating_value                          : 4.6
 app_rating_count                          : 64
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
+
+# Hero video (optional). When set, the hero shows a muted looping video instead of the static screenshot.
+hero_video                                :                                           # e.g. assets/videos/hero.mp4 (H.264, portrait, keep it under ~3MB)
+hero_video_webm                           :                                           # Optional WebM version, served first when set
+hero_video_poster                         :                                           # Poster image shown before the video loads (defaults to the hero screenshot)
 og_image                                  : assets/s2d_ogimage.jpg                    # The default open graph image
 
 # Information About Yourself

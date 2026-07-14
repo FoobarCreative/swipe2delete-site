@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Best Swipe Photo Cleaner Apps
-description: "The best swipe-to-delete photo cleaner apps for iPhone, compared honestly: Swipewipe, Slidebox, Slider, and Swipe2delete. Including the one you can pay for once instead of subscribing."
+description: "The best swipe-to-delete photo cleaner apps for iPhone, compared honestly: Swipewipe, Slidebox, Slider, Picnic, and Swipe2delete. Including the one you can pay for once instead of subscribing."
 permalink: /swipewipe-alternative
 redirect_from:
   - /swipewipe-alternative/
@@ -30,7 +30,11 @@ One of the originals, going strong for years with a 4.8 rating. Slidebox uses a 
 
 The highest-rated of the bunch at 4.9. As the name says, it covers videos as well as photos, which matters because a few forgotten videos often take more space than a thousand photos.
 
-## 4. Swipe2delete (that's us)
+## 4. Photo Organizer: Picnic
+
+A swipe-to-sort organizer with a twist: instead of deleting straight away, swiping left sends photos to an archive you empty in one tap. Rated 4.8. Worth knowing before you pick it as your Swipewipe alternative: Picnic is made by MWM, the same publisher that operates Swipewipe.
+
+## 5. Swipe2delete (that's us)
 
 [Swipe2delete]({{ site.appstore_link }}) does the core job the same way you'd expect: swipe left to delete, right to keep, one month at a time, with an undo button and a final review before anything is deleted. **On This Day** resurfaces photos from past years so old clutter gets dealt with too. Over 27 million photos deleted so far.
 
@@ -41,6 +45,7 @@ The honest pitch for choosing ours: **you can pay for it once.** Swipe2delete is
 - **Want to pay once and be done?** Swipe2delete is the one with a lifetime purchase option.
 - **Want to organize into albums while you clean?** Slidebox.
 - **Lots of big videos to clear out?** Slider.
+- **Prefer archiving over deleting straight away?** Picnic.
 - **Want the biggest user base?** Swipewipe.
 
 Whichever you pick, one tip applies to all of them: deleted photos sit in iOS's Recently Deleted album for 30 days before the space is actually freed. [Empty it after your cleanup](/guides/empty-recently-deleted){:target="_self"} to get the storage back immediately.
@@ -73,6 +78,11 @@ Whichever you pick, one tip applies to all of them: deleted photos sit in iOS's 
     {
       "@type": "ListItem",
       "position": 4,
+      "name": "Photo Organizer: Picnic"
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
       "name": "Photo Cleaner: Swipe2delete",
       "url": "{{ '/' | absolute_url }}"
     }

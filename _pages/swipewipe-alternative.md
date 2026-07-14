@@ -7,7 +7,7 @@ redirect_from:
   - /swipewipe-alternative/
 comments: false
 include_in_header: false
-include_in_footer: true
+include_in_footer: false
 og_title: "The best swipe photo cleaner apps for iPhone"
 og_description: "Swipewipe, Slidebox, Slider, and Swipe2delete compared honestly. Including the one with a pay-once option."
 ---

@@ -421,12 +421,10 @@ nav > ul li a:active {
 	grid-area: g;
 	margin-top: 90px;
 	min-width: 0;			// keep the scroll strip from widening the grid track
-}
-
-.gallery h2 {
-	color: $feature-title-color;
-	text-align: center;
-	margin-bottom: 40px;
+	padding: 48px 0;
+	background-color: $section-background-color;
+	box-shadow: 0 0 0 100vmax $section-background-color;	// full-bleed band without breaking the grid
+	clip-path: inset(0 -100vmax);
 }
 
 .galleryStrip {

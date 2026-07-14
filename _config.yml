@@ -106,6 +106,8 @@ device_color                              : coral                               
 
 body_background_color                     : "#ffffff"
 
+section_background_color                  : "#f6f3fa"                                 # Background band behind the screenshot gallery section
+
 link_color                                : "#550a9d" #  "#1d63ea"
 
 app_title_color                           : "#ffffff"

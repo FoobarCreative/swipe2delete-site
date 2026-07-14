@@ -3,6 +3,7 @@
 ---
 
 $body-color: {{ site.body_background_color }};
+$section-background-color: {{ site.section_background_color | default: site.body_background_color }};
 
 $header-image: "{{ site.cover_image }}";
 

@@ -20,7 +20,7 @@ Here's the method that works.
 
 Don't clean your camera roll. Clean **one month** of it, whenever you have a spare five minutes. A month is small enough to finish in one sitting, and finishing is what keeps you going.
 
-That's the entire idea behind [Swipe2delete]({{ site.appstore_link }}). It slices your library into months and turns each photo into a single decision:
+That's the entire idea behind [Swipe2delete]({{ site.appstore_link | replace: 'ct=website', 'ct=guides' }}). It slices your library into months and turns each photo into a single decision:
 
 ### 1. Pick a month
 

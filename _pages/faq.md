@@ -52,7 +52,7 @@ The Photos app makes you tap select on each photo, and it's easy to fat-finger t
 
 Still have a question? [Get in touch](/contact){:target="_self"} and we'll be happy to help.
 
-<a class="appStoreLink" href="{{ site.appstore_link }}"><img class="appStore" src="{{ 'assets/appstore.png' | relative_url }}" alt="Download Swipe2delete on the App Store"></a>
+<a class="appStoreLink" href="{{ site.appstore_link | replace: 'ct=website', 'ct=faq' }}"><img class="appStore" src="{{ 'assets/appstore.png' | relative_url }}" alt="Download Swipe2delete on the App Store"></a>
 
 <script type="application/ld+json">
 {

@@ -1,0 +1,21 @@
+lang_name: Français
+hreflang: fr
+page_title: "Swipe2delete : supprimez des photos d'un geste et nettoyez votre pellicule"
+app_subtitle: Balayez pour supprimer des photos et nettoyer votre pellicule
+app_description: >-
+  Swipe2delete est le nettoyeur de photos rapide et amusant pour iPhone et iPad.
+  Balayez vers la gauche pour supprimer une photo, vers la droite pour la garder.
+  Nettoyez votre pellicule mois par mois et libérez de l'espace de stockage.
+features:
+  - title: Balayez pour trier
+    description: Nettoyez facilement votre pellicule en balayant vers la gauche pour supprimer ou vers la droite pour garder. Une façon simple et efficace de désencombrer vos photos.
+  - title: Nettoyage mensuel
+    description: Traitez vos photos un mois à la fois, pour rester organisé sans vous laisser déborder. Votre progression est enregistrée à chaque session.
+  - title: Souvenirs "Ce jour-là"
+    description: Revivez vos plus beaux moments. La fonction "Ce jour-là" fait remonter les photos des années passées pour les revoir et les trier.
+  - title: Annulez vos erreurs
+    description: Une erreur ? Pas de panique ! Touchez Annuler pour récupérer instantanément une photo supprimée par accident.
+  - title: Vérification finale
+    description: Avant de terminer, jetez un dernier coup d'œil aux photos gardées et supprimées, avec la possibilité de changer d'avis au dernier moment.
+  - title: Suivi de progression
+    description: Suivez votre grand ménage grâce à la roue de progression, qui montre ce que vous avez déjà trié et ce qu'il reste à faire.

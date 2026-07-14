@@ -647,6 +647,20 @@ footer {
 	margin-right: 0px;
 }
 
+.footerLocales {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 8px 20px;
+	width: 100%;
+	padding-bottom: 70px;
+	font-size: 0.85em;
+
+	a {
+		color: rgba($footer-text-color, 0.9);
+	}
+}
+
 
 @media only screen and (max-width: 768px) {
 

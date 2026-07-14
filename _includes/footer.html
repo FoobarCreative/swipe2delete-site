@@ -76,4 +76,12 @@
 		{% endfor %}
 			<a href="https://foobarcreative.com">Foobar Creative</a>
 	</div>
+	{% if page.translated %}
+	<div class="footerLocales">
+		<a href="{{ '/' | relative_url }}" target="_self">English</a>
+		{% for locale in site.data.i18n %}
+		<a href="/{{ locale[0] }}/" target="_self">{{ locale[1].lang_name }}</a>
+		{% endfor %}
+	</div>
+	{% endif %}
 </footer>

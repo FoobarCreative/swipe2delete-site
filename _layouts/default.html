@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en-us">
+{% assign t = site.data.i18n[page.lang] %}
+<html lang="{{ t.hreflang | default: 'en' }}">
 
 {% include head.html %}
 
@@ -34,7 +35,7 @@
                                 {{ site.app_name }}
                             </h1>
                             <h2 class="appPrice">
-                                {{ site.app_subtitle }}
+                                {{ t.app_subtitle | default: site.app_subtitle }}
                             </h2>
                             <!-- <h2 class="appPrice">
                                 {{ site.app_price }}
@@ -42,14 +43,14 @@
                         </div>
                         <div class="appDescriptionContainer">
                             <p class ="appDescription">
-                                {{ site.app_description }}
+                                {{ t.app_description | default: site.app_description }}
                             </p>
                         </div>
                         <div class="downloadButtonsContainer">
                             {% if site.playstore_link %}
-                                <a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore" src="assets/playstore.png"></a>
+                                <a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore" src="{{ '/assets/playstore.png' | relative_url }}" alt="Get it on Google Play"></a>
                             {% endif %}
-                            <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStore" src="assets/appstore.png"></a>
+                            <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStore" src="{{ '/assets/appstore.png' | relative_url }}" alt="Download on the App Store"></a>
                         </div>
                     </div>
                     {% include gallery.html %}

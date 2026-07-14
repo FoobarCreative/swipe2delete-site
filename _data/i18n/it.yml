@@ -1,0 +1,21 @@
+lang_name: Italiano
+hreflang: it
+page_title: "Swipe2delete: scorri per eliminare le foto e pulire il rullino"
+app_subtitle: Scorri per eliminare le foto e pulire il rullino
+app_description: >-
+  Swipe2delete è il pulitore di foto rapido e divertente per iPhone e iPad.
+  Scorri a sinistra per eliminare le foto e a destra per conservarle.
+  Pulisci il rullino un mese alla volta e libera spazio di archiviazione.
+features:
+  - title: Scorri per organizzare
+    description: Pulisci facilmente il rullino scorrendo a sinistra per eliminare o a destra per conservare. Un modo semplice ed efficiente per mettere ordine tra le foto.
+  - title: Pulizia mensile
+    description: Affronta le tue foto un mese alla volta, in modo ordinato e gestibile. I tuoi progressi vengono salvati a ogni sessione.
+  - title: Ricordi di "Questo giorno"
+    description: Rivivi i momenti speciali. La funzione "Questo giorno" ripropone le foto degli anni passati da rivedere e organizzare.
+  - title: Annulla gli errori
+    description: Hai sbagliato? Nessun problema! Tocca annulla e recupera subito una foto eliminata per errore.
+  - title: Revisione finale
+    description: Prima di finire, dai un ultimo sguardo alle foto che conservi ed elimini, con la possibilità di cambiare idea all'ultimo momento.
+  - title: Avanzamento
+    description: Tieni d'occhio la tua pulizia con la ruota di avanzamento, che mostra quanto hai già sistemato e cosa manca.

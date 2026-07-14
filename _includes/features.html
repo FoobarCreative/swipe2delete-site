@@ -1,8 +1,12 @@
 <div class="features">
 
+    {% assign tfeatures = site.data.i18n[page.lang].features %}
+    {% assign fi = 0 %}
     {% for feature in site.features %}
 
     {% if feature.title %}
+    {% assign tf = tfeatures[fi] %}
+    {% assign fi = fi | plus: 1 %}
     <div class="feature">
         <div>
             {% if feature.fontawesome_icon_name %}
@@ -17,10 +21,10 @@
         </div>
         <div class="featureText">
             <h3>
-                {{ feature.title }}
+                {{ tf.title | default: feature.title }}
             </h3>
             <p>
-                {{ feature.description }}
+                {{ tf.description | default: feature.description }}
             </p>
         </div>
     </div>

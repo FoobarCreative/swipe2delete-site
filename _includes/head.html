@@ -77,9 +77,9 @@
 				}
 			},
 			{
-				"@type": "SoftwareApplication",
+				"@type": ["SoftwareApplication", "MobileApplication"],
 				"name": {{ site.app_name | jsonify }},
-				"description": {{ site.app_description | jsonify }},
+				"description": {{ site.app_description | strip_newlines | strip | jsonify }},
 				"url": "{{ '/' | absolute_url }}",
 				"applicationCategory": {{ site.app_category | default: 'UtilitiesApplication' | jsonify }},
 				"operatingSystem": "iOS",
@@ -93,7 +93,9 @@
 				"aggregateRating": {
 					"@type": "AggregateRating",
 					"ratingValue": "{{ site.app_rating_value }}",
-					"ratingCount": "{{ site.app_rating_count }}"
+					"ratingCount": "{{ site.app_rating_count }}",
+					"bestRating": 5,
+					"worstRating": 1
 				},{% endif %}
 				"publisher": { "@id": "{{ '/' | absolute_url }}#organization" }
 			}
@@ -102,6 +104,4 @@
 	</script>
 
 	<link rel="stylesheet" href="{{ '/main.css' | relative_url }}">
-
-	{% include jsonld.html %}
 </head>

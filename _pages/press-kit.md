@@ -24,12 +24,12 @@ Developed by Foobar Creative, a native iOS app development studio from Adelaide,
 
 ## Key Features
 
-- **Swipe to Organize** — Swipe left to delete, right to keep
-- **Monthly Cleanup** — Tackle photos one month at a time
-- **On This Day Memories** — Relive moments from past years
-- **Undo Mistakes** — Tap to undo any accidental deletion
-- **Final Review** — Review your choices before confirming
-- **Progress Tracker** — See how much you've sorted through
+- **Swipe to Organize**: Swipe left to delete, right to keep
+- **Monthly Cleanup**: Tackle photos one month at a time
+- **On This Day Memories**: Relive moments from past years
+- **Undo Mistakes**: Tap to undo any accidental deletion
+- **Final Review**: Review your choices before confirming
+- **Progress Tracker**: See how much you've sorted through
 
 ## Download Press Kit
 

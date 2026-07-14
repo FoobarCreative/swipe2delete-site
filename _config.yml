@@ -1,5 +1,5 @@
 #page title
-page_title                                : "Swipe2delete — Swipe to Delete Photos & Clean Your Camera Roll"                              # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : "Swipe2delete: Swipe to Delete Photos & Clean Your Camera Roll"                              # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # Site URL (required for sitemap)
 url                                       : https://www.swipe2delete.com
@@ -18,7 +18,7 @@ app_name                                  : Swipe2delete                        
 app_subtitle                              : Swipe to delete photos & clean your camera roll
 app_price                                 : " "                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : |
-  Swipe2delete is the fast, fun photo cleaner for iPhone. Swipe left to delete photos, swipe right to keep them — clean up your camera roll one month at a time and free up storage.
+  Swipe2delete is the fast, fun photo cleaner for iPhone. Swipe left to delete photos, swipe right to keep them. Clean up your camera roll one month at a time and free up storage.
 
 app_category                              : UtilitiesApplication                      # Schema.org applicationCategory for structured data (e.g. UtilitiesApplication, MultimediaApplication, DesignApplication, LifestyleApplication, BrowserApplication).
 # App Store Rating (for structured data / rich results)

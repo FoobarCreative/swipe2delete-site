@@ -703,6 +703,45 @@ footer {
 	display: none;
 }
 
+// In-app view: ?inapp=true strips the site chrome for pages shown inside the iOS app
+.in-app-view {
+
+	header {
+		display: none !important;
+	}
+
+	.headerBackground {
+		height: 0 !important;
+		min-height: 0 !important;
+	}
+
+	.subPageContainer {
+		padding-top: 20px;
+	}
+
+	.breadcrumbs {
+		display: none !important;
+	}
+
+	.related-guides,
+	.guide-article h2:has(+ .related-guides),
+	.guide-article hr:has(+ h2 + .related-guides),
+	.guide-article .related-guides + hr,
+	.guide-article hr + .app-cta,
+	.app-cta,
+	.guide-footer {
+		display: none !important;
+	}
+
+	.appStoreLink {
+		display: none !important;
+	}
+
+	.footerLocales {
+		display: none !important;
+	}
+}
+
 // Guide screenshot images
 .guide-article.markdown-body img {
 	max-width: 414px;

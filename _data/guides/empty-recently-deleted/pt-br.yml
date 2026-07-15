@@ -1,0 +1,58 @@
+title: "Apagou fotos mas continua sem espaço? Como esvaziar o álbum Apagados no iPhone"
+short_title: "Esvaziar Apagados"
+description: "Fotos apagadas continuam ocupando espaço por 30 dias no álbum Apagados. Veja como esvaziá-lo e liberar espaço no seu iPhone na hora."
+cta_label: "Abrir o Fotos →"
+body: |
+  Você limpou sua galeria, mas a barra de armazenamento não mudou. Fique tranquilo: suas fotos foram mesmo apagadas. O iOS só as guarda por 30 dias antes de liberar o espaço.
+
+  ## Por que seu espaço ainda não foi liberado
+
+  Quando você apaga fotos no iPhone, seja com o Swipe2delete, outro app ou o próprio app Fotos, o iOS não as remove imediatamente. Elas vão para o álbum **Apagados**, onde ficam por **30 dias** como rede de segurança, caso você mude de ideia. Até esse álbum ser esvaziado, as fotos continuam ocupando espaço.
+
+  **A solução:** esvazie o álbum Apagados manualmente e o espaço é recuperado na hora.
+
+  ## Passo a passo: esvaziar o álbum Apagados
+
+  ### 1. Abra o app Fotos
+
+  Toque no ícone do **Fotos** na tela de início.
+
+  ![App Fotos na tela de início](/assets/guides/empty-recently-deleted/photos.webp)
+
+  ### 2. Role até Apagados
+
+  Role para baixo até a seção **Utilitários** e toque em **Apagados**. (Em versões mais antigas do iOS, ele fica em Álbuns.)
+
+  ![Apagados na seção Utilitários](/assets/guides/empty-recently-deleted/recently-deleted.webp)
+
+  ### 3. Esvazie o álbum
+
+  Toque em **Selecionar** no canto superior direito e depois em **Apagar tudo** no canto inferior esquerdo.
+
+  ![Selecionar no álbum Apagados](/assets/guides/empty-recently-deleted/select.webp)
+
+  ![Apagar tudo no álbum Apagados](/assets/guides/empty-recently-deleted/delete-all.webp)
+
+  ### 4. Confirme
+
+  Toque em **Apagar de todos os dispositivos** para removê-las em definitivo.
+
+  ![Janela de confirmação para apagar as fotos](/assets/guides/empty-recently-deleted/delete-from-all-devices.webp)
+
+  ✅ **Pronto!** O espaço é liberado imediatamente, no seu iPhone e no iCloud, se você usa o Fotos do iCloud.
+
+  ## Quanto espaço vou recuperar?
+
+  O álbum Apagados mostra o tamanho total no topo. Depois de uma boa limpeza na galeria, costuma ser bastante coisa:
+
+  - Limpeza leve: 500 MB - 2 GB
+  - Limpeza normal: 2 GB - 5 GB
+  - Limpeza pesada: 5 GB - 10 GB+
+
+  ## Bom saber
+
+  ⚠️ **Esvaziar o álbum Apagados não pode ser desfeito.** Dê uma olhada rápida antes de apagar tudo. É sua última chance de resgatar uma foto.
+
+  💡 **Você nem precisa fazer isso.** Se não estiver com pressa, o iOS esvazia o álbum automaticamente, 30 dias depois de cada foto ser apagada. Esvaziar manualmente só libera o espaço agora.
+
+  💡 **Faça disso um hábito.** Depois de cada sessão de limpeza, esvazie o álbum Apagados uma vez. É aí que o armazenamento realmente volta.

@@ -27,7 +27,7 @@ items:
       Áno. Fotky a snímky obrazovky zvyčajne patria k najväčším žrútom miesta na iPhone.
       Po každom upratanom mesiaci vám Swipe2delete presne ukáže, koľko miesta ste
       ušetrili. Aby sa miesto uvoľnilo okamžite, [vyprázdnite aj album Nedávno
-      vymazané](/guides/empty-recently-deleted){:target="_self"} v aplikácii Fotky. Inak
+      vymazané](/sk/guides/empty-recently-deleted){:target="_self"} v aplikácii Fotky. Inak
       ho iOS uvoľní automaticky po 30 dňoch.
   - q: Fotky sú vymazané, ale voľné miesto sa stále neobjavilo. Prečo?
     a: >-
@@ -36,7 +36,7 @@ items:
       albumu **Nedávno vymazané** v aplikácii Fotky, kde ako poistka čakajú až 30 dní.
       Miesto sa uvoľní až po vyprázdnení tohto albumu, buď automaticky po 30 dňoch, alebo
       hneď ručne. Pozrite si náš minútový návod: [ako vyprázdniť Nedávno vymazané a
-      okamžite uvoľniť miesto](/guides/empty-recently-deleted){:target="_self"}.
+      okamžite uvoľniť miesto](/sk/guides/empty-recently-deleted){:target="_self"}.
   - q: Vymažú sa fotky aj z iCloudu?
     a: >-
       Ak používate iCloud Fotky, vaša knižnica zostáva synchronizovaná. Fotka vymazaná cez

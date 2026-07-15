@@ -1,0 +1,58 @@
+title: "Fotos gelöscht, aber immer noch kein freier Speicher? Zuletzt gelöscht auf dem iPhone leeren"
+short_title: "Zuletzt gelöscht leeren"
+description: "Gelöschte Fotos belegen im Album Zuletzt gelöscht noch 30 Tage lang Speicherplatz. So leerst du das Album und schaffst sofort freien Speicher auf deinem iPhone."
+cta_label: "Fotos öffnen →"
+body: |
+  Du hast deine Kamerarolle aufgeräumt, aber der Speicherbalken hat sich nicht bewegt. Keine Sorge: Deine Fotos sind wirklich gelöscht. iOS behält sie nur 30 Tage lang, bevor es den Platz freigibt.
+
+  ## Warum dein Speicher noch nicht frei ist
+
+  Wenn du auf einem iPhone Fotos löschst, ob mit Swipe2delete, einer anderen App oder direkt in der Fotos-App, entfernt iOS sie nicht sofort. Sie wandern ins Album **Zuletzt gelöscht** und bleiben dort **30 Tage** als Sicherheitsnetz, falls du es dir anders überlegst. Bis dieses Album geleert wird, belegen die Fotos weiterhin Speicherplatz.
+
+  **Die Lösung:** Leere das Album "Zuletzt gelöscht" von Hand, und der Platz wird sofort freigegeben.
+
+  ## Schritt für Schritt: Zuletzt gelöscht leeren
+
+  ### 1. Öffne die Fotos-App
+
+  Tippe auf dem Home-Bildschirm auf das **Fotos**-Symbol.
+
+  ![Fotos-App auf dem Home-Bildschirm](/assets/guides/empty-recently-deleted/photos.webp)
+
+  ### 2. Scrolle zu Zuletzt gelöscht
+
+  Scrolle nach unten zum Bereich **Weitere** und tippe auf **Zuletzt gelöscht**. (In älteren iOS-Versionen findest du es unter Alben.)
+
+  ![Zuletzt gelöscht im Bereich Weitere](/assets/guides/empty-recently-deleted/recently-deleted.webp)
+
+  ### 3. Leere das Album
+
+  Tippe oben rechts auf **Auswählen** und dann unten links auf **Alle löschen**.
+
+  ![Auswählen in Zuletzt gelöscht](/assets/guides/empty-recently-deleted/select.webp)
+
+  ![Alle löschen in Zuletzt gelöscht](/assets/guides/empty-recently-deleted/delete-all.webp)
+
+  ### 4. Bestätige
+
+  Tippe auf **Von allen Geräten löschen**, um die Fotos endgültig zu entfernen.
+
+  ![Bestätigungsdialog zum Löschen der Fotos](/assets/guides/empty-recently-deleted/delete-from-all-devices.webp)
+
+  ✅ **Fertig!** Der Speicherplatz ist sofort frei, auf deinem iPhone und, falls du iCloud-Fotos nutzt, auch in iCloud.
+
+  ## Wie viel Speicherplatz bekomme ich zurück?
+
+  Das Album "Zuletzt gelöscht" zeigt oben seine Gesamtgröße an. Nach einer richtigen Aufräumaktion in der Kamerarolle kommt oft einiges zusammen:
+
+  - Kleines Aufräumen: 500 MB - 2 GB
+  - Normales Aufräumen: 2 GB - 5 GB
+  - Großes Aufräumen: 5 GB - 10 GB+
+
+  ## Gut zu wissen
+
+  ⚠️ **Das Leeren von "Zuletzt gelöscht" lässt sich nicht rückgängig machen.** Scrolle vorher noch einmal kurz durch, bevor du alles löschst. Es ist deine letzte Chance, ein Foto zu retten.
+
+  💡 **Du musst das gar nicht tun.** Wenn du es nicht eilig hast, leert iOS das Album automatisch, 30 Tage nachdem ein Foto gelöscht wurde. Das manuelle Leeren verschafft dir den Platz nur sofort.
+
+  💡 **Mach es zur Gewohnheit.** Leere "Zuletzt gelöscht" nach jeder Aufräumrunde einmal. Genau dann kommt der Speicherplatz tatsächlich zurück.

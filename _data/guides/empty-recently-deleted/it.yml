@@ -1,0 +1,58 @@
+title: "Hai eliminato le foto ma lo spazio non aumenta? Come svuotare Eliminati di recente su iPhone"
+short_title: "Svuotare Eliminati di recente"
+description: "Le foto eliminate continuano a occupare spazio per 30 giorni nell'album Eliminati di recente. Ecco come svuotarlo e liberare subito spazio sul tuo iPhone."
+cta_label: "Apri Foto →"
+body: |
+  Hai ripulito il rullino, ma la barra dello spazio non si è mossa. Niente paura: le tue foto sono davvero eliminate. iOS le conserva solo per 30 giorni prima di liberare lo spazio.
+
+  ## Perché il tuo spazio non è ancora libero
+
+  Quando elimini foto su iPhone, con Swipe2delete, un'altra app o la stessa app Foto, iOS non le rimuove subito. Le sposta nell'album **Eliminati di recente**, dove restano **30 giorni** come rete di sicurezza, nel caso cambiassi idea. Finché quell'album non viene svuotato, le foto continuano a occupare spazio.
+
+  **La soluzione:** svuota manualmente l'album Eliminati di recente e lo spazio viene recuperato subito.
+
+  ## Passo dopo passo: svuotare Eliminati di recente
+
+  ### 1. Apri l'app Foto
+
+  Tocca l'icona di **Foto** nella schermata Home.
+
+  ![App Foto nella schermata Home](/assets/guides/empty-recently-deleted/photos.webp)
+
+  ### 2. Scorri fino a Eliminati di recente
+
+  Scorri verso il basso fino alla sezione **Utility** e tocca **Eliminati di recente**. (Nelle versioni precedenti di iOS si trova in Album.)
+
+  ![Eliminati di recente nella sezione Utility](/assets/guides/empty-recently-deleted/recently-deleted.webp)
+
+  ### 3. Svuota l'album
+
+  Tocca **Seleziona** in alto a destra, poi **Elimina tutto** in basso a sinistra.
+
+  ![Seleziona in Eliminati di recente](/assets/guides/empty-recently-deleted/select.webp)
+
+  ![Elimina tutto in Eliminati di recente](/assets/guides/empty-recently-deleted/delete-all.webp)
+
+  ### 4. Conferma
+
+  Tocca **Elimina da tutti i dispositivi** per rimuoverle definitivamente.
+
+  ![Finestra di conferma per eliminare le foto](/assets/guides/empty-recently-deleted/delete-from-all-devices.webp)
+
+  ✅ **Fatto!** Lo spazio si libera immediatamente, sul tuo iPhone e in iCloud se usi Foto di iCloud.
+
+  ## Quanto spazio recupererò?
+
+  L'album Eliminati di recente mostra in alto la sua dimensione totale. Dopo una buona pulizia del rullino è spesso parecchio:
+
+  - Pulizia leggera: 500 MB - 2 GB
+  - Pulizia normale: 2 GB - 5 GB
+  - Pulizia grande: 5 GB - 10 GB+
+
+  ## Buono a sapersi
+
+  ⚠️ **Svuotare Eliminati di recente non si può annullare.** Dai una rapida occhiata prima di eliminare tutto. È la tua ultima occasione per salvare una foto.
+
+  💡 **Non sei obbligato a farlo.** Se non hai fretta, iOS svuota l'album automaticamente, 30 giorni dopo l'eliminazione di ogni foto. Svuotarlo manualmente ti restituisce solo lo spazio subito.
+
+  💡 **Fanne un'abitudine.** Dopo ogni sessione di pulizia, svuota Eliminati di recente una volta. È in quel momento che lo spazio torna davvero.

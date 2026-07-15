@@ -1,0 +1,58 @@
+title: "Fotoğrafları sildiniz ama hala yer yok mu? iPhone'da Son Silinenler'i boşaltın"
+short_title: "Son Silinenler'i Boşalt"
+description: "Silinen fotoğraflar, Son Silinenler albümünde 30 gün boyunca depolama alanı kullanmaya devam eder. iPhone'unuzda hemen yer açmak için albümü nasıl boşaltacağınızı anlatıyoruz."
+cta_label: "Fotoğraflar'ı Aç →"
+body: |
+  Galerinizi temizlediniz ama depolama çubuğu yerinden oynamadı. Endişelenmeyin: fotoğraflarınız gerçekten silindi. iOS, alanı serbest bırakmadan önce onları yalnızca 30 gün tutuyor.
+
+  ## Depolama alanınız neden hala boşalmadı
+
+  iPhone'da fotoğraf sildiğinizde, ister Swipe2delete ile ister başka bir uygulamayla ister Fotoğraflar uygulamasının kendisiyle, iOS onları hemen kaldırmaz. Fikrinizi değiştirme ihtimalinize karşı güvenlik ağı olarak **30 gün** bekleyecekleri **Son Silinenler** albümüne taşır. Bu albüm boşaltılana kadar fotoğraflar depolama alanı kaplamaya devam eder.
+
+  **Çözüm:** Son Silinenler albümünü elle boşaltın, alan hemen geri kazanılır.
+
+  ## Adım adım: Son Silinenler'i boşaltma
+
+  ### 1. Fotoğraflar uygulamasını açın
+
+  Ana ekranınızdaki **Fotoğraflar** simgesine dokunun.
+
+  ![Ana ekrandaki Fotoğraflar uygulaması](/assets/guides/empty-recently-deleted/photos.webp)
+
+  ### 2. Son Silinenler'e kaydırın
+
+  **İzlenceler** bölümüne kadar aşağı kaydırın ve **Son Silinenler**'e dokunun. (Eski iOS sürümlerinde Albümler altındadır.)
+
+  ![İzlenceler bölümünde Son Silinenler](/assets/guides/empty-recently-deleted/recently-deleted.webp)
+
+  ### 3. Albümü boşaltın
+
+  Sağ üstteki **Seç**'e, ardından sol alttaki **Tümünü Sil**'e dokunun.
+
+  ![Son Silinenler'de Seç düğmesi](/assets/guides/empty-recently-deleted/select.webp)
+
+  ![Son Silinenler'de Tümünü Sil düğmesi](/assets/guides/empty-recently-deleted/delete-all.webp)
+
+  ### 4. Onaylayın
+
+  Kalıcı olarak kaldırmak için **Tüm Aygıtlardan Sil**'e dokunun.
+
+  ![Fotoğraf silme onayı penceresi](/assets/guides/empty-recently-deleted/delete-from-all-devices.webp)
+
+  ✅ **Bitti!** Depolama alanı, iPhone'unuzda ve iCloud Fotoğrafları kullanıyorsanız iCloud'da da hemen boşalır.
+
+  ## Ne kadar yer kazanırım?
+
+  Son Silinenler albümü toplam boyutunu en üstte gösterir. Düzgün bir galeri temizliğinden sonra bu boyut genellikle hatırı sayılır olur:
+
+  - Hafif temizlik: 500MB - 2GB
+  - Normal temizlik: 2GB - 5GB
+  - Büyük temizlik: 5GB - 10GB+
+
+  ## Bilmekte fayda var
+
+  ⚠️ **Son Silinenler'i boşaltmak geri alınamaz.** Her şeyi silmeden önce albüme hızlıca göz atın. Bir fotoğrafı kurtarmak için son şansınız.
+
+  💡 **Bunu yapmak zorunda değilsiniz.** Aceleniz yoksa iOS, her fotoğraf silindikten 30 gün sonra albümü otomatik olarak boşaltır. Elle boşaltmak, alanı yalnızca şimdi kazanmanızı sağlar.
+
+  💡 **Alışkanlık haline getirin.** Her temizlik seansından sonra Son Silinenler'i bir kez boşaltın. Depolama alanı asıl o zaman geri gelir.

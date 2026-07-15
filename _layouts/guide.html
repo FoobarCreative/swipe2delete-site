@@ -3,7 +3,8 @@
 ---
 
 <!DOCTYPE html>
-<html lang="en-us">
+{% assign t = site.data.i18n[page.lang] %}
+<html lang="{{ t.hreflang | default: 'en' }}"{% if t.rtl %} dir="rtl"{% endif %}>
 
 {% include head.html %}
 
@@ -75,6 +76,8 @@
                     </p>
                     {% endif %}
                 </footer>
+
+                {% include locale-switcher.html %}
 
             </article>
         </div>

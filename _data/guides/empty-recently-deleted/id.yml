@@ -1,0 +1,58 @@
+title: "Sudah Menghapus Foto tapi Ruang Tetap Penuh? Kosongkan Baru Dihapus di iPhone"
+short_title: "Kosongkan Baru Dihapus"
+description: "Foto yang dihapus tetap memakai ruang penyimpanan selama 30 hari di album Baru Dihapus. Begini cara mengosongkannya dan langsung membebaskan ruang di iPhone Anda."
+cta_label: "Buka Foto →"
+body: |
+  Anda sudah membersihkan galeri foto, tapi bar penyimpanan tidak bergeming. Jangan khawatir: foto Anda benar-benar sudah terhapus. iOS hanya menahannya selama 30 hari sebelum melepaskan ruangnya.
+
+  ## Kenapa ruang penyimpanan Anda belum bebas
+
+  Saat Anda menghapus foto di iPhone, entah dengan Swipe2delete, aplikasi lain, atau aplikasi Foto sendiri, iOS tidak langsung membuangnya. Foto dipindahkan ke album **Baru Dihapus** dan berada di sana selama **30 hari** sebagai jaring pengaman kalau-kalau Anda berubah pikiran. Sampai album itu dikosongkan, foto tetap memakai ruang penyimpanan.
+
+  **Solusinya:** kosongkan album Baru Dihapus secara manual dan ruangnya langsung kembali.
+
+  ## Langkah demi langkah: kosongkan Baru Dihapus
+
+  ### 1. Buka aplikasi Foto
+
+  Ketuk ikon **Foto** di layar utama.
+
+  ![Aplikasi Foto di layar utama](/assets/guides/empty-recently-deleted/photos.webp)
+
+  ### 2. Gulir ke Baru Dihapus
+
+  Gulir ke bawah ke bagian **Utilitas** lalu ketuk **Baru Dihapus**. (Di versi iOS yang lebih lama, letaknya di bawah Album.)
+
+  ![Baru Dihapus di bagian Utilitas](/assets/guides/empty-recently-deleted/recently-deleted.webp)
+
+  ### 3. Kosongkan albumnya
+
+  Ketuk **Pilih** di kanan atas, lalu ketuk **Hapus Semua** di kiri bawah.
+
+  ![Tombol Pilih di Baru Dihapus](/assets/guides/empty-recently-deleted/select.webp)
+
+  ![Tombol Hapus Semua di Baru Dihapus](/assets/guides/empty-recently-deleted/delete-all.webp)
+
+  ### 4. Konfirmasi
+
+  Ketuk **Hapus Dari Semua Perangkat** untuk menghapusnya secara permanen.
+
+  ![Pop-up konfirmasi hapus foto](/assets/guides/empty-recently-deleted/delete-from-all-devices.webp)
+
+  ✅ **Selesai!** Ruang penyimpanan langsung bebas, di iPhone Anda dan di iCloud jika Anda menggunakan Foto iCloud.
+
+  ## Berapa banyak ruang yang akan saya dapatkan kembali?
+
+  Album Baru Dihapus menampilkan ukuran totalnya di bagian atas. Setelah pembersihan galeri foto yang serius, jumlahnya sering kali lumayan besar:
+
+  - Pembersihan ringan: 500MB - 2GB
+  - Pembersihan rutin: 2GB - 5GB
+  - Pembersihan besar: 5GB - 10GB+
+
+  ## Perlu diketahui
+
+  ⚠️ **Mengosongkan Baru Dihapus tidak bisa diurungkan.** Gulir sekilas isinya sebelum menghapus semua. Ini kesempatan terakhir Anda menyelamatkan sebuah foto.
+
+  💡 **Anda sebenarnya tidak wajib melakukannya.** Jika tidak buru-buru, iOS mengosongkan album ini secara otomatis, 30 hari setelah setiap foto dihapus. Mengosongkannya secara manual hanya membuat Anda mendapatkan ruangnya sekarang.
+
+  💡 **Jadikan kebiasaan.** Setelah setiap sesi bersih-bersih, kosongkan Baru Dihapus sekali. Di situlah ruang penyimpanan benar-benar kembali.

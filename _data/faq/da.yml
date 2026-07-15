@@ -26,7 +26,7 @@ items:
       Ja. Fotos og skærmbilleder er som regel noget af det, der fylder mest på en iPhone.
       Når du har ryddet op i en måned, viser Swipe2delete præcis, hvor meget plads du har
       sparet. Hvis pladsen skal frigøres med det samme, skal du også [tømme albummet
-      Slettet for nylig](/guides/empty-recently-deleted){:target="_self"} i appen Fotos.
+      Slettet for nylig](/da/guides/empty-recently-deleted){:target="_self"} i appen Fotos.
       Ellers frigør iOS den automatisk efter 30 dage.
   - q: Jeg har slettet fotos, men der er stadig ingen ledig plads. Hvorfor?
     a: >-
@@ -35,7 +35,7 @@ items:
       albummet **Slettet for nylig** i appen Fotos, hvor de ligger i op til 30 dage som
       sikkerhedsnet. Pladsen frigøres først, når albummet tømmes, enten automatisk efter
       30 dage eller manuelt med det samme. Se vores etminutsguide: [sådan tømmer du
-      Slettet for nylig og frigør plads med det samme](/guides/empty-recently-deleted){:target="_self"}.
+      Slettet for nylig og frigør plads med det samme](/da/guides/empty-recently-deleted){:target="_self"}.
   - q: Bliver fotos også slettet fra iCloud?
     a: >-
       Hvis du bruger iCloud-fotos, holdes dit bibliotek synkroniseret, så et foto, du

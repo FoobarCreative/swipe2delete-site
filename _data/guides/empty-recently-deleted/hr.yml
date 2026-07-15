@@ -1,0 +1,58 @@
+title: "Izbrisali ste fotografije, a prostora i dalje nema? Ispraznite Nedavno izbrisano na iPhoneu"
+short_title: "Ispraznite Nedavno izbrisano"
+description: "Izbrisane fotografije zauzimaju prostor još 30 dana u albumu Nedavno izbrisano. Evo kako ga isprazniti i odmah osloboditi prostor na iPhoneu."
+cta_label: "Otvorite Fotografije →"
+body: |
+  Očistili ste galeriju, ali traka pohrane nije se ni pomaknula. Bez brige: vaše su fotografije doista izbrisane. iOS ih samo čuva 30 dana prije nego što oslobodi prostor.
+
+  ## Zašto vaš prostor još nije slobodan
+
+  Kad izbrišete fotografije na iPhoneu, bilo sa Swipe2delete, nekom drugom aplikacijom ili samom aplikacijom Fotografije, iOS ih ne uklanja odmah. Premješta ih u album **Nedavno izbrisano**, gdje kao sigurnosna mreža ostaju **30 dana** za slučaj da se predomislite. Dok se taj album ne isprazni, fotografije i dalje zauzimaju prostor.
+
+  **Rješenje:** ručno ispraznite album Nedavno izbrisano i prostor se odmah oslobađa.
+
+  ## Korak po korak: ispraznite Nedavno izbrisano
+
+  ### 1. Otvorite aplikaciju Fotografije
+
+  Dodirnite ikonu **Fotografije** na početnom zaslonu.
+
+  ![Aplikacija Fotografije na početnom zaslonu](/assets/guides/empty-recently-deleted/photos.webp)
+
+  ### 2. Pomaknite se do Nedavno izbrisano
+
+  Pomaknite se prema dolje do odjeljka **Uslužni programi** i dodirnite **Nedavno izbrisano**. (Na starijim verzijama iOS-a nalazi se pod Albumi.)
+
+  ![Nedavno izbrisano u odjeljku Uslužni programi](/assets/guides/empty-recently-deleted/recently-deleted.webp)
+
+  ### 3. Ispraznite album
+
+  Dodirnite **Odaberi** gore desno, a zatim **Izbriši sve** dolje lijevo.
+
+  ![Odaberi u albumu Nedavno izbrisano](/assets/guides/empty-recently-deleted/select.webp)
+
+  ![Izbriši sve u albumu Nedavno izbrisano](/assets/guides/empty-recently-deleted/delete-all.webp)
+
+  ### 4. Potvrdite
+
+  Dodirnite **Izbriši sa svih uređaja** da biste ih trajno uklonili.
+
+  ![Skočni prozor za potvrdu brisanja fotografija](/assets/guides/empty-recently-deleted/delete-from-all-devices.webp)
+
+  ✅ **Gotovo!** Prostor se oslobađa odmah, na vašem iPhoneu i u iCloudu ako koristite iCloud fotografije.
+
+  ## Koliko ću prostora dobiti natrag?
+
+  Album Nedavno izbrisano prikazuje svoju ukupnu veličinu na vrhu. Nakon temeljitog čišćenja galerije često je znatna:
+
+  - Lagano čišćenje: 500MB - 2GB
+  - Redovito čišćenje: 2GB - 5GB
+  - Veliko čišćenje: 5GB - 10GB+
+
+  ## Dobro je znati
+
+  ⚠️ **Pražnjenje albuma Nedavno izbrisano ne može se poništiti.** Brzo prolistajte album prije nego što sve izbrišete. To je vaša posljednja prilika da spasite fotografiju.
+
+  💡 **Ovo uopće ne morate raditi.** Ako vam se ne žuri, iOS automatski prazni album 30 dana nakon što je svaka fotografija izbrisana. Ručno pražnjenje samo vam daje prostor odmah.
+
+  💡 **Neka vam postane navika.** Nakon svake sesije čišćenja jednom ispraznite Nedavno izbrisano. Upravo se tada prostor stvarno vraća.

@@ -26,7 +26,7 @@ items:
       Kyllä. Kuvat ja kuvakaappaukset ovat yleensä suurimpia tilanviejiä iPhonella.
       Jokaisen siivotun kuukauden jälkeen Swipe2delete näyttää tarkalleen, kuinka paljon
       tilaa säästit. Jotta tila vapautuu heti, [tyhjennä myös Äskettäin poistetut
-      -albumi](/guides/empty-recently-deleted){:target="_self"} Kuvat-sovelluksessa.
+      -albumi](/fi/guides/empty-recently-deleted){:target="_self"} Kuvat-sovelluksessa.
       Muuten iOS vapauttaa tilan automaattisesti 30 päivän kuluttua.
   - q: Poistin kuvia, mutta vapaata tilaa ei vieläkään ole. Miksi?
     a: >-
@@ -36,7 +36,7 @@ items:
       jopa 30 päivää turvaverkkona. Tila vapautuu vasta, kun albumi tyhjennetään, joko
       automaattisesti 30 päivän jälkeen tai heti käsin. Katso minuutin ohjeemme: [näin
       tyhjennät Äskettäin poistetut ja vapautat tilaa
-      heti](/guides/empty-recently-deleted){:target="_self"}.
+      heti](/fi/guides/empty-recently-deleted){:target="_self"}.
   - q: Poistuvatko kuvat myös iCloudista?
     a: >-
       Jos käytät iCloud-kuvia, kirjastosi pysyy synkronoituna, joten Swipe2deletellä

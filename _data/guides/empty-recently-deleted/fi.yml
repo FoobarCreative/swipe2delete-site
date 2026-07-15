@@ -1,0 +1,58 @@
+title: "Poistit kuvia, mutta tila ei vapautunut? Tyhjennä Äskettäin poistetut iPhonella"
+short_title: "Tyhjennä Äskettäin poistetut"
+description: "Poistetut kuvat vievät tallennustilaa vielä 30 päivää Äskettäin poistetut -albumissa. Näin tyhjennät sen ja vapautat tilaa iPhonellasi heti."
+cta_label: "Avaa Kuvat →"
+body: |
+  Siivosit kamerarullasi, mutta tallennustilan palkki ei hievahtanutkaan. Ei hätää: kuvasi on todella poistettu. iOS vain säilyttää niitä 30 päivää, ennen kuin tila vapautuu.
+
+  ## Miksi tallennustila ei ole vielä vapautunut
+
+  Kun poistat kuvia iPhonella, olipa kyseessä Swipe2delete, jokin muu sovellus tai itse Kuvat-sovellus, iOS ei poista niitä heti. Se siirtää ne albumiin **Äskettäin poistetut**, jossa ne odottavat **30 päivää** turvaverkkona siltä varalta, että muutat mielesi. Kuvat vievät tallennustilaa, kunnes albumi tyhjennetään.
+
+  **Ratkaisu:** tyhjennä Äskettäin poistetut -albumi käsin, niin tila vapautuu saman tien.
+
+  ## Vaihe vaiheelta: tyhjennä Äskettäin poistetut
+
+  ### 1. Avaa Kuvat-sovellus
+
+  Napauta **Kuvat**-kuvaketta aloitusnäytöllä.
+
+  ![Kuvat-sovellus aloitusnäytöllä](/assets/guides/empty-recently-deleted/photos.webp)
+
+  ### 2. Selaa kohtaan Äskettäin poistetut
+
+  Selaa alas **Apuohjelmat**-osioon ja napauta **Äskettäin poistetut**. (Vanhemmissa iOS-versioissa se löytyy Albumit-kohdasta.)
+
+  ![Äskettäin poistetut Apuohjelmat-osiossa](/assets/guides/empty-recently-deleted/recently-deleted.webp)
+
+  ### 3. Tyhjennä albumi
+
+  Napauta oikeasta yläkulmasta **Valitse** ja sitten vasemmasta alakulmasta **Poista kaikki**.
+
+  ![Valitse-painike Äskettäin poistetut -albumissa](/assets/guides/empty-recently-deleted/select.webp)
+
+  ![Poista kaikki -painike Äskettäin poistetut -albumissa](/assets/guides/empty-recently-deleted/delete-all.webp)
+
+  ### 4. Vahvista
+
+  Napauta **Poista kaikista laitteista**, niin kuvat poistetaan pysyvästi.
+
+  ![Kuvien poiston vahvistusikkuna](/assets/guides/empty-recently-deleted/delete-from-all-devices.webp)
+
+  ✅ **Valmista!** Tallennustila vapautuu heti, sekä iPhonellasi että iCloudissa, jos käytät iCloud-kuvia.
+
+  ## Kuinka paljon tilaa saan takaisin?
+
+  Äskettäin poistetut -albumin yläreunassa näkyy sen kokonaiskoko. Kunnon kamerarullan siivouksen jälkeen se on usein huomattava:
+
+  - Kevyt siivous: 500MB - 2GB
+  - Tavallinen siivous: 2GB - 5GB
+  - Suursiivous: 5GB - 10GB+
+
+  ## Hyvä tietää
+
+  ⚠️ **Äskettäin poistettujen tyhjentämistä ei voi kumota.** Selaa albumi nopeasti läpi, ennen kuin poistat kaiken. Se on viimeinen tilaisuutesi pelastaa kuva.
+
+  💡 **Tätä ei ole pakko tehdä lainkaan.** Jos sinulla ei ole kiire, iOS tyhjentää albumin automaattisesti 30 päivän kuluttua kunkin kuvan poistamisesta. Käsin tyhjentäminen vain vapauttaa tilan heti.
+
+  💡 **Tee siitä tapa.** Tyhjennä Äskettäin poistetut kerran jokaisen siivoussession jälkeen. Juuri silloin tallennustila oikeasti palautuu.

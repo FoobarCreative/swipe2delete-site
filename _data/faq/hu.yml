@@ -29,7 +29,7 @@ items:
       iPhone-on. Miután kitakarítottál egy hónapot, a Swipe2delete pontosan
       megmutatja, mennyi helyet spóroltál. Ahhoz, hogy a hely azonnal felszabaduljon,
       [ürítsd ki a Nemrég törölt
-      albumot](/guides/empty-recently-deleted){:target="_self"} is a Fotók appban.
+      albumot](/hu/guides/empty-recently-deleted){:target="_self"} is a Fotók appban.
       Különben az iOS 30 nap után automatikusan felszabadítja.
   - q: Töröltem fotókat, de még mindig nincs szabad hely. Miért?
     a: >-
@@ -39,7 +39,7 @@ items:
       napig maradnak. A tárhely addig nem szabadul fel, amíg ez az album ki nem ürül:
       vagy automatikusan 30 nap után, vagy kézzel akár azonnal. Itt az egyperces
       útmutatónk: [így ürítsd ki a Nemrég törölt albumot és szabadíts fel helyet
-      azonnal](/guides/empty-recently-deleted){:target="_self"}.
+      azonnal](/hu/guides/empty-recently-deleted){:target="_self"}.
   - q: Az iCloudból is törlődnek a fotók?
     a: >-
       Ha iCloud-fotókat használsz, a könyvtárad szinkronban marad, így a

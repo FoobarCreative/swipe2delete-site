@@ -27,7 +27,7 @@ items:
       Ja. Bilder och skärmavbilder hör oftast till det som tar mest plats på en iPhone.
       Efter varje rensad månad visar Swipe2delete exakt hur mycket utrymme du sparat. För
       att utrymmet ska frigöras direkt bör du också [tömma albumet Senast
-      raderade](/guides/empty-recently-deleted){:target="_self"} i appen Bilder. Annars
+      raderade](/sv/guides/empty-recently-deleted){:target="_self"} i appen Bilder. Annars
       frigör iOS det automatiskt efter 30 dagar.
   - q: Jag har raderat bilder men har fortfarande inget ledigt utrymme. Varför?
     a: >-
@@ -36,7 +36,7 @@ items:
       **Senast raderade** i appen Bilder, där de ligger kvar i upp till 30 dagar som
       säkerhetsnät. Utrymmet frigörs först när albumet töms, antingen automatiskt efter
       30 dagar eller manuellt direkt. Läs vår enminutersguide: [så tömmer du Senast
-      raderade och frigör utrymme direkt](/guides/empty-recently-deleted){:target="_self"}.
+      raderade och frigör utrymme direkt](/sv/guides/empty-recently-deleted){:target="_self"}.
   - q: Raderas bilderna även från iCloud?
     a: >-
       Om du använder iCloud-bilder hålls ditt bibliotek synkat, så en bild du raderar med

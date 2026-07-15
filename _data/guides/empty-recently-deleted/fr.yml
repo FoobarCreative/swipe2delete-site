@@ -1,0 +1,58 @@
+title: "Photos supprimées mais toujours pas d'espace ? Vider Supprimés récemment sur iPhone"
+short_title: "Vider Supprimés récemment"
+description: "Les photos supprimées continuent d'occuper de l'espace pendant 30 jours dans l'album Supprimés récemment. Voici comment le vider et libérer immédiatement de l'espace sur votre iPhone."
+cta_label: "Ouvrir Photos →"
+body: |
+  Vous avez fait le ménage dans votre pellicule, mais la barre de stockage n'a pas bougé. Pas d'inquiétude : vos photos sont bien supprimées. iOS les garde simplement 30 jours avant de libérer l'espace.
+
+  ## Pourquoi votre espace n'est pas encore libéré
+
+  Quand vous supprimez des photos sur iPhone, que ce soit avec Swipe2delete, une autre app ou l'app Photos elle-même, iOS ne les efface pas immédiatement. Il les déplace dans l'album **Supprimés récemment**, où elles restent **30 jours** par sécurité, au cas où vous changeriez d'avis. Tant que cet album n'est pas vidé, les photos continuent d'occuper de l'espace.
+
+  **La solution :** videz manuellement l'album Supprimés récemment et l'espace est récupéré tout de suite.
+
+  ## Pas à pas : vider Supprimés récemment
+
+  ### 1. Ouvrez l'app Photos
+
+  Touchez l'icône **Photos** sur votre écran d'accueil.
+
+  ![App Photos sur l'écran d'accueil](/assets/guides/empty-recently-deleted/photos.webp)
+
+  ### 2. Faites défiler jusqu'à Supprimés récemment
+
+  Faites défiler vers le bas jusqu'à la section **Utilitaires** et touchez **Supprimés récemment**. (Sur les anciennes versions d'iOS, l'album se trouve sous Albums.)
+
+  ![Supprimés récemment dans Utilitaires](/assets/guides/empty-recently-deleted/recently-deleted.webp)
+
+  ### 3. Videz l'album
+
+  Touchez **Sélectionner** en haut à droite, puis **Tout supprimer** en bas à gauche.
+
+  ![Sélectionner dans Supprimés récemment](/assets/guides/empty-recently-deleted/select.webp)
+
+  ![Tout supprimer dans Supprimés récemment](/assets/guides/empty-recently-deleted/delete-all.webp)
+
+  ### 4. Confirmez
+
+  Touchez **Supprimer de tous les appareils** pour les effacer définitivement.
+
+  ![Fenêtre de confirmation de suppression des photos](/assets/guides/empty-recently-deleted/delete-from-all-devices.webp)
+
+  ✅ **C'est fait !** L'espace est libéré immédiatement, sur votre iPhone et dans iCloud si vous utilisez Photos iCloud.
+
+  ## Combien d'espace vais-je récupérer ?
+
+  L'album Supprimés récemment affiche sa taille totale en haut. Après un bon nettoyage de la pellicule, c'est souvent conséquent :
+
+  - Petit nettoyage : 500 Mo - 2 Go
+  - Nettoyage régulier : 2 Go - 5 Go
+  - Grand nettoyage : 5 Go - 10 Go+
+
+  ## Bon à savoir
+
+  ⚠️ **Vider Supprimés récemment est irréversible.** Jetez un dernier coup d'œil avant de tout supprimer. C'est votre dernière chance de sauver une photo.
+
+  💡 **Rien ne vous oblige à le faire.** Si vous n'êtes pas pressé, iOS vide l'album automatiquement, 30 jours après la suppression de chaque photo. Le vider manuellement vous rend simplement l'espace tout de suite.
+
+  💡 **Faites-en une habitude.** Après chaque session de nettoyage, videz Supprimés récemment une fois. C'est à ce moment-là que l'espace revient vraiment.

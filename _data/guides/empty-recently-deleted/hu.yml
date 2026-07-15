@@ -1,0 +1,58 @@
+title: "Törölted a fotókat, de még sincs hely? Ürítsd ki a Nemrég törölt albumot iPhone-on"
+short_title: "Nemrég törölt ürítése"
+description: "A törölt fotók még 30 napig foglalják a tárhelyet a Nemrég törölt albumban. Mutatjuk, hogyan ürítsd ki, és szabadíts fel helyet az iPhone-odon azonnal."
+cta_label: "Fotók megnyitása →"
+body: |
+  Kitakarítottad a kameratekercsed, de a tárhelyjelző meg sem mozdult. Ne aggódj: a fotóid tényleg törölve vannak. Az iOS csak 30 napig őrzi őket, mielőtt felszabadítaná a helyet.
+
+  ## Miért nem szabadult még fel a tárhely
+
+  Amikor iPhone-on fotókat törölsz, akár a Swipe2delete-tel, akár másik appal, akár magával a Fotók appal, az iOS nem távolítja el őket azonnal. A **Nemrég törölt** albumba helyezi át őket, ahol biztonsági hálóként **30 napig** várnak, ha esetleg meggondolnád magad. Amíg ezt az albumot ki nem üríted, a fotók továbbra is foglalják a tárhelyet.
+
+  **A megoldás:** ürítsd ki kézzel a Nemrég törölt albumot, és a hely azonnal felszabadul.
+
+  ## Lépésről lépésre: a Nemrég törölt kiürítése
+
+  ### 1. Nyisd meg a Fotók appot
+
+  Koppints a **Fotók** ikonra a Főképernyőn.
+
+  ![A Fotók app a Főképernyőn](/assets/guides/empty-recently-deleted/photos.webp)
+
+  ### 2. Görgess a Nemrég törölt albumhoz
+
+  Görgess le a **Segédprogramok** szakaszhoz, és koppints a **Nemrég törölt** elemre. (Régebbi iOS-verziókban az Albumok alatt találod.)
+
+  ![A Nemrég törölt a Segédprogramok szakaszban](/assets/guides/empty-recently-deleted/recently-deleted.webp)
+
+  ### 3. Ürítsd ki az albumot
+
+  Koppints a jobb felső sarokban a **Kiválasztás**, majd a bal alsó sarokban az **Összes törlése** lehetőségre.
+
+  ![A Kiválasztás gomb a Nemrég törölt albumban](/assets/guides/empty-recently-deleted/select.webp)
+
+  ![Az Összes törlése gomb a Nemrég törölt albumban](/assets/guides/empty-recently-deleted/delete-all.webp)
+
+  ### 4. Erősítsd meg
+
+  Koppints a **Törlés az összes eszközről** lehetőségre a végleges eltávolításhoz.
+
+  ![Fotótörlést megerősítő felugró ablak](/assets/guides/empty-recently-deleted/delete-from-all-devices.webp)
+
+  ✅ **Kész!** A tárhely azonnal felszabadul, az iPhone-odon és az iCloudban is, ha iCloud-fotókat használsz.
+
+  ## Mennyi helyet kapok vissza?
+
+  A Nemrég törölt album a tetején mutatja a teljes méretét. Egy alapos kameratekercs-takarítás után ez gyakran tekintélyes:
+
+  - Könnyű takarítás: 500MB - 2GB
+  - Átlagos takarítás: 2GB - 5GB
+  - Nagytakarítás: 5GB - 10GB+
+
+  ## Jó tudni
+
+  ⚠️ **A Nemrég törölt kiürítése nem vonható vissza.** Görgesd át gyorsan, mielőtt mindent törölsz. Ez az utolsó esélyed megmenteni egy fotót.
+
+  💡 **Egyáltalán nem kötelező megtenned.** Ha nem sietsz, az iOS automatikusan kiüríti az albumot, 30 nappal az egyes fotók törlése után. A kézi ürítéssel csak most azonnal jutsz hozzá a helyhez.
+
+  💡 **Tedd szokásoddá.** Minden takarítás után egyszer ürítsd ki a Nemrég törölt albumot. Ilyenkor jön vissza ténylegesen a tárhely.

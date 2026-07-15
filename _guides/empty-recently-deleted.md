@@ -7,6 +7,7 @@ cta_label: "Open Photos →"
 date: 2026-07-13
 last_updated: 2026-07-13
 item_id: "empty_recently_deleted"
+translated: true
 redirect_from:
   - /guides/empty-recently-deleted/
 ---

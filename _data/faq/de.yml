@@ -26,7 +26,7 @@ items:
       Ja. Fotos und Screenshots gehören meist zu den größten Speicherfressern auf dem
       iPhone. Nach jedem aufgeräumten Monat zeigt dir Swipe2delete genau, wie viel Platz
       du gespart hast. Damit der Speicher sofort frei wird, leere zusätzlich das Album
-      [Zuletzt gelöscht](/guides/empty-recently-deleted){:target="_self"} in der
+      [Zuletzt gelöscht](/de/guides/empty-recently-deleted){:target="_self"} in der
       Fotos-App. Andernfalls gibt iOS den Platz automatisch nach 30 Tagen frei.
   - q: Ich habe Fotos gelöscht, aber es gibt immer noch keinen freien Speicher. Warum?
     a: >-
@@ -36,7 +36,7 @@ items:
       Sicherheitsnetz. Der Speicher wird erst frei, wenn dieses Album geleert wird,
       entweder automatisch nach 30 Tagen oder sofort von Hand. Hier ist unsere
       Ein-Minuten-Anleitung: [so leerst du "Zuletzt gelöscht" und schaffst sofort freien
-      Speicherplatz](/guides/empty-recently-deleted){:target="_self"}.
+      Speicherplatz](/de/guides/empty-recently-deleted){:target="_self"}.
   - q: Werden Fotos auch aus iCloud gelöscht?
     a: >-
       Wenn du iCloud-Fotos nutzt, bleibt deine Mediathek synchron. Ein mit Swipe2delete

@@ -26,7 +26,7 @@ items:
       Sì. Foto e screenshot sono di solito tra le cose che riempiono di più un iPhone.
       Dopo aver ripulito un mese, Swipe2delete ti mostra esattamente quanto spazio hai
       recuperato. Per riavere lo spazio subito, svuota anche l'album [Eliminati di
-      recente](/guides/empty-recently-deleted){:target="_self"} nell'app Foto. Altrimenti
+      recente](/it/guides/empty-recently-deleted){:target="_self"} nell'app Foto. Altrimenti
       iOS lo libera automaticamente dopo 30 giorni.
   - q: Ho eliminato delle foto ma lo spazio libero non aumenta. Perché?
     a: >-
@@ -36,7 +36,7 @@ items:
       spazio si libera solo quando quell'album viene svuotato, automaticamente dopo 30
       giorni oppure manualmente subito. Ecco la nostra guida da un minuto: [come svuotare
       Eliminati di recente e liberare spazio
-      all'istante](/guides/empty-recently-deleted){:target="_self"}.
+      all'istante](/it/guides/empty-recently-deleted){:target="_self"}.
   - q: Le foto vengono eliminate anche da iCloud?
     a: >-
       Se usi Foto di iCloud, la tua libreria resta sincronizzata, quindi una foto

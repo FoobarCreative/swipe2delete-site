@@ -1,0 +1,58 @@
+title: "Raderat bilder men fortfarande inget utrymme? Så tömmer du Senast raderade på iPhone"
+short_title: "Töm Senast raderade"
+description: "Raderade bilder fortsätter att ta upp lagring i 30 dagar i albumet Senast raderade. Så här tömmer du det och frigör utrymme på din iPhone direkt."
+cta_label: "Öppna Bilder →"
+body: |
+  Du har rensat kamerarullen, men lagringsstapeln rörde sig inte. Ingen fara: dina bilder är verkligen raderade. iOS behåller dem bara i 30 dagar innan utrymmet släpps.
+
+  ## Därför är ditt utrymme inte ledigt än
+
+  När du raderar bilder på en iPhone, oavsett om det är med Swipe2delete, en annan app eller appen Bilder själv, tar iOS inte bort dem direkt. De flyttas till albumet **Senast raderade**, där de ligger kvar i **30 dagar** som säkerhetsnät ifall du ångrar dig. Tills det albumet töms fortsätter bilderna att ta upp lagringsutrymme.
+
+  **Lösningen:** töm albumet Senast raderade manuellt så frigörs utrymmet direkt.
+
+  ## Steg för steg: töm Senast raderade
+
+  ### 1. Öppna appen Bilder
+
+  Tryck på symbolen **Bilder** på hemskärmen.
+
+  ![Appen Bilder på hemskärmen](/assets/guides/empty-recently-deleted/photos.webp)
+
+  ### 2. Skrolla till Senast raderade
+
+  Skrolla ner till avsnittet **Verktyg** och tryck på **Senast raderade**. (I äldre iOS-versioner ligger det under Album.)
+
+  ![Senast raderade under Verktyg](/assets/guides/empty-recently-deleted/recently-deleted.webp)
+
+  ### 3. Töm albumet
+
+  Tryck på **Välj** uppe till höger och sedan på **Radera alla** nere till vänster.
+
+  ![Välj i Senast raderade](/assets/guides/empty-recently-deleted/select.webp)
+
+  ![Radera alla i Senast raderade](/assets/guides/empty-recently-deleted/delete-all.webp)
+
+  ### 4. Bekräfta
+
+  Tryck på **Radera från alla enheter** för att ta bort dem permanent.
+
+  ![Bekräftelseruta för att radera bilder](/assets/guides/empty-recently-deleted/delete-from-all-devices.webp)
+
+  ✅ **Klart!** Utrymmet frigörs direkt, på din iPhone och i iCloud om du använder iCloud-bilder.
+
+  ## Hur mycket utrymme får jag tillbaka?
+
+  Albumet Senast raderade visar sin totala storlek högst upp. Efter en ordentlig rensning av kamerarullen är det ofta en hel del:
+
+  - Lätt rensning: 500 MB - 2 GB
+  - Vanlig rensning: 2 GB - 5 GB
+  - Stor rensning: 5 GB - 10 GB+
+
+  ## Bra att veta
+
+  ⚠️ **Att tömma Senast raderade går inte att ångra.** Skrolla snabbt igenom innan du raderar allt. Det är din sista chans att rädda en bild.
+
+  💡 **Du måste inte göra det alls.** Har du ingen brådska tömmer iOS albumet automatiskt, 30 dagar efter att varje bild raderades. Att tömma det manuellt ger dig bara utrymmet nu.
+
+  💡 **Gör det till en vana.** Töm Senast raderade en gång efter varje rensningsomgång. Det är då lagringsutrymmet faktiskt kommer tillbaka.

@@ -26,7 +26,7 @@ items:
       Oui. Les photos et les captures d'écran comptent souvent parmi ce qui remplit le
       plus un iPhone. Après chaque mois nettoyé, Swipe2delete affiche exactement l'espace
       économisé. Pour récupérer l'espace immédiatement, videz aussi l'album [Supprimés
-      récemment](/guides/empty-recently-deleted){:target="_self"} dans l'app Photos.
+      récemment](/fr/guides/empty-recently-deleted){:target="_self"} dans l'app Photos.
       Sinon, iOS le libère automatiquement au bout de 30 jours.
   - q: J'ai supprimé des photos mais je n'ai toujours pas d'espace libre. Pourquoi ?
     a: >-
@@ -36,7 +36,7 @@ items:
       jusqu'à 30 jours par sécurité. L'espace n'est libéré que lorsque cet album est vidé,
       automatiquement après 30 jours ou manuellement tout de suite. Voici notre guide
       d'une minute : [comment vider Supprimés récemment et libérer de l'espace
-      immédiatement](/guides/empty-recently-deleted){:target="_self"}.
+      immédiatement](/fr/guides/empty-recently-deleted){:target="_self"}.
   - q: Les photos seront-elles aussi supprimées d'iCloud ?
     a: >-
       Si vous utilisez Photos iCloud, votre photothèque reste synchronisée : une photo

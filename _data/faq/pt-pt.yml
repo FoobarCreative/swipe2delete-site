@@ -28,7 +28,7 @@ items:
       Sim. As fotos e as capturas de ecrã costumam ser das coisas que mais enchem
       um iPhone. Depois de limpar um mês, o Swipe2delete mostra exatamente quanto
       espaço poupou. Para recuperar o espaço de imediato, esvazie também o álbum
-      [Apagados recentemente](/guides/empty-recently-deleted){:target="_self"} na
+      [Apagados recentemente](/pt-pt/guides/empty-recently-deleted){:target="_self"} na
       app Fotografias. Caso contrário, o iOS liberta o espaço automaticamente ao
       fim de 30 dias.
   - q: Apaguei fotos mas continuo sem espaço livre. Porquê?
@@ -39,7 +39,7 @@ items:
       como rede de segurança. O espaço só é libertado quando esse álbum é
       esvaziado, automaticamente ao fim de 30 dias ou manualmente já. Veja o nosso
       guia de um minuto: [como esvaziar o álbum Apagados recentemente e libertar
-      espaço de imediato](/guides/empty-recently-deleted){:target="_self"}.
+      espaço de imediato](/pt-pt/guides/empty-recently-deleted){:target="_self"}.
   - q: As fotos também são apagadas do iCloud?
     a: >-
       Se usa Fotografias em iCloud, a sua fototeca mantém-se sincronizada, por isso

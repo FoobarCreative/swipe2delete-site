@@ -1,0 +1,58 @@
+title: "Şəkilləri sildiniz, amma yenə də yer yoxdur? iPhone-da Son Silinmiş albomunu boşaldın"
+short_title: "Son Silinmiş albomunu boşaltmaq"
+description: "Silinmiş şəkillər Son Silinmiş albomunda 30 gün ərzində yaddaşda yer tutmağa davam edir. iPhone-da bu albomu boşaldıb yeri dərhal necə azad etmək olar."
+cta_label: "Photos-u açın →"
+body: |
+  Qalereyanızı təmizlədiniz, amma yaddaş göstəricisi yerindən tərpənmədi. Narahat olmayın: şəkilləriniz həqiqətən silinib. Sadəcə iOS yeri boşaltmazdan əvvəl onları 30 gün saxlayır.
+
+  ## Yaddaş niyə hələ boşalmayıb
+
+  iPhone-da şəkil siləndə, istər Swipe2delete, istər başqa tətbiq, istərsə də Photos tətbiqinin özü ilə, iOS onları dərhal silmir. Onları **Son Silinmiş** albomuna köçürür və fikrinizi dəyişə biləcəyiniz halda təhlükəsizlik toru kimi **30 gün** orada saxlayır. Bu albom boşaldılana qədər şəkillər yaddaşda yer tutmağa davam edir.
+
+  **Həll yolu:** Son Silinmiş albomunu əl ilə boşaldın və yer dərhal geri qayıdır.
+
+  ## Addım-addım: Son Silinmiş albomunu boşaldın
+
+  ### 1. Photos tətbiqini açın
+
+  Əsas ekranda **Photos** ikonuna toxunun.
+
+  ![Əsas ekranda Photos tətbiqi](/assets/guides/empty-recently-deleted/photos.webp)
+
+  ### 2. Son Silinmiş bölməsinə keçin
+
+  Aşağı diyirlədib **Alətlər** bölməsinə gəlin və **Son Silinmiş** üzərinə toxunun. (Köhnə iOS versiyalarında Albomlar bölməsindədir.)
+
+  ![Alətlər bölməsində Son Silinmiş](/assets/guides/empty-recently-deleted/recently-deleted.webp)
+
+  ### 3. Albomu boşaldın
+
+  Yuxarı sağda **Seç** düyməsinə, sonra aşağı solda **Hamısını sil** düyməsinə toxunun.
+
+  ![Son Silinmiş albomunda Seç düyməsi](/assets/guides/empty-recently-deleted/select.webp)
+
+  ![Son Silinmiş albomunda Hamısını sil düyməsi](/assets/guides/empty-recently-deleted/delete-all.webp)
+
+  ### 4. Təsdiqləyin
+
+  Şəkilləri birdəfəlik silmək üçün **Bütün cihazlardan sil** düyməsinə toxunun.
+
+  ![Şəkillərin silinməsini təsdiqləmə pəncərəsi](/assets/guides/empty-recently-deleted/delete-from-all-devices.webp)
+
+  ✅ **Hazırdır!** Yaddaş dərhal boşalır: həm iPhone-da, həm də iCloud Photos istifadə edirsinizsə, iCloud-da.
+
+  ## Nə qədər yer geri qayıdacaq?
+
+  Son Silinmiş albomu ümumi həcmini yuxarıda göstərir. Qalereyanı yaxşıca təmizlədikdən sonra bu rəqəm çox vaxt böyük olur:
+
+  - Yüngül təmizlik: 500MB - 2GB
+  - Adi təmizlik: 2GB - 5GB
+  - Böyük təmizlik: 5GB - 10GB+
+
+  ## Bilmək faydalıdır
+
+  ⚠️ **Son Silinmiş albomunun boşaldılmasını geri qaytarmaq mümkün deyil.** Hamısını silməzdən əvvəl albomdakı şəkillərə sürətlə göz gəzdirin. Bu, hansısa şəkli xilas etmək üçün son şansınızdır.
+
+  💡 **Bunu ümumiyyətlə etməyə bilərsiniz.** Tələsmirsinizsə, iOS albomu avtomatik boşaldır: hər şəkil silindikdən 30 gün sonra. Əl ilə boşaltmaq sadəcə yeri elə indi verir.
+
+  💡 **Bunu vərdişə çevirin.** Hər təmizlik seansından sonra Son Silinmiş albomunu bir dəfə boşaldın. Yaddaş məhz o zaman həqiqətən geri qayıdır.

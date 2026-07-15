@@ -28,7 +28,7 @@ items:
       Bəli. Şəkillər və ekran görüntüləri adətən iPhone yaddaşını ən çox dolduran
       şeylərdəndir. Bir ayı təmizlədikdən sonra Swipe2delete nə qədər yer qənaət
       etdiyinizi dəqiq göstərir. Yerin dərhal boşalması üçün Photos tətbiqində [Son
-      Silinmiş albomunu da boşaldın](/guides/empty-recently-deleted){:target="_self"}.
+      Silinmiş albomunu da boşaldın](/az/guides/empty-recently-deleted){:target="_self"}.
       Əks halda iOS 30 gündən sonra yeri avtomatik boşaldır.
   - q: Şəkilləri sildim, amma yenə də boş yer yoxdur. Niyə?
     a: >-
@@ -38,7 +38,7 @@ items:
       günə qədər orada qalır. Yaddaş yalnız bu albom boşaldılanda azad olur: ya 30
       gündən sonra avtomatik, ya da elə indi əl ilə. Bir dəqiqəlik bələdçimizə
       baxın: [Son Silinmiş albomunu boşaldıb yeri dərhal necə azad etmək
-      olar](/guides/empty-recently-deleted){:target="_self"}.
+      olar](/az/guides/empty-recently-deleted){:target="_self"}.
   - q: Şəkillər iCloud-dan da silinəcək?
     a: >-
       iCloud Photos istifadə edirsinizsə, kitabxananız sinxron qalır. Yəni

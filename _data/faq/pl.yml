@@ -26,7 +26,7 @@ items:
       Tak. Zdjęcia i zrzuty ekranu to zwykle jedne z największych pożeraczy miejsca na
       iPhonie. Po uporządkowaniu każdego miesiąca Swipe2delete pokazuje dokładnie, ile
       miejsca udało się zaoszczędzić. Aby miejsce zwolniło się od razu, [opróżnij też
-      album Ostatnio usunięte](/guides/empty-recently-deleted){:target="_self"} w
+      album Ostatnio usunięte](/pl/guides/empty-recently-deleted){:target="_self"} w
       aplikacji Zdjęcia. W przeciwnym razie iOS zwolni je automatycznie po 30 dniach.
   - q: Zdjęcia zostały usunięte, ale wolnego miejsca nadal brak. Dlaczego?
     a: >-
@@ -36,7 +36,7 @@ items:
       zabezpieczenie. Miejsce zwalnia się dopiero po opróżnieniu tego albumu,
       automatycznie po 30 dniach albo ręcznie od razu. Zobacz nasz minutowy poradnik: [jak
       opróżnić album Ostatnio usunięte i natychmiast zwolnić
-      miejsce](/guides/empty-recently-deleted){:target="_self"}.
+      miejsce](/pl/guides/empty-recently-deleted){:target="_self"}.
   - q: Czy zdjęcia zostaną usunięte także z iCloud?
     a: >-
       Jeśli korzystasz ze Zdjęć iCloud, Twoja biblioteka pozostaje zsynchronizowana, więc

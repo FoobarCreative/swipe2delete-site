@@ -1,0 +1,58 @@
+title: "Fotky sú vymazané, ale miesto sa neuvoľnilo? Vyprázdnite Nedávno vymazané na iPhone"
+short_title: "Vyprázdniť Nedávno vymazané"
+description: "Vymazané fotky zaberajú úložisko ešte 30 dní v albume Nedávno vymazané. Poradíme, ako ho vyprázdniť a okamžite uvoľniť miesto na iPhone."
+cta_label: "Otvoriť Fotky →"
+body: |
+  Upratali ste fotogalériu, ale ukazovateľ úložiska sa ani nepohol. Žiadny strach: vaše fotky sú naozaj vymazané. iOS ich len 30 dní drží, kým miesto uvoľní.
+
+  ## Prečo sa úložisko ešte neuvoľnilo
+
+  Keď na iPhone vymažete fotky, či už cez Swipe2delete, inú aplikáciu, alebo priamo v aplikácii Fotky, iOS ich neodstráni okamžite. Presunie ich do albumu **Nedávno vymazané**, kde ako poistka čakajú **30 dní** pre prípad, že si to rozmyslíte. Kým album nevyprázdnite, fotky ďalej zaberajú úložisko.
+
+  **Riešenie:** vyprázdnite album Nedávno vymazané ručne a miesto sa uvoľní hneď.
+
+  ## Krok za krokom: vyprázdnenie albumu Nedávno vymazané
+
+  ### 1. Otvorte aplikáciu Fotky
+
+  Klepnite na ikonu **Fotky** na ploche.
+
+  ![Aplikácia Fotky na ploche](/assets/guides/empty-recently-deleted/photos.webp)
+
+  ### 2. Prejdite na Nedávno vymazané
+
+  Posuňte sa nadol do časti **Utility** a klepnite na **Nedávno vymazané**. (V starších verziách iOS ho nájdete v Albumoch.)
+
+  ![Nedávno vymazané v časti Utility](/assets/guides/empty-recently-deleted/recently-deleted.webp)
+
+  ### 3. Vyprázdnite album
+
+  Klepnite vpravo hore na **Vybrať** a potom vľavo dole na **Vymazať všetky**.
+
+  ![Tlačidlo Vybrať v albume Nedávno vymazané](/assets/guides/empty-recently-deleted/select.webp)
+
+  ![Tlačidlo Vymazať všetky v albume Nedávno vymazané](/assets/guides/empty-recently-deleted/delete-all.webp)
+
+  ### 4. Potvrďte
+
+  Klepnite na **Vymazať zo všetkých zariadení** a fotky sa natrvalo odstránia.
+
+  ![Potvrdzovacie okno vymazania fotiek](/assets/guides/empty-recently-deleted/delete-from-all-devices.webp)
+
+  ✅ **Hotovo!** Úložisko sa uvoľní okamžite, na vašom iPhone aj v iCloude, ak používate iCloud Fotky.
+
+  ## Koľko miesta získam späť?
+
+  Album Nedávno vymazané zobrazuje hore svoju celkovú veľkosť. Po poriadnom upratovaní fotogalérie býva výsledok často poznať:
+
+  - Ľahké upratovanie: 500MB - 2GB
+  - Bežné upratovanie: 2GB - 5GB
+  - Veľké upratovanie: 5GB - 10GB+
+
+  ## Dobré vedieť
+
+  ⚠️ **Vyprázdnenie albumu Nedávno vymazané sa nedá vrátiť späť.** Skôr než všetko vymažete, album si rýchlo prezrite. Je to posledná šanca zachrániť nejakú fotku.
+
+  💡 **Vôbec to robiť nemusíte.** Ak sa neponáhľate, iOS album vyprázdni automaticky, 30 dní po vymazaní každej fotky. Ručné vyprázdnenie vám len uvoľní miesto hneď teraz.
+
+  💡 **Urobte si z toho zvyk.** Po každom upratovaní album Nedávno vymazané raz vyprázdnite. Práve vtedy sa úložisko skutočne vráti.

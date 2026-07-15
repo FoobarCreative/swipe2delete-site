@@ -28,7 +28,7 @@ items:
       Sí. Las fotos y capturas de pantalla suelen ser de lo que más llena un
       iPhone. Después de limpiar un mes, Swipe2delete te muestra exactamente cuánto
       espacio ahorraste. Para recuperar el espacio de inmediato, vacía también el
-      álbum [Eliminados](/guides/empty-recently-deleted){:target="_self"} en la app
+      álbum [Eliminados](/es-419/guides/empty-recently-deleted){:target="_self"} en la app
       Fotos. Si no, iOS lo libera automáticamente a los 30 días.
   - q: Borré fotos pero sigo sin espacio libre. ¿Por qué?
     a: >-
@@ -38,7 +38,7 @@ items:
       seguridad. El espacio no se libera hasta que ese álbum se vacía, ya sea
       automáticamente a los 30 días o manualmente ahora mismo. Aquí tienes nuestra
       guía de un minuto: [cómo vaciar Eliminados y liberar espacio al
-      instante](/guides/empty-recently-deleted){:target="_self"}.
+      instante](/es-419/guides/empty-recently-deleted){:target="_self"}.
   - q: ¿Las fotos también se borran de iCloud?
     a: >-
       Si usas Fotos de iCloud, tu fototeca se mantiene sincronizada, así que una

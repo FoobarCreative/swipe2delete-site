@@ -1,0 +1,58 @@
+title: "Fotky jsou smazané, ale místo se neuvolnilo? Vysypte Nedávno smazané na iPhonu"
+short_title: "Vysypat Nedávno smazané"
+description: "Smazané fotky zabírají úložiště ještě 30 dní v albu Nedávno smazané. Poradíme, jak ho vysypat a okamžitě uvolnit místo na iPhonu."
+cta_label: "Otevřít Fotky →"
+body: |
+  Uklidili jste fotogalerii, ale ukazatel úložiště se ani nehnul. Nebojte se: vaše fotky jsou opravdu smazané. iOS je jen 30 dní drží, než místo uvolní.
+
+  ## Proč se úložiště ještě neuvolnilo
+
+  Když na iPhonu smažete fotky, ať už přes Swipe2delete, jinou aplikaci, nebo přímo v aplikaci Fotky, iOS je neodstraní okamžitě. Přesune je do alba **Nedávno smazané**, kde jako pojistka čekají **30 dní** pro případ, že si to rozmyslíte. Dokud album nevysypete, fotky dál zabírají úložiště.
+
+  **Řešení:** vysypte album Nedávno smazané ručně a místo se uvolní hned.
+
+  ## Krok za krokem: vysypání alba Nedávno smazané
+
+  ### 1. Otevřete aplikaci Fotky
+
+  Klepněte na ikonu **Fotky** na ploše.
+
+  ![Aplikace Fotky na ploše](/assets/guides/empty-recently-deleted/photos.webp)
+
+  ### 2. Srolujte k albu Nedávno smazané
+
+  Srolujte dolů k sekci **Další alba** a klepněte na **Nedávno smazané**. (Ve starších verzích iOS ho najdete v Albech.)
+
+  ![Nedávno smazané v sekci Další alba](/assets/guides/empty-recently-deleted/recently-deleted.webp)
+
+  ### 3. Vysypte album
+
+  Klepněte vpravo nahoře na **Vybrat** a pak vlevo dole na **Smazat vše**.
+
+  ![Tlačítko Vybrat v albu Nedávno smazané](/assets/guides/empty-recently-deleted/select.webp)
+
+  ![Tlačítko Smazat vše v albu Nedávno smazané](/assets/guides/empty-recently-deleted/delete-all.webp)
+
+  ### 4. Potvrďte
+
+  Klepněte na **Smazat ze všech zařízení** a fotky se trvale odstraní.
+
+  ![Potvrzovací okno smazání fotek](/assets/guides/empty-recently-deleted/delete-from-all-devices.webp)
+
+  ✅ **Hotovo!** Úložiště se uvolní okamžitě, na vašem iPhonu i v iCloudu, pokud používáte Fotky na iCloudu.
+
+  ## Kolik místa získám zpět?
+
+  Album Nedávno smazané zobrazuje nahoře svou celkovou velikost. Po pořádném úklidu fotogalerie bývá výsledek často znát:
+
+  - Lehký úklid: 500MB - 2GB
+  - Běžný úklid: 2GB - 5GB
+  - Velký úklid: 5GB - 10GB+
+
+  ## Dobré vědět
+
+  ⚠️ **Vysypání alba Nedávno smazané nelze vrátit zpět.** Než všechno smažete, album si rychle projděte. Je to poslední šance zachránit nějakou fotku.
+
+  💡 **Vůbec to dělat nemusíte.** Pokud nespěcháte, iOS album vysype automaticky, 30 dní po smazání každé fotky. Ruční vysypání vám jen uvolní místo hned teď.
+
+  💡 **Udělejte si z toho zvyk.** Po každém úklidu album Nedávno smazané jednou vysypte. Právě tehdy se úložiště skutečně vrátí.

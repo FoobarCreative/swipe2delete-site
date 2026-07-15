@@ -29,7 +29,7 @@ items:
       büyük şeylerden biridir. Bir ayı temizledikten sonra Swipe2delete tam olarak ne
       kadar alan kazandığınızı gösterir. Alanın hemen geri kazanılması için ayrıca
       Fotoğraflar uygulamasında [Son Silinenler albümünü
-      boşaltın](/guides/empty-recently-deleted){:target="_self"}. Aksi halde iOS bu
+      boşaltın](/tr/guides/empty-recently-deleted){:target="_self"}. Aksi halde iOS bu
       alanı 30 gün sonra otomatik olarak boşaltır.
   - q: Fotoğrafları sildim ama hala boş alan yok. Neden?
     a: >-
@@ -39,7 +39,7 @@ items:
       olarak 30 güne kadar orada bekler. Depolama alanı, bu albüm boşaltılana kadar
       serbest kalmaz: ya 30 gün sonra otomatik olarak ya da hemen şimdi elle. Bir
       dakikalık rehberimize göz atın: [Son Silinenler nasıl boşaltılır ve alan hemen
-      nasıl açılır](/guides/empty-recently-deleted){:target="_self"}.
+      nasıl açılır](/tr/guides/empty-recently-deleted){:target="_self"}.
   - q: Fotoğraflar iCloud'dan da silinir mi?
     a: >-
       iCloud Fotoğrafları kullanıyorsanız arşiviniz eşzamanlı kalır. Yani

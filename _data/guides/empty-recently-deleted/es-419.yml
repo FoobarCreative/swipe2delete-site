@@ -1,0 +1,58 @@
+title: "¿Borraste fotos pero sigues sin espacio? Vacía Eliminados en tu iPhone"
+short_title: "Vaciar Eliminados"
+description: "Las fotos borradas siguen ocupando espacio durante 30 días en el álbum Eliminados. Aquí te mostramos cómo vaciarlo y liberar espacio en tu iPhone de inmediato."
+cta_label: "Abrir Fotos →"
+body: |
+  Limpiaste tu galería, pero la barra de almacenamiento no se movió. No te preocupes: tus fotos sí están borradas. iOS simplemente las guarda 30 días antes de soltar el espacio.
+
+  ## Por qué tu espacio todavía no se libera
+
+  Cuando borras fotos en un iPhone, con Swipe2delete, otra app o la misma app Fotos, iOS no las elimina de inmediato. Las mueve al álbum **Eliminados**, donde permanecen **30 días** como red de seguridad por si cambias de opinión. Hasta que ese álbum se vacía, las fotos siguen ocupando almacenamiento.
+
+  **La solución:** vacía el álbum Eliminados manualmente y el espacio se recupera de inmediato.
+
+  ## Paso a paso: vaciar Eliminados
+
+  ### 1. Abre la app Fotos
+
+  Toca el ícono de **Fotos** en tu pantalla de inicio.
+
+  ![App Fotos en la pantalla de inicio](/assets/guides/empty-recently-deleted/photos.webp)
+
+  ### 2. Desplázate hasta Eliminados
+
+  Desplázate hacia abajo hasta la sección **Utilidades** y toca **Eliminados**. (En versiones anteriores de iOS está dentro de Álbumes.)
+
+  ![Eliminados dentro de Utilidades](/assets/guides/empty-recently-deleted/recently-deleted.webp)
+
+  ### 3. Vacía el álbum
+
+  Toca **Seleccionar** arriba a la derecha y luego toca **Eliminar todo** abajo a la izquierda.
+
+  ![Botón Seleccionar en Eliminados](/assets/guides/empty-recently-deleted/select.webp)
+
+  ![Botón Eliminar todo en Eliminados](/assets/guides/empty-recently-deleted/delete-all.webp)
+
+  ### 4. Confirma
+
+  Toca **Eliminar de todos los dispositivos** para borrarlas definitivamente.
+
+  ![Ventana de confirmación para borrar fotos](/assets/guides/empty-recently-deleted/delete-from-all-devices.webp)
+
+  ✅ **¡Listo!** El espacio se libera de inmediato, en tu iPhone y en iCloud si usas Fotos de iCloud.
+
+  ## ¿Cuánto espacio voy a recuperar?
+
+  El álbum Eliminados muestra su tamaño total en la parte superior. Después de una buena limpieza de la galería suele ser bastante:
+
+  - Limpieza ligera: 500MB - 2GB
+  - Limpieza normal: 2GB - 5GB
+  - Limpieza grande: 5GB - 10GB+
+
+  ## Bueno saberlo
+
+  ⚠️ **Vaciar Eliminados no se puede deshacer.** Dale un vistazo rápido al álbum antes de borrar todo. Es tu última oportunidad de rescatar una foto.
+
+  💡 **No tienes que hacer esto si no quieres.** Si no tienes apuro, iOS vacía el álbum automáticamente, 30 días después de que se borró cada foto. Vaciarlo manualmente solo te da el espacio ahora.
+
+  💡 **Hazlo un hábito.** Después de cada sesión de limpieza, vacía Eliminados una vez. Ahí es cuando el espacio de verdad regresa.

@@ -1,0 +1,58 @@
+title: "Slettet fotos, men stadig ingen plads? Sådan tømmer du Slettet for nylig på iPhone"
+short_title: "Tøm Slettet for nylig"
+description: "Slettede fotos bruger stadig lagerplads i 30 dage i albummet Slettet for nylig. Sådan tømmer du det og frigør plads på din iPhone med det samme."
+cta_label: "Åbn Fotos →"
+body: |
+  Du har ryddet op i kamerarullen, men lagerbjælken rykkede sig ikke. Bare rolig: dine fotos er virkelig slettet. iOS holder bare på dem i 30 dage, før pladsen gives fri.
+
+  ## Derfor er din plads ikke fri endnu
+
+  Når du sletter fotos på en iPhone, uanset om det er med Swipe2delete, en anden app eller selve appen Fotos, fjerner iOS dem ikke med det samme. De flyttes til albummet **Slettet for nylig**, hvor de ligger i **30 dage** som sikkerhedsnet, hvis du skulle fortryde. Indtil albummet tømmes, bliver fotoene ved med at optage plads.
+
+  **Løsningen:** tøm albummet Slettet for nylig manuelt, så frigøres pladsen med det samme.
+
+  ## Trin for trin: tøm Slettet for nylig
+
+  ### 1. Åbn appen Fotos
+
+  Tryk på symbolet **Fotos** på hjemmeskærmen.
+
+  ![Appen Fotos på hjemmeskærmen](/assets/guides/empty-recently-deleted/photos.webp)
+
+  ### 2. Rul ned til Slettet for nylig
+
+  Rul ned til sektionen **Værktøjer**, og tryk på **Slettet for nylig**. (I ældre iOS-versioner ligger det under Album.)
+
+  ![Slettet for nylig under Værktøjer](/assets/guides/empty-recently-deleted/recently-deleted.webp)
+
+  ### 3. Tøm albummet
+
+  Tryk på **Vælg** øverst til højre, og tryk derefter på **Slet alle** nederst til venstre.
+
+  ![Vælg i Slettet for nylig](/assets/guides/empty-recently-deleted/select.webp)
+
+  ![Slet alle i Slettet for nylig](/assets/guides/empty-recently-deleted/delete-all.webp)
+
+  ### 4. Bekræft
+
+  Tryk på **Slet fra alle enheder** for at fjerne dem permanent.
+
+  ![Bekræftelsesvindue for sletning af fotos](/assets/guides/empty-recently-deleted/delete-from-all-devices.webp)
+
+  ✅ **Færdig!** Pladsen frigøres med det samme, på din iPhone og i iCloud, hvis du bruger iCloud-fotos.
+
+  ## Hvor meget plads får jeg tilbage?
+
+  Albummet Slettet for nylig viser sin samlede størrelse øverst. Efter en ordentlig oprydning i kamerarullen er det tit en hel del:
+
+  - Let oprydning: 500 MB - 2 GB
+  - Almindelig oprydning: 2 GB - 5 GB
+  - Stor oprydning: 5 GB - 10 GB+
+
+  ## Godt at vide
+
+  ⚠️ **At tømme Slettet for nylig kan ikke fortrydes.** Rul lige hurtigt igennem, før du sletter det hele. Det er din sidste chance for at redde et foto.
+
+  💡 **Du behøver slet ikke gøre det.** Hvis du ikke har travlt, tømmer iOS albummet automatisk, 30 dage efter at hvert foto blev slettet. At tømme det manuelt giver dig bare pladsen nu.
+
+  💡 **Gør det til en vane.** Tøm Slettet for nylig én gang efter hver oprydning. Det er dér, lagerpladsen faktisk kommer tilbage.

@@ -647,17 +647,60 @@ footer {
 	margin-right: 0px;
 }
 
-.footerLocales {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-	gap: 8px 20px;
+// Language picker (collapsed by default; pure HTML details element, no JS)
+
+.localePicker {
 	width: 100%;
+	max-width: 720px;
+	margin: 0 auto;
 	padding-bottom: 70px;
 	font-size: 0.85em;
+	text-align: center;
 
-	a {
-		color: rgba($footer-text-color, 0.9);
+	summary {
+		display: inline-block;
+		cursor: pointer;
+		padding: 10px 22px;
+		border: 1px solid rgba($footer-text-color, 0.35);
+		border-radius: 22px;
+		color: $footer-text-color;
+		user-select: none;
+		list-style: none;
+
+		&::-webkit-details-marker {
+			display: none;
+		}
+
+		&::after {
+			content: " ▾";
+			opacity: 0.6;
+		}
+	}
+
+	&[open] summary::after {
+		content: " ▴";
+	}
+
+	.localePickerList {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+		gap: 10px 16px;
+		margin-top: 20px;
+		padding: 20px;
+		background: rgba($footer-text-color, 0.05);
+		border-radius: 14px;
+		text-align: left;
+
+		a {
+			color: rgba($footer-text-color, 0.9);
+			white-space: nowrap;
+			overflow: hidden;
+			text-overflow: ellipsis;
+		}
+
+		a.current {
+			font-weight: bold;
+		}
 	}
 }
 
@@ -737,7 +780,7 @@ footer {
 		display: none !important;
 	}
 
-	.footerLocales {
+	.localePicker {
 		display: none !important;
 	}
 }

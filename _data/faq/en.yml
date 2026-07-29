@@ -8,11 +8,6 @@ items:
       Swipe left to delete a photo, swipe right to keep it. When you finish a batch, you
       get a final review of everything you marked for deletion before anything is removed.
       It turns cleaning up thousands of photos into something quick and, honestly, kind of fun.
-  - q: Is Swipe2delete free?
-    a: >-
-      Swipe2delete is free to download and try. Premium unlocks unlimited cleaning, and you
-      can choose between a subscription or a single one-time lifetime purchase, so you're
-      never locked into a recurring payment to keep your camera roll clean.
   - q: Can I recover photos I deleted by accident?
     a: >-
       Yes, twice over. Inside the app, tap undo to instantly bring back a photo you just
@@ -53,6 +48,11 @@ items:
       spare minute. Your progress is saved per month, a progress wheel shows how far
       you've come, and the **On This Day** feature resurfaces photos from past years so
       old clutter gets dealt with too.
+  - q: Is Swipe2delete free?
+    a: >-
+      Swipe2delete is free to download and try. Premium unlocks unlimited cleaning, and you
+      can choose between a subscription or a single one-time lifetime purchase, so you're
+      never locked into a recurring payment to keep your camera roll clean.
   - q: How is this different from deleting photos in the Photos app?
     a: >-
       The Photos app makes you tap select on each photo, and it's easy to fat-finger the

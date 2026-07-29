@@ -9,11 +9,6 @@ items:
       završite rundu, dobivate završnu provjeru svega što ste označili za brisanje,
       prije nego što se išta ukloni. Tako čišćenje tisuća fotografija postaje brzo i,
       iskreno, prilično zabavno.
-  - q: Je li Swipe2delete besplatan?
-    a: >-
-      Swipe2delete se besplatno preuzima i isprobava. Premium otključava neograničeno
-      čišćenje, a možete birati između pretplate ili jednokratne doživotne kupnje, pa
-      niste vezani za ponavljajuće plaćanje da biste galeriju držali čistom.
   - q: Mogu li vratiti fotografije koje sam slučajno izbrisao?
     a: >-
       Da, i to na dva načina. U aplikaciji dodirnite poništi i odmah vratite
@@ -57,6 +52,11 @@ items:
       slobodnu minutu. Napredak se sprema za svaki mjesec, kotač napretka pokazuje
       koliko ste odmakli, a značajka **Na ovaj dan** vraća fotografije iz proteklih
       godina da se i stari nered napokon riješi.
+  - q: Je li Swipe2delete besplatan?
+    a: >-
+      Swipe2delete se besplatno preuzima i isprobava. Premium otključava neograničeno
+      čišćenje, a možete birati između pretplate ili jednokratne doživotne kupnje, pa
+      niste vezani za ponavljajuće plaćanje da biste galeriju držali čistom.
   - q: Po čemu se to razlikuje od brisanja fotografija u aplikaciji Fotografije?
     a: >-
       U aplikaciji Fotografije morate dodirnuti i odabrati svaku fotografiju posebno,

@@ -9,12 +9,6 @@ items:
       vás záverečná kontrola všetkého, čo ste označili na vymazanie, skôr než sa čokoľvek
       odstráni. Upratovanie tisícok fotiek je tak rýchlo hotové a úprimne povedané, je to
       aj celkom zábava.
-  - q: Je Swipe2delete zadarmo?
-    a: >-
-      Swipe2delete si môžete zadarmo stiahnuť a vyskúšať. Premium odomkne neobmedzené
-      upratovanie a môžete si vybrať medzi predplatným a jednorazovým doživotným nákupom.
-      Nikdy sa teda nemusíte zaviazať k opakovaným platbám, aby ste mali vo fotogalérii
-      poriadok.
   - q: Môžem obnoviť fotky vymazané omylom?
     a: >-
       Áno, dokonca dvojako. Priamo v aplikácii klepnite na späť a práve odswipovaná fotka
@@ -56,6 +50,12 @@ items:
       kedykoľvek máte voľnú chvíľu. Postup sa ukladá pre každý mesiac zvlášť, koliesko
       postupu ukazuje, ako ďaleko ste, a funkcia **V tento deň** pripomína fotky z
       minulých rokov, takže dôjde aj na staré resty.
+  - q: Je Swipe2delete zadarmo?
+    a: >-
+      Swipe2delete si môžete zadarmo stiahnuť a vyskúšať. Premium odomkne neobmedzené
+      upratovanie a môžete si vybrať medzi predplatným a jednorazovým doživotným nákupom.
+      Nikdy sa teda nemusíte zaviazať k opakovaným platbám, aby ste mali vo fotogalérii
+      poriadok.
   - q: Ako sa to líši od mazania fotiek v aplikácii Fotky?
     a: >-
       V aplikácii Fotky musíte každú fotku zvlášť označiť, ľahko klepnete na nesprávnu a

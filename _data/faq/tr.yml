@@ -9,12 +9,6 @@ items:
       bitirdiğinizde, herhangi bir şey silinmeden önce silinmek üzere işaretlediğiniz
       her şeyi son kez gözden geçirirsiniz. Binlerce fotoğrafı temizlemek böylece
       hızlı ve açıkçası oldukça eğlenceli bir işe dönüşür.
-  - q: Swipe2delete ücretsiz mi?
-    a: >-
-      Swipe2delete'i ücretsiz indirip deneyebilirsiniz. Premium sınırsız temizlik
-      açar ve abonelik ile tek seferlik ömür boyu satın alma arasında seçim
-      yapabilirsiniz. Yani galerinizi temiz tutmak için sürekli bir ödemeye bağlı
-      kalmazsınız.
   - q: Yanlışlıkla sildiğim fotoğrafları geri getirebilir miyim?
     a: >-
       Evet, hem de iki şekilde. Uygulama içinde geri al düğmesine dokunarak az önce
@@ -60,6 +54,12 @@ items:
       bitirebilirsiniz. İlerlemeniz ay bazında kaydedilir, bir ilerleme çarkı ne
       kadar yol aldığınızı gösterir ve **Bu Gün** özelliği geçmiş yıllardan
       fotoğrafları öne çıkararak eski karmaşanın da halledilmesini sağlar.
+  - q: Swipe2delete ücretsiz mi?
+    a: >-
+      Swipe2delete'i ücretsiz indirip deneyebilirsiniz. Premium sınırsız temizlik
+      açar ve abonelik ile tek seferlik ömür boyu satın alma arasında seçim
+      yapabilirsiniz. Yani galerinizi temiz tutmak için sürekli bir ödemeye bağlı
+      kalmazsınız.
   - q: Bunun Fotoğraflar uygulamasında fotoğraf silmekten farkı ne?
     a: >-
       Fotoğraflar uygulamasında her fotoğrafa tek tek dokunup seçmeniz gerekir,

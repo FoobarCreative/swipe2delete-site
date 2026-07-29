@@ -9,12 +9,6 @@ items:
       termini o rundă, primești o verificare finală a tot ce ai marcat pentru
       ștergere, înainte ca ceva să fie eliminat. Astfel, curățarea a mii de poze
       devine rapidă și, sincer, chiar distractivă.
-  - q: Este Swipe2delete gratuit?
-    a: >-
-      Swipe2delete se descarcă și se încearcă gratuit. Premium deblochează curățare
-      nelimitată și poți alege între un abonament sau o achiziție unică pe viață, așa
-      că nu ești blocat într-o plată recurentă doar ca să îți păstrezi galeria
-      curată.
   - q: Pot recupera pozele șterse din greșeală?
     a: >-
       Da, chiar în două feluri. În aplicație, atinge Anulează pentru a readuce
@@ -59,6 +53,12 @@ items:
       câte ori ai un minut liber. Progresul se salvează pentru fiecare lună, o roată
       de progres îți arată cât ai avansat, iar funcția **În această zi** readuce poze
       din anii trecuți, ca să scapi și de dezordinea veche.
+  - q: Este Swipe2delete gratuit?
+    a: >-
+      Swipe2delete se descarcă și se încearcă gratuit. Premium deblochează curățare
+      nelimitată și poți alege între un abonament sau o achiziție unică pe viață, așa
+      că nu ești blocat într-o plată recurentă doar ca să îți păstrezi galeria
+      curată.
   - q: Prin ce diferă de ștergerea pozelor din aplicația Poze?
     a: >-
       În aplicația Poze trebuie să atingi și să selectezi fiecare poză în parte, e

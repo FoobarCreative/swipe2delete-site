@@ -9,11 +9,6 @@ items:
       näet vielä lopputarkistuksen kaikesta poistettavaksi merkitsemästäsi, ennen kuin
       mitään poistetaan. Tuhansien kuvien siivoamisesta tulee nopeaa ja, rehellisesti
       sanottuna, aika hauskaa.
-  - q: Onko Swipe2delete ilmainen?
-    a: >-
-      Swipe2deleten voi ladata ja sitä voi kokeilla ilmaiseksi. Premium avaa rajattoman
-      siivoamisen, ja voit valita tilauksen tai kertaluonteisen lifetime-oston. Sinun ei
-      siis koskaan tarvitse sitoutua jatkuvaan maksuun pitääksesi kamerarullasi siistinä.
   - q: Voinko palauttaa vahingossa poistamani kuvat?
     a: >-
       Kyllä, jopa kahdella tavalla. Sovelluksessa voit napauttaa kumoa ja palauttaa juuri
@@ -55,6 +50,11 @@ items:
       kun sinulla on hetki aikaa. Edistymisesi tallentuu kuukausittain, edistymisympyrä
       näyttää, kuinka pitkällä olet, ja **Tänä päivänä** -toiminto nostaa esiin kuvia
       menneiltä vuosilta, jotta vanhatkin rönsyt tulevat hoidetuiksi.
+  - q: Onko Swipe2delete ilmainen?
+    a: >-
+      Swipe2deleten voi ladata ja sitä voi kokeilla ilmaiseksi. Premium avaa rajattoman
+      siivoamisen, ja voit valita tilauksen tai kertaluonteisen lifetime-oston. Sinun ei
+      siis koskaan tarvitse sitoutua jatkuvaan maksuun pitääksesi kamerarullasi siistinä.
   - q: Miten tämä eroaa kuvien poistamisesta Kuvat-sovelluksessa?
     a: >-
       Kuvat-sovelluksessa jokainen kuva pitää valita erikseen, väärää kuvaa on helppo

@@ -9,11 +9,6 @@ items:
       d'une session, vous revoyez tout ce que vous avez marqué pour suppression avant que
       quoi que ce soit ne soit retiré. Trier des milliers de photos devient rapide et,
       honnêtement, plutôt amusant.
-  - q: Swipe2delete est-il gratuit ?
-    a: >-
-      Swipe2delete est gratuit à télécharger et à essayer. Premium débloque le nettoyage
-      illimité, au choix par abonnement ou par un achat unique à vie. Vous n'êtes donc
-      jamais obligé de payer un abonnement récurrent pour garder votre pellicule propre.
   - q: Puis-je récupérer des photos supprimées par accident ?
     a: >-
       Oui, doublement. Dans l'app, touchez Annuler pour récupérer instantanément une photo
@@ -57,6 +52,11 @@ items:
       mois dès que vous avez une minute. Votre progression est enregistrée mois par mois,
       une roue de progression montre où vous en êtes, et la fonction **Ce jour-là** fait
       remonter les photos des années passées pour trier aussi le vieux désordre.
+  - q: Swipe2delete est-il gratuit ?
+    a: >-
+      Swipe2delete est gratuit à télécharger et à essayer. Premium débloque le nettoyage
+      illimité, au choix par abonnement ou par un achat unique à vie. Vous n'êtes donc
+      jamais obligé de payer un abonnement récurrent pour garder votre pellicule propre.
   - q: Quelle différence avec la suppression dans l'app Photos ?
     a: >-
       L'app Photos vous oblige à sélectionner chaque photo une par une, avec le risque de

@@ -9,11 +9,6 @@ items:
       Durchgangs siehst du noch einmal alles, was du zum Löschen markiert hast, bevor
       etwas entfernt wird. So wird das Aufräumen von tausenden Fotos schnell erledigt und
       macht ehrlich gesagt sogar Spaß.
-  - q: Ist Swipe2delete kostenlos?
-    a: >-
-      Swipe2delete kannst du kostenlos laden und ausprobieren. Premium schaltet
-      unbegrenztes Aufräumen frei, wahlweise als Abo oder als einmaliger Lifetime-Kauf.
-      Du musst also kein Dauerabo abschließen, um deine Kamerarolle sauber zu halten.
   - q: Kann ich versehentlich gelöschte Fotos wiederherstellen?
     a: >-
       Ja, sogar doppelt. In der App tippst du auf Rückgängig und holst ein gerade
@@ -57,6 +52,11 @@ items:
       Monat gespeichert, ein Fortschrittsrad zeigt dir, wie weit du bist, und die Funktion
       **An diesem Tag** holt Fotos aus vergangenen Jahren hervor, damit auch alter Kram
       drankommt.
+  - q: Ist Swipe2delete kostenlos?
+    a: >-
+      Swipe2delete kannst du kostenlos laden und ausprobieren. Premium schaltet
+      unbegrenztes Aufräumen frei, wahlweise als Abo oder als einmaliger Lifetime-Kauf.
+      Du musst also kein Dauerabo abschließen, um deine Kamerarolle sauber zu halten.
   - q: Was ist der Unterschied zum Löschen in der Fotos-App?
     a: >-
       In der Fotos-App musst du jedes Foto einzeln antippen, vertippst dich leicht und

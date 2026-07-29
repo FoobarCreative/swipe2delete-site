@@ -8,11 +8,6 @@ items:
       para borrar una foto y a la derecha para conservarla. Al terminar una tanda, haces
       una revisión final de todo lo marcado para borrar antes de que se elimine nada.
       Ordenar miles de fotos se vuelve rápido y, sinceramente, hasta divertido.
-  - q: ¿Swipe2delete es gratis?
-    a: >-
-      Swipe2delete se puede descargar y probar gratis. Premium desbloquea la limpieza
-      ilimitada, y puedes elegir entre una suscripción o una única compra de por vida,
-      así que nunca estás obligado a un pago recurrente para mantener tu carrete limpio.
   - q: ¿Puedo recuperar fotos borradas por accidente?
     a: >-
       Sí, por partida doble. Dentro de la app, toca deshacer para recuperar al instante
@@ -55,6 +50,11 @@ items:
       un minuto libre. Tu progreso se guarda por mes, una rueda de progreso muestra
       cuánto llevas, y la función **Tal día como hoy** rescata fotos de años pasados para
       que el desorden antiguo también caiga.
+  - q: ¿Swipe2delete es gratis?
+    a: >-
+      Swipe2delete se puede descargar y probar gratis. Premium desbloquea la limpieza
+      ilimitada, y puedes elegir entre una suscripción o una única compra de por vida,
+      así que nunca estás obligado a un pago recurrente para mantener tu carrete limpio.
   - q: ¿En qué se diferencia de borrar fotos en la app Fotos?
     a: >-
       La app Fotos te obliga a seleccionar cada foto una a una, es fácil tocar la

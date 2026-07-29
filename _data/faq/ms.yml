@@ -5,9 +5,6 @@ items:
   - q: Bagaimanakah Swipe2delete berfungsi?
     a: >-
       Swipe2delete memaparkan galeri foto anda satu foto demi satu foto, sebulan demi sebulan. Leret ke kiri untuk memadam foto, leret ke kanan untuk menyimpannya. Apabila anda menamatkan satu sesi, anda akan membuat semakan terakhir ke atas semua foto yang ditanda untuk dipadam sebelum apa-apa benar-benar dibuang. Mengemas beribu-ribu foto jadi pantas dan, sejujurnya, agak menyeronokkan.
-  - q: Adakah Swipe2delete percuma?
-    a: >-
-      Swipe2delete percuma untuk dimuat turun dan dicuba. Premium membuka pembersihan tanpa had, dan anda boleh memilih antara langganan atau belian sepanjang hayat dengan sekali bayaran sahaja, jadi anda tidak akan terikat dengan bayaran berulang semata-mata untuk memastikan galeri foto anda kemas.
   - q: Bolehkah saya memulihkan foto yang terpadam secara tidak sengaja?
     a: >-
       Boleh, malah dengan dua lapisan perlindungan. Dalam aplikasi, ketik buat asal untuk terus mengembalikan foto yang baru anda leret. Dan kerana Swipe2delete menggunakan pustaka foto Apple, semua yang dipadam akan masuk ke album **Baru Dipadam** dalam aplikasi Foto, dan kekal di situ sehingga 30 hari sebelum dipadam secara kekal. Buka Foto → Album → Baru Dipadam untuk memulihkan foto pada bila-bila masa dalam tempoh itu.
@@ -26,6 +23,9 @@ items:
   - q: Apakah cara terpantas untuk mengemas galeri foto yang sudah bertimbun?
     a: >-
       Jangan cuba menyiapkan semuanya sekali gus. Itulah punca kerja mengemas selalu terbengkalai. Swipe2delete membahagikan pustaka anda mengikut bulan, jadi anda boleh menyelesaikan satu bulan setiap kali ada masa terluang. Kemajuan anda disimpan mengikut bulan, roda kemajuan menunjukkan sejauh mana anda telah pergi, dan ciri **Pada Hari Ini** membawa kembali foto dari tahun-tahun lalu supaya timbunan lama turut diuruskan.
+  - q: Adakah Swipe2delete percuma?
+    a: >-
+      Swipe2delete percuma untuk dimuat turun dan dicuba. Premium membuka pembersihan tanpa had, dan anda boleh memilih antara langganan atau belian sepanjang hayat dengan sekali bayaran sahaja, jadi anda tidak akan terikat dengan bayaran berulang semata-mata untuk memastikan galeri foto anda kemas.
   - q: Apakah bezanya dengan memadam foto dalam aplikasi Foto?
     a: >-
       Aplikasi Foto memerlukan anda mengetik dan memilih setiap foto, mudah tersilap tekan, dan tiada langkah semakan. Swipe2delete dibina untuk satu tugas sahaja: memutuskan simpan atau padam dengan pantas. Satu leretan bagi setiap foto, butang buat asal, semakan terakhir sebelum apa-apa dipadam, dan penjejakan kemajuan supaya anda benar-benar menyudahkannya. Lebih 27 juta foto telah dipadam dengan aplikasi ini.

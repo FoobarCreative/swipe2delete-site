@@ -9,12 +9,6 @@ items:
       silinməzdən əvvəl silinmə üçün işarələdiyiniz hər şeyə son dəfə baxırsınız.
       Beləliklə minlərlə şəklin təmizlənməsi sürətli və düzü, hətta əyləncəli bir
       işə çevrilir.
-  - q: Swipe2delete pulsuzdur?
-    a: >-
-      Swipe2delete-i pulsuz endirib sınaya bilərsiniz. Premium limitsiz təmizləməni
-      açır və abunəlik ya da birdəfəlik ömürlük alış arasında seçim edə bilərsiniz.
-      Yəni qalereyanızı təmiz saxlamaq üçün heç vaxt təkrarlanan ödənişə bağlı
-      qalmırsınız.
   - q: Təsadüfən sildiyim şəkilləri bərpa edə bilərəm?
     a: >-
       Bəli, həm də iki yolla. Tətbiqin içində geri al düyməsinə toxunub indicə
@@ -60,6 +54,12 @@ items:
       irəliləyiş çarxı nə qədər yol getdiyinizi göstərir, **Bu gündə** funksiyası
       isə keçmiş illərin şəkillərini üzə çıxarır ki, köhnə qarışıqlıq da
       təmizlənsin.
+  - q: Swipe2delete pulsuzdur?
+    a: >-
+      Swipe2delete-i pulsuz endirib sınaya bilərsiniz. Premium limitsiz təmizləməni
+      açır və abunəlik ya da birdəfəlik ömürlük alış arasında seçim edə bilərsiniz.
+      Yəni qalereyanızı təmiz saxlamaq üçün heç vaxt təkrarlanan ödənişə bağlı
+      qalmırsınız.
   - q: Bunun Photos tətbiqində şəkil silməkdən fərqi nədir?
     a: >-
       Photos tətbiqində hər şəkli tək-tək seçmək lazımdır, səhv şəklə toxunmaq

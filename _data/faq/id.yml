@@ -5,9 +5,6 @@ items:
   - q: Bagaimana cara kerja Swipe2delete?
     a: >-
       Swipe2delete menampilkan galeri foto Anda satu foto demi satu foto, satu bulan demi satu bulan. Geser ke kiri untuk menghapus foto, geser ke kanan untuk menyimpannya. Setelah menyelesaikan satu sesi, Anda mendapat tinjauan akhir atas semua foto yang ditandai untuk dihapus sebelum apa pun benar-benar dihapus. Membersihkan ribuan foto jadi terasa cepat dan, jujur saja, cukup menyenangkan.
-  - q: Apakah Swipe2delete gratis?
-    a: >-
-      Swipe2delete gratis untuk diunduh dan dicoba. Premium membuka pembersihan tanpa batas, dan Anda bisa memilih antara langganan atau pembelian seumur hidup dengan sekali bayar, jadi Anda tidak pernah terikat pembayaran berulang hanya untuk menjaga galeri foto tetap rapi.
   - q: Bisakah saya memulihkan foto yang tidak sengaja terhapus?
     a: >-
       Bisa, bahkan dengan dua lapis perlindungan. Di dalam aplikasi, ketuk urungkan untuk langsung mengembalikan foto yang baru saja Anda geser. Dan karena Swipe2delete menggunakan perpustakaan foto Apple, semua yang dihapus masuk ke album **Baru Dihapus** di aplikasi Foto, dan tersimpan di sana hingga 30 hari sebelum dihapus permanen. Buka Foto → Album → Baru Dihapus untuk memulihkan foto kapan saja dalam periode itu.
@@ -26,6 +23,9 @@ items:
   - q: Apa cara tercepat membersihkan galeri foto yang sudah menumpuk?
     a: >-
       Jangan coba menyelesaikan semuanya sekaligus. Begitulah biasanya bersih-bersih berakhir terbengkalai. Swipe2delete membagi perpustakaan Anda per bulan, jadi Anda bisa menuntaskan satu bulan kapan pun ada waktu luang. Progres Anda tersimpan per bulan, roda progres menunjukkan sudah sejauh mana Anda melangkah, dan fitur **Pada Hari Ini** memunculkan kembali foto dari tahun-tahun lalu sehingga tumpukan lama pun ikut terurus.
+  - q: Apakah Swipe2delete gratis?
+    a: >-
+      Swipe2delete gratis untuk diunduh dan dicoba. Premium membuka pembersihan tanpa batas, dan Anda bisa memilih antara langganan atau pembelian seumur hidup dengan sekali bayar, jadi Anda tidak pernah terikat pembayaran berulang hanya untuk menjaga galeri foto tetap rapi.
   - q: Apa bedanya dengan menghapus foto di aplikasi Foto?
     a: >-
       Aplikasi Foto mengharuskan Anda mengetuk dan memilih setiap foto, mudah salah pencet, dan tanpa langkah tinjauan. Swipe2delete dibuat untuk satu tugas saja: memutuskan simpan atau hapus dengan cepat. Satu gesekan per foto, tombol urungkan, tinjauan akhir sebelum apa pun dihapus, dan pelacak progres supaya Anda benar-benar menuntaskannya. Lebih dari 27 juta foto telah dihapus dengan aplikasi ini.

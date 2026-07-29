@@ -1,3 +1,10 @@
+<style>
+  /* Extra room below the content so the page bottom clears the iPhone home indicator in the in-app view */
+  .subPageBody .page {
+    padding-bottom: 80px;
+  }
+</style>
+
 {% assign faq_lang = page.lang | default: 'en' %}
 {% assign faq = site.data.faq[faq_lang] | default: site.data.faq['en'] %}
 

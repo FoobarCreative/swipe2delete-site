@@ -5,9 +5,6 @@ items:
   - q: Swipe2delete hoạt động như thế nào?
     a: >-
       Swipe2delete hiển thị thư viện ảnh của bạn từng ảnh một, theo từng tháng. Vuốt sang trái để xóa ảnh, vuốt sang phải để giữ lại. Khi hoàn thành một đợt, bạn sẽ xem lại lần cuối toàn bộ ảnh đã đánh dấu xóa trước khi bất cứ thứ gì bị xóa thật. Việc dọn hàng nghìn bức ảnh bỗng trở nên nhanh gọn và thú vị đến bất ngờ.
-  - q: Swipe2delete có miễn phí không?
-    a: >-
-      Swipe2delete có thể tải về và dùng thử miễn phí. Premium mở khóa dọn dẹp không giới hạn, và bạn có thể chọn giữa gói đăng ký hoặc mua trọn đời chỉ thanh toán một lần, nên bạn không bao giờ bị ràng buộc vào khoản phí định kỳ chỉ để giữ thư viện ảnh gọn gàng.
   - q: Tôi có thể khôi phục ảnh lỡ xóa nhầm không?
     a: >-
       Có, và còn được bảo vệ hai lớp. Trong ứng dụng, chạm hoàn tác để lấy lại ngay bức ảnh bạn vừa vuốt đi. Ngoài ra, vì Swipe2delete dùng thư viện ảnh của Apple, mọi ảnh đã xóa đều được chuyển vào album **Đã xóa gần đây** trong ứng dụng Ảnh và lưu tại đó tối đa 30 ngày trước khi bị xóa vĩnh viễn. Mở Ảnh → Album → Đã xóa gần đây để khôi phục ảnh bất cứ lúc nào trong khoảng thời gian đó.
@@ -26,6 +23,9 @@ items:
   - q: Cách nhanh nhất để dọn một thư viện ảnh khổng lồ là gì?
     a: >-
       Đừng cố làm hết trong một lần. Đó chính là lý do khiến nhiều cuộc dọn dẹp bị bỏ dở. Swipe2delete chia thư viện của bạn theo từng tháng, nên cứ rảnh một phút là bạn có thể xử lý xong một tháng. Tiến độ được lưu theo từng tháng, vòng tròn tiến độ cho thấy bạn đã đi được bao xa, và tính năng **Ngày này năm xưa** đưa ảnh từ các năm trước quay lại để cả những bức ảnh cũ cũng được dọn dẹp.
+  - q: Swipe2delete có miễn phí không?
+    a: >-
+      Swipe2delete có thể tải về và dùng thử miễn phí. Premium mở khóa dọn dẹp không giới hạn, và bạn có thể chọn giữa gói đăng ký hoặc mua trọn đời chỉ thanh toán một lần, nên bạn không bao giờ bị ràng buộc vào khoản phí định kỳ chỉ để giữ thư viện ảnh gọn gàng.
   - q: Ứng dụng này khác gì so với xóa ảnh trong ứng dụng Ảnh?
     a: >-
       Ứng dụng Ảnh bắt bạn chạm chọn từng ảnh một, rất dễ bấm nhầm mà lại không có bước xem lại. Swipe2delete được tạo ra chỉ để làm đúng một việc: quyết định giữ hay xóa thật nhanh. Mỗi ảnh một cú vuốt, có nút hoàn tác, có bước xem lại lần cuối trước khi xóa, và có theo dõi tiến độ để bạn thực sự hoàn thành. Người dùng đã xóa hơn 27 triệu bức ảnh với ứng dụng này.

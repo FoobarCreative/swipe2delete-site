@@ -9,12 +9,6 @@ items:
       får du en sista granskning av allt du markerat för radering innan något tas bort.
       Att rensa tusentals bilder blir plötsligt snabbt gjort och, ärligt talat, riktigt
       kul.
-  - q: Är Swipe2delete gratis?
-    a: >-
-      Swipe2delete är gratis att ladda ner och prova. Premium låser upp obegränsad
-      rensning, och du kan välja mellan en prenumeration eller ett engångsköp som gäller
-      livet ut. Du behöver alltså aldrig binda dig till en löpande betalning för att hålla
-      kamerarullen ren.
   - q: Kan jag återställa bilder jag raderat av misstag?
     a: >-
       Ja, på två sätt till och med. I appen trycker du på ångra för att direkt få tillbaka
@@ -55,6 +49,12 @@ items:
       du har en stund över. Dina framsteg sparas per månad, ett framstegshjul visar hur
       långt du kommit, och funktionen **På denna dag** lyfter fram bilder från tidigare år
       så att även gammalt skräp tas om hand.
+  - q: Är Swipe2delete gratis?
+    a: >-
+      Swipe2delete är gratis att ladda ner och prova. Premium låser upp obegränsad
+      rensning, och du kan välja mellan en prenumeration eller ett engångsköp som gäller
+      livet ut. Du behöver alltså aldrig binda dig till en löpande betalning för att hålla
+      kamerarullen ren.
   - q: Hur skiljer det sig från att radera bilder i appen Bilder?
     a: >-
       I appen Bilder måste du markera varje bild för sig, det är lätt att trycka fel och

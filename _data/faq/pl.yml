@@ -9,11 +9,6 @@ items:
       zobaczysz ostateczny przegląd wszystkiego, co oznaczono do usunięcia, zanim
       cokolwiek zniknie. Dzięki temu porządkowanie tysięcy zdjęć staje się szybkie i,
       szczerze mówiąc, całkiem przyjemne.
-  - q: Czy Swipe2delete jest darmowe?
-    a: >-
-      Swipe2delete można pobrać i wypróbować za darmo. Premium odblokowuje nieograniczone
-      porządkowanie, do wyboru w formie subskrypcji lub jednorazowego zakupu dożywotniego.
-      Nie musisz więc wiązać się stałą opłatą, aby utrzymać porządek w rolce aparatu.
   - q: Czy mogę odzyskać zdjęcia usunięte przez przypadek?
     a: >-
       Tak, i to na dwa sposoby. W aplikacji stuknij cofnij, aby natychmiast przywrócić
@@ -57,6 +52,11 @@ items:
       tylko masz wolną chwilę. Postęp zapisuje się dla każdego miesiąca, koło postępu
       pokazuje, ile już za Tobą, a funkcja **W tym dniu** przywołuje zdjęcia z minionych
       lat, dzięki czemu porządek obejmie też stare zaległości.
+  - q: Czy Swipe2delete jest darmowe?
+    a: >-
+      Swipe2delete można pobrać i wypróbować za darmo. Premium odblokowuje nieograniczone
+      porządkowanie, do wyboru w formie subskrypcji lub jednorazowego zakupu dożywotniego.
+      Nie musisz więc wiązać się stałą opłatą, aby utrzymać porządek w rolce aparatu.
   - q: Czym to się różni od usuwania zdjęć w aplikacji Zdjęcia?
     a: >-
       W aplikacji Zdjęcia trzeba zaznaczać każde zdjęcie osobno, łatwo stuknąć nie to, co

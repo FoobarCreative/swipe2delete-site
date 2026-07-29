@@ -752,6 +752,11 @@ footer {
 		display: none !important;
 	}
 
+	// Room below the content so the page bottom clears the iPhone home indicator
+	.page {
+		padding-bottom: 80px;
+	}
+
 	.headerBackground {
 		height: 0 !important;
 		min-height: 0 !important;

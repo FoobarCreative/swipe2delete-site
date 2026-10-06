@@ -31,12 +31,10 @@
                             <img class="appIconLarge" src="{{ site.app_icon | relative_url }}">
                         </div>
                         <div class="appNamePriceContainer">
+                            {% assign hero_subtitle = t.app_subtitle | default: site.app_subtitle %}
                             <h1 class="appName">
-                                {{ site.app_name }}
+                                {{ site.app_name }}{% if hero_subtitle %}<span class="appHeadline">{{ hero_subtitle }}</span>{% endif %}
                             </h1>
-                            <h2 class="appPrice">
-                                {{ t.app_subtitle | default: site.app_subtitle }}
-                            </h2>
                             <!-- <h2 class="appPrice">
                                 {{ site.app_price }}
                             </h2> -->

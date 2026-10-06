@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ
+seo_title: "الأسئلة الشائعة"
 description: "إجابات عن الأسئلة الشائعة حول Swipe2delete: كيف يعمل حذف الصور بالسحب، واستعادة الصور المحذوفة، وتحرير مساحة التخزين على iPhone وفي iCloud، والخصوصية، والأسعار."
 lang: ar
 translated: true

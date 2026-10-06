@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ
+seo_title: "Soalan Lazim"
 description: "Jawapan kepada soalan lazim tentang Swipe2delete: cara leret untuk memadam foto berfungsi, memulihkan foto yang dipadam, membebaskan storan iPhone dan iCloud, privasi, dan harga."
 lang: ms
 translated: true

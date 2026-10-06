@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ
+seo_title: "Gyakran ismételt kérdések"
 description: "Válaszok a Swipe2delete-tel kapcsolatos gyakori kérdésekre: hogyan működik a fotók törlése húzással, törölt fotók visszaállítása, iPhone és iCloud tárhely felszabadítása, adatvédelem és árak."
 lang: hu
 translated: true

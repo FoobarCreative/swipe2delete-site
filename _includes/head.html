@@ -7,7 +7,8 @@
 	{% assign i18n = site.data.i18n[page.lang] %}
 	{% assign localized_title = i18n.page_title | default: site.page_title %}
 	{% assign localized_description = i18n.app_description | default: site.app_description %}
-	<title class="pageTitle">{% if page.title %}{{ page.title }} · {{ site.app_name }}{% else %}{{ localized_title }}{% endif %}</title>
+	{% assign page_heading = page.seo_title | default: page.title %}
+	<title class="pageTitle">{% if page_heading %}{{ page_heading }} · {{ site.app_name }}{% else %}{{ localized_title }}{% endif %}</title>
 	<meta name="description" content="{{ page.description | default: localized_description | strip_newlines | strip }}">
 	<link rel="canonical" href="{{ page.url | absolute_url }}">
 	{% if page.translated %}
@@ -36,7 +37,7 @@
 	{% endif %}
 
 	<!-- Open Graph -->
-	<meta property="og:title" content="{{ page.og_title | default: localized_title }}">
+	<meta property="og:title" content="{{ page.og_title | default: page_heading | default: localized_title }}">
 	<meta property="og:description" content="{{ page.og_description | default: localized_description | strip_newlines | strip }}">
 	<meta property="og:url" content="{{ page.url | absolute_url }}">
 	<meta property="og:type" content="{{ page.og_type | default: 'website' }}">
@@ -47,7 +48,7 @@
 	<!-- Twitter Card tags -->
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@{{ site.twitter_username }}">
-	<meta name="twitter:title" content="{{ page.og_title | default: localized_title }}">
+	<meta name="twitter:title" content="{{ page.og_title | default: page_heading | default: localized_title }}">
 	<meta name="twitter:description" content="{{ page.og_description | default: localized_description | strip_newlines | strip }}">
 	<meta name="twitter:image" content="{{ page.og_image | default: site.og_image | absolute_url }}">
 	<meta name="twitter:image:alt" content="{{ page.og_image_alt | default: 'Swipe2delete - Clean up your camera roll' }}">

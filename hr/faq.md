@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ
+seo_title: "Često postavljana pitanja"
 description: "Odgovori na česta pitanja o aplikaciji Swipe2delete: kako radi brisanje fotografija povlačenjem, vraćanje izbrisanih fotografija, oslobađanje prostora na iPhoneu i u iCloudu, privatnost i cijene."
 lang: hr
 translated: true

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ
+seo_title: "คำถามที่พบบ่อย"
 description: "คำตอบสำหรับคำถามที่พบบ่อยเกี่ยวกับ Swipe2delete ตั้งแต่การปัดเพื่อลบรูปภาพ การกู้คืนรูปที่ลบไป การเพิ่มพื้นที่ว่างบน iPhone และ iCloud ไปจนถึงความเป็นส่วนตัวและราคา"
 lang: th
 translated: true

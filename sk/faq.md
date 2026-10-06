@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ
+seo_title: "Časté otázky"
 description: "Odpovede na časté otázky o Swipe2delete: ako funguje mazanie fotiek potiahnutím prstom, obnovenie vymazaných fotiek, uvoľnenie úložiska na iPhone a v iCloude, súkromie a ceny."
 lang: sk
 translated: true

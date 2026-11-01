@@ -20,3 +20,6 @@ features:
     description: Mielőtt végeznél, még egyszer átnézheted a megtartott és törölt fotókat, és az utolsó pillanatban is módosíthatsz.
   - title: Haladáskövetés
     description: Kövesd a takarítást a haladási kerékkel. Megmutatja, mennyit rendszereztél már és mennyi van hátra.
+footer_product: "Termék"
+footer_guides: "Útmutatók"
+footer_company: "Cég"

@@ -20,3 +20,6 @@ features:
     description: Înainte să termini, arunci o ultimă privire la pozele păstrate și șterse, cu posibilitatea de a schimba ceva în ultimul moment.
   - title: Urmărirea progresului
     description: Urmărește curățenia cu roata de progres. Îți arată cât ai sortat și cât a mai rămas.
+footer_product: "Produs"
+footer_guides: "Ghiduri"
+footer_company: "Companie"

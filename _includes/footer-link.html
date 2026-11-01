@@ -1,0 +1,15 @@
+{%- comment -%}
+Footer link that prefers the localized copy of a page when one exists.
+Usage: {% include footer-link.html url="/faq" label="FAQ" %}
+{%- endcomment -%}
+{%- assign fl_url = include.url -%}
+{%- assign fl_label = include.label -%}
+{%- if page.lang -%}
+  {%- capture fl_local_url %}/{{ page.lang }}{{ include.url }}{% endcapture -%}
+  {%- assign fl_local = site.html_pages | where: "url", fl_local_url | first -%}
+  {%- if fl_local -%}
+    {%- assign fl_url = fl_local.url -%}
+    {%- assign fl_label = fl_local.short_title | default: fl_local.title -%}
+  {%- endif -%}
+{%- endif -%}
+<li><a href="{{ fl_url | relative_url }}" target="_self">{{ fl_label }}</a></li>

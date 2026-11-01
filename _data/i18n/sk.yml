@@ -20,3 +20,6 @@ features:
     description: Skôr než skončíte, uvidíte ešte raz všetky fotky, ktoré si nechávate aj mažete, a môžete na poslednú chvíľu čokoľvek zmeniť.
   - title: Sledovanie postupu
     description: Majte prehľad o svojom upratovaní vďaka koliesku postupu. Ukazuje, koľko už máte za sebou a čo ešte zostáva.
+footer_product: "Produkt"
+footer_guides: "Návody"
+footer_company: "Spoločnosť"

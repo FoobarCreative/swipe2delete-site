@@ -20,3 +20,6 @@ features:
     description: Trước khi hoàn tất, bạn sẽ xem lại toàn bộ ảnh giữ và ảnh xóa, thoải mái thay đổi vào phút chót.
   - title: Theo dõi tiến độ
     description: Vòng tròn tiến độ cho bạn thấy đã dọn được bao nhiêu và còn lại bao nhiêu, hành trình dọn dẹp luôn rõ ràng.
+footer_product: "Sản phẩm"
+footer_guides: "Hướng dẫn"
+footer_company: "Công ty"

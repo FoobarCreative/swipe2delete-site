@@ -36,7 +36,7 @@ A swipe-to-sort organizer with a twist: instead of deleting straight away, swipi
 
 ## 5. Swipe2delete (that's us)
 
-[Swipe2delete]({{ site.appstore_link | replace: 'ct=website', 'ct=roundup' }}) does the core job the same way you'd expect: swipe left to delete, right to keep, one month at a time, with an undo button and a final review before anything is deleted. **On This Day** resurfaces photos from past years so old clutter gets dealt with too. Over 27 million photos deleted so far.
+[Swipe2delete]({{ site.appstore_link | replace: 'ct=website', 'ct=roundup' }}) does the core job the same way you'd expect: swipe left to delete, right to keep, one month at a time, with an undo button and a final review before anything is deleted. **On This Day** resurfaces photos from past years so old clutter gets dealt with too. Over 34 million photos deleted so far.
 
 The honest pitch for choosing ours: **you can pay for it once.** Swipe2delete is free to try, and Premium is available as a subscription or a single lifetime purchase. Cleaning your camera roll is an occasional job, and we don't think it should be a permanent line item on your credit card. It's also still built and supported by a small indie studio in Adelaide, Australia.
 

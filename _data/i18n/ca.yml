@@ -20,3 +20,6 @@ features:
     description: Abans d'acabar, fes una última ullada a les fotos que conserves i esborres, amb marge per a canvis d'última hora.
   - title: Seguiment del progrés
     description: Controla la teva neteja amb la roda de progrés, que mostra quant has repassat i quant et queda.
+footer_product: "Producte"
+footer_guides: "Guies"
+footer_company: "Empresa"

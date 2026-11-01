@@ -20,3 +20,6 @@ features:
     description: Zanim skończysz, zobaczysz jeszcze raz wszystkie zdjęcia, które zachowujesz i usuwasz, z możliwością zmian w ostatniej chwili.
   - title: Śledzenie postępu
     description: Miej porządki pod kontrolą dzięki kołu postępu, które pokazuje, ile już za Tobą i ile jeszcze zostało.
+footer_product: "Produkt"
+footer_guides: "Poradniki"
+footer_company: "Firma"

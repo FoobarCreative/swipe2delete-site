@@ -20,3 +20,6 @@ features:
     description: Prima di finire, dai un ultimo sguardo alle foto che conservi ed elimini, con la possibilità di cambiare idea all'ultimo momento.
   - title: Avanzamento
     description: Tieni d'occhio la tua pulizia con la ruota di avanzamento, che mostra quanto hai già sistemato e cosa manca.
+footer_product: "Prodotto"
+footer_guides: "Guide"
+footer_company: "Azienda"

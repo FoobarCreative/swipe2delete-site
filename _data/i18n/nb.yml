@@ -20,3 +20,6 @@ features:
     description: Før du er ferdig, får du et siste blikk på bildene du beholder og sletter, så du kan ombestemme deg i siste liten.
   - title: Fremdriftshjul
     description: Hold oversikt over oppryddingen med fremdriftshjulet, som viser hvor mye du har gått gjennom og hva som gjenstår.
+footer_product: "Produkt"
+footer_guides: "Guider"
+footer_company: "Selskap"

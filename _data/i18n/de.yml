@@ -20,3 +20,6 @@ features:
     description: Bevor du fertig bist, siehst du noch einmal alle Fotos, die du behältst und löschst, und kannst in letzter Sekunde etwas ändern.
   - title: Fortschrittsanzeige
     description: Behalte deinen Fortschritt mit dem Fortschrittsrad im Blick. Es zeigt dir, wie viel du schon geschafft hast und was noch übrig ist.
+footer_product: "Produkt"
+footer_guides: "Anleitungen"
+footer_company: "Unternehmen"

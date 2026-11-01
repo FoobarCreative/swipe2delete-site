@@ -20,3 +20,6 @@ features:
     description: Bitirməzdən əvvəl saxladığınız və sildiyiniz şəkillərə son dəfə nəzər salın, son anda dəyişiklik etmək imkanınız olsun.
   - title: İrəliləyiş izləyicisi
     description: Təmizlik prosesini irəliləyiş çarxı ilə izləyin. O, nə qədər baxdığınızı və nə qədər qaldığını göstərir.
+footer_product: "Məhsul"
+footer_guides: "Bələdçilər"
+footer_company: "Şirkət"

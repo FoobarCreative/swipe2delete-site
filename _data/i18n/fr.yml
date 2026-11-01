@@ -20,3 +20,6 @@ features:
     description: Avant de terminer, jetez un dernier coup d'œil aux photos gardées et supprimées, avec la possibilité de changer d'avis au dernier moment.
   - title: Suivi de progression
     description: Suivez votre grand ménage grâce à la roue de progression, qui montre ce que vous avez déjà trié et ce qu'il reste à faire.
+footer_product: "Produit"
+footer_guides: "Guides"
+footer_company: "Entreprise"

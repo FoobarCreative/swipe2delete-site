@@ -20,3 +20,6 @@ features:
     description: Voordat je klaar bent, zie je nog één keer alle foto's die je bewaart en verwijdert, zodat je op het laatste moment nog iets kunt aanpassen.
   - title: Voortgang bijhouden
     description: Houd je voortgang in de gaten met het voortgangswiel. Zo zie je hoeveel je al hebt gedaan en wat er nog overblijft.
+footer_product: "Product"
+footer_guides: "Gidsen"
+footer_company: "Bedrijf"

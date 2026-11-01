@@ -20,3 +20,6 @@ features:
     description: Antes de terminar, echa un último vistazo a las fotos que conservas y borras, con margen para cambios de última hora.
   - title: Seguimiento del progreso
     description: Controla tu limpieza con la rueda de progreso, que muestra cuánto has revisado y cuánto te queda.
+footer_product: "Producto"
+footer_guides: "Guías"
+footer_company: "Empresa"

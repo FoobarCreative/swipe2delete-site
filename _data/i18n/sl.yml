@@ -20,3 +20,6 @@ features:
     description: Preden končate, si še zadnjič oglejte fotografije, ki jih obdržite in izbrišete, z možnostjo sprememb v zadnjem trenutku.
   - title: Sledenje napredku
     description: Spremljajte svoje čiščenje s kolesom napredka, ki prikazuje, koliko ste že pregledali in koliko vam še ostane.
+footer_product: "Izdelek"
+footer_guides: "Vodniki"
+footer_company: "Podjetje"

@@ -20,3 +20,6 @@ features:
     description: 仕上げの前に、残す写真と削除する写真をもう一度確認。最後の最後まで変更できます。
   - title: 進捗トラッカー
     description: 進捗ホイールで、どこまで整理できたか、あとどれくらい残っているかがひと目でわかります。
+footer_product: "製品"
+footer_guides: "ガイド"
+footer_company: "会社"

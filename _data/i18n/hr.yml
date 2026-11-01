@@ -20,3 +20,6 @@ features:
     description: Prije kraja bacite posljednji pogled na fotografije koje zadržavate i brišete, uz mogućnost izmjena u zadnji tren.
   - title: Praćenje napretka
     description: Pratite čišćenje kotačem napretka koji pokazuje koliko ste prošli i što je preostalo.
+footer_product: "Proizvod"
+footer_guides: "Vodiči"
+footer_company: "Tvrtka"

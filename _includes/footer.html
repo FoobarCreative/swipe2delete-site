@@ -1,7 +1,42 @@
+{% assign ft = site.data.i18n[page.lang] %}
 <footer>
-	{% if site.your_name %}
-	<p class="footerText">Made by {% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.your_name }}{% if site.your_link %}</a>{% endif %}{% if site.your_city %} in {{ site.your_city }}{% endif %}</p>
-	{% endif %}
+	<div class="footerGrid">
+		<div class="footerBrand">
+			<img class="footerIcon" src="{{ site.app_icon | relative_url }}" alt="" width="56" height="56" loading="lazy">
+			<p class="footerBrandName">{{ site.app_name }}</p>
+			<p class="footerTagline">{{ ft.app_subtitle | default: site.app_subtitle }}</p>
+			<a class="appStoreLink" href="{{ site.appstore_link | replace: 'ct=website', 'ct=footer' }}"><img class="appStore" src="{{ '/assets/appstore.png' | relative_url }}" alt="Download on the App Store" loading="lazy"></a>
+		</div>
+
+		<nav class="footerCol" aria-labelledby="footer-product">
+			<h3 id="footer-product">{{ ft.footer_product | default: 'Product' }}</h3>
+			<ul>
+				{% include footer-link.html url="/faq" label="FAQ" %}
+				{% include footer-link.html url="/swipewipe-alternative" label="Best swipe photo cleaner apps" %}
+				{% include footer-link.html url="/press-kit" label="Press Kit" %}
+			</ul>
+		</nav>
+
+		<nav class="footerCol" aria-labelledby="footer-guides">
+			<h3 id="footer-guides">{{ ft.footer_guides | default: 'Guides' }}</h3>
+			<ul>
+				{% assign footer_guides = site.guides | sort: "date" | reverse %}
+				{% for guide in footer_guides %}
+					{% include footer-link.html url=guide.url label=guide.short_title %}
+				{% endfor %}
+			</ul>
+		</nav>
+
+		<nav class="footerCol" aria-labelledby="footer-company">
+			<h3 id="footer-company">{{ ft.footer_company | default: 'Company' }}</h3>
+			<ul>
+				<li><a href="{{ site.your_link }}">{{ site.your_name }}</a></li>
+				{% include footer-link.html url="/contact" label="Contact" %}
+				{% include footer-link.html url="/privacy-policy" label="Privacy Policy" %}
+			</ul>
+		</nav>
+	</div>
+
 	<div class="footerIcons">
 
 		{% if site.tiktok_username %}
@@ -68,14 +103,10 @@
 		{% endif %}
 
 	</div>
-	<div class="footerLinks">
-		{% assign cur_lang = page.lang %}
-		{% for p in site.pages %}
-			{% if p.include_in_footer == true %}
-				<a href="{% if cur_lang and p.localized %}/{{ cur_lang }}{% endif %}{{ p.url | relative_url }}" target="_self">{{ p.title }}</a>
-			{% endif %}
-		{% endfor %}
-			<a href="https://foobarcreative.com">Foobar Creative</a>
-	</div>
+
 	{% include locale-switcher.html %}
+
+	{% if site.your_name %}
+	<p class="footerText">&copy; {{ site.time | date: "%Y" }} {% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.your_name }}{% if site.your_link %}</a>{% endif %}.{% if site.your_city %} Made in {{ site.your_city }}.{% endif %}</p>
+	{% endif %}
 </footer>

@@ -20,3 +20,6 @@ features:
     description: Sebelum selesai, lihat sekali lagi foto yang akan disimpan dan dihapus, jadi Anda masih bisa berubah pikiran di saat terakhir.
   - title: Pelacak Progres
     description: Pantau perjalanan bersih-bersih Anda dengan roda progres yang menunjukkan seberapa banyak yang sudah dipilah dan apa yang tersisa.
+footer_product: "Produk"
+footer_guides: "Panduan"
+footer_company: "Perusahaan"

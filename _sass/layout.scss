@@ -622,6 +622,96 @@ footer {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
+	border-top: 1px solid rgba($footer-text-color, 0.15);
+	margin-top: 40px;
+}
+
+// Sitemap-style footer: brand column plus three link columns
+.footerGrid {
+	display: grid;
+	grid-template-columns: 1.6fr 1fr 1fr 1fr;
+	gap: 40px;
+	width: 100%;
+	padding: 70px 0 50px;
+	text-align: left;
+	color: $footer-text-color;
+
+	h3 {
+		font-size: 1.4rem;
+		font-weight: 600;
+		letter-spacing: 0.04em;
+		text-transform: uppercase;
+		color: $footer-text-color;
+		margin: 0 0 18px;
+	}
+
+	ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	li {
+		margin: 0 0 12px;
+		line-height: 1.4;
+	}
+
+	a {
+		color: $accent-color;
+		text-decoration: none;
+	}
+
+	a:hover {
+		text-decoration: underline;
+	}
+
+	// The header nav rules (nav>ul) paint links white and lay them out in a row; undo that here
+	.footerCol > ul {
+		display: block;
+		color: inherit;
+	}
+
+	.footerCol > ul li {
+		padding: 0;
+	}
+
+	.footerCol > ul li a:link,
+	.footerCol > ul li a:visited {
+		color: $accent-color;
+	}
+
+	.footerCol > ul li a:hover,
+	.footerCol > ul li a:active {
+		color: $accent-color;
+		text-decoration: underline;
+	}
+}
+
+.footerBrand {
+	.footerIcon {
+		width: 56px;
+		height: 56px;
+		border-radius: 13px;
+		display: block;
+		margin-bottom: 14px;
+	}
+
+	.footerBrandName {
+		font-weight: 600;
+		font-size: 1.8rem;
+		margin: 0 0 6px;
+		color: $feature-title-color;
+	}
+
+	.footerTagline {
+		margin: 0 0 20px;
+		line-height: 1.5;
+		max-width: 320px;
+	}
+
+	.appStore {
+		height: 44px;
+	}
 }
 
 .footerText {
@@ -630,29 +720,16 @@ footer {
 	line-height: 1.5;
 	width: 100%;
 	text-align: center;
-	padding-top: 70px;
-	padding-bottom: 70px;
+	padding-top: 0;
+	padding-bottom: 50px;
+	font-size: 0.85em;
 }
 
 .footerIcons {
-	padding-bottom: 70px;
+	padding-bottom: 20px;
 	display: flex;
 	flex: 0 0 100%;
 	justify-content: center;
-}
-
-.footerLinks {
-	display: flex;
-	text-align: center;
-	padding-bottom: 70px;
-}
-
-.footerLinks a {
-	margin-right: 30px;
-}
-
-.footerLinks a:last-child {
-	margin-right: 0px;
 }
 
 // Language picker (collapsed by default; pure HTML details element, no JS)
@@ -660,8 +737,8 @@ footer {
 .localePicker {
 	width: 100%;
 	max-width: 720px;
-	margin: 40px auto 0;
-	padding-bottom: 70px;
+	margin: 20px auto 0;
+	padding-bottom: 40px;
 	font-size: 0.85em;
 	text-align: center;
 
@@ -717,42 +794,25 @@ footer {
 }
 
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 992px) {
 
-	.footerLinks {
-		flex-direction: column;
+	.footerGrid {
+		grid-template-columns: 1fr 1fr;
+		gap: 36px 24px;
+		padding: 54px 20px 40px;
 	}
 
-	.footerLinks a {
-		justify-content: stretch;
-		margin-right: 0px;
-		margin-top: 20px;
+	.footerBrand {
+		grid-column: 1 / -1;
 	}
-
-	.footerLinks a:first-child {
-		margin-top: 0px;
-	}	
-
 }
 
-@media only screen and (max-width: 992px) {
-	
-	.footerText {
-		color: $footer-text-color;
-		display: block;
-		line-height: 1.5;
-		width: 100%;
-		text-align: center;
-		padding-top: 54px;
-		padding-bottom: 61px;
+@media only screen and (max-width: 480px) {
+
+	.footerGrid {
+		grid-template-columns: 1fr;
 	}
-	
-	.footerIcons {
-		padding-bottom: 70px;
-		display: flex;
-	}
-	
-} 
+}
 
 .hidden {
 	display: none;

@@ -20,3 +20,6 @@ features:
     description: Prieš baigdami dar kartą peržiūrėkite, kurias nuotraukas paliekate ir kurias trinate, ir prireikus pakeiskite sprendimą paskutinę akimirką.
   - title: Pažangos sekimas
     description: Stebėkite savo tvarkymąsi pažangos rate, kuris rodo, kiek jau peržiūrėjote ir kiek liko.
+footer_product: "Produktas"
+footer_guides: "Gidai"
+footer_company: "Įmonė"

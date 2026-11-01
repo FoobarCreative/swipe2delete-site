@@ -20,3 +20,6 @@ features:
     description: Innan du är klar får du en sista titt på alla bilder du behåller och raderar, så att du kan ändra dig i sista stund.
   - title: Framstegshjul
     description: Håll koll på dina framsteg med framstegshjulet. Det visar hur mycket du har gått igenom och vad som återstår.
+footer_product: "Produkt"
+footer_guides: "Guider"
+footer_company: "Företag"

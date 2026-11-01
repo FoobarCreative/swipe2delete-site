@@ -20,3 +20,6 @@ features:
     description: Ennen kuin olet valmis, näet vielä kerran kaikki säilytettävät ja poistettavat kuvat ja voit tehdä muutoksia viime hetkellä.
   - title: Edistymisen seuranta
     description: Pysy kärryillä siivouksesta edistymisympyrän avulla. Se näyttää, kuinka paljon olet jo käynyt läpi ja mitä on jäljellä.
+footer_product: "Tuote"
+footer_guides: "Oppaat"
+footer_company: "Yritys"

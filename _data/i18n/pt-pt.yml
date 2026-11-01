@@ -20,3 +20,6 @@ features:
     description: Antes de terminar, veja uma última vez as fotos que vai manter e apagar, com margem para mudanças de última hora.
   - title: Acompanhamento do progresso
     description: Acompanhe a sua limpeza com a roda de progresso, que mostra quanto já reviu e o que ainda falta.
+footer_product: "Produto"
+footer_guides: "Guias"
+footer_company: "Empresa"

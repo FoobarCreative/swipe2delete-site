@@ -20,3 +20,6 @@ features:
     description: 完成前再看一眼要保留和要删除的照片，最后一刻也能随时更改。
   - title: 进度追踪
     description: 进度轮清晰展示你已经整理了多少、还剩多少，清理进程一目了然。
+footer_product: "产品"
+footer_guides: "指南"
+footer_company: "公司"

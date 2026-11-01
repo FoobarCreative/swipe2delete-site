@@ -20,3 +20,6 @@ features:
     description: Inden du er færdig, får du et sidste kig på de fotos, du beholder og sletter, så du kan nå at ændre mening i sidste øjeblik.
   - title: Fremgangshjul
     description: Hold styr på din oprydning med fremgangshjulet, der viser, hvor meget du har været igennem, og hvad der mangler.
+footer_product: "Produkt"
+footer_guides: "Guides"
+footer_company: "Virksomhed"

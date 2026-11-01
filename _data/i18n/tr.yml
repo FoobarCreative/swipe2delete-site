@@ -20,3 +20,6 @@ features:
     description: Bitirmeden önce sakladığınız ve sildiğiniz fotoğraflara son bir kez bakın, son dakika değişiklikleri yapın.
   - title: İlerleme Takibi
     description: Temizlik yolculuğunuzu ilerleme çarkıyla takip edin. Ne kadarını tamamladığınızı ve ne kaldığını gösterir.
+footer_product: "Ürün"
+footer_guides: "Rehberler"
+footer_company: "Şirket"

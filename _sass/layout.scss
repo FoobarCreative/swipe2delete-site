@@ -635,9 +635,10 @@ footer {
 	padding: 70px 0 50px;
 	text-align: left;
 	color: $footer-text-color;
+	font-size: 1.6rem;
 
 	h3 {
-		font-size: 1.4rem;
+		font-size: 1.2rem;
 		font-weight: 600;
 		letter-spacing: 0.04em;
 		text-transform: uppercase;
@@ -698,7 +699,7 @@ footer {
 
 	.footerBrandName {
 		font-weight: 600;
-		font-size: 1.8rem;
+		font-size: 1.6rem;
 		margin: 0 0 6px;
 		color: $feature-title-color;
 	}

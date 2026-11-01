@@ -660,7 +660,7 @@ footer {
 .localePicker {
 	width: 100%;
 	max-width: 720px;
-	margin: 0 auto;
+	margin: 40px auto 0;
 	padding-bottom: 70px;
 	font-size: 0.85em;
 	text-align: center;
@@ -687,6 +687,11 @@ footer {
 
 	&[open] summary::after {
 		content: " ▴";
+	}
+
+	// github-markdown.scss sets .markdown-body summary to list-item, which stretches the pill full width on sub pages
+	.markdown-body & summary {
+		display: inline-block;
 	}
 
 	.localePickerList {

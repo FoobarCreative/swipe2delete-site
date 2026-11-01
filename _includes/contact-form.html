@@ -1,0 +1,64 @@
+{% assign c_lang = page.lang | default: 'en' %}
+{% assign c = site.data.contact[c_lang] | default: site.data.contact['en'] %}
+{% assign c_i18n = site.data.i18n[page.lang] %}
+<h1>{{ c.title }}</h1>
+<p id="contact-intro">{{ c.intro }}</p>
+
+<form action="https://formspree.io/f/{{ site.formspree_form_id }}" method="POST" target="_self" id="contact-form">
+<div class="form-group row">
+<div class="col-md-6">
+<input class="form-control" type="text" name="name" placeholder="{{ c.name }}*" required>
+</div>
+<div class="col-md-6">
+<input class="form-control" type="email" name="_replyto" placeholder="{{ c.email }}*" required>
+</div>
+</div>
+
+<textarea rows="8" class="form-control mb-3" name="message" placeholder="{{ c.message }}*" required></textarea>
+<input type="hidden" name="_subject" id="contact-subject" value="{{ site.app_name | default: 'Swipe2delete' }} website contact">
+<input type="hidden" name="_language" value="{{ c_i18n.hreflang | default: 'en' }}">
+<input type="hidden" name="lang" id="contact-lang" value="{{ c_lang }}">
+<div id="contact-diagnostics" hidden></div>
+<p class="text-muted small mb-3" id="diag-note" hidden></p>
+<input class="btn btn-dark" type="submit" value="{{ c.send }}">
+</form>
+
+<script>
+(function () {
+  // The app opens this page as /contact?source=review_ask&app=...&version=...&device=...&ios=...&install_id=...&rcid=...&lang=...
+  // Each value present is posted as a hidden field with the same name, so support keeps the device info and IDs.
+  var params = new URLSearchParams(window.location.search);
+  function clean(key, max) {
+    var v = params.get(key);
+    if (!v) { return ''; }
+    return v.replace(/[^\w .,:$()+-]/g, '').trim().slice(0, max);
+  }
+  var fields = [['source', 40], ['app', 60], ['version', 40], ['device', 40], ['ios', 20], ['install_id', 64], ['rcid', 80]];
+  var holder = document.getElementById('contact-diagnostics');
+  var values = {};
+  fields.forEach(function (f) {
+    var v = clean(f[0], f[1]);
+    if (!v) { return; }
+    values[f[0]] = v;
+    var input = document.createElement('input');
+    input.type = 'hidden';
+    input.name = f[0];
+    input.value = v;
+    holder.appendChild(input);
+  });
+  var lang = clean('lang', 10);
+  if (lang) { document.getElementById('contact-lang').value = lang; }
+  if (values.app || values.source) {
+    document.getElementById('contact-subject').value =
+      (values.app || '{{ site.app_name | default: "Swipe2delete" }}') + ' support request' + (values.source ? ' (' + values.source + ')' : '');
+  }
+  var summary = [];
+  if (values.version) { summary.push('v' + values.version); }
+  if (values.device) { summary.push(values.device); }
+  if (values.ios) { summary.push('iOS ' + values.ios); }
+  if (!summary.length && !values.install_id && !values.rcid) { return; }
+  var note = document.getElementById('diag-note');
+  note.textContent = {{ c.diag_note | jsonify }} + (summary.length ? ': ' + summary.join(', ') : '') + '.';
+  note.hidden = false;
+})();
+</script>

@@ -822,7 +822,8 @@ footer {
 // In-app view: ?inapp=true strips the site chrome for pages shown inside the iOS app
 .in-app-view {
 
-	header {
+	header,
+	body > div > .container > footer {
 		display: none !important;
 	}
 
